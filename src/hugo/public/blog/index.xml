@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on robinbb</title>
+    <link>https://robinbb.github.io/blog/</link>
+    <description>Recent content in Articles on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://robinbb.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Measuring Engagement of your Software Team</title>
+      <link>https://robinbb.github.io/blog/measuring-engagement/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.github.io/blog/measuring-engagement/</guid>
+      <description>&lt;p&gt;You should care about the degree of engagement of your team.
+Engagement is a powerful determinant of performance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test-Driven Development of Dev Environments</title>
+      <link>https://robinbb.github.io/blog/tdd-dev-environment/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.github.io/blog/tdd-dev-environment/</guid>
+      <description>&lt;p&gt;This post shows how to create a &lt;code&gt;direnv&lt;/code&gt;-based dev environment using
+test-driven development.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
