@@ -1,0 +1,6 @@
+#! /bin/sh
+
+MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
+
+(cd "$MY_DIR" && git submodule update --init)
+(cd "$MY_DIR"/hugo && hugo)

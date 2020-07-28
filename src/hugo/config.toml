@@ -1,0 +1,40 @@
+baseURL = "https://robinbb.github.io/"
+languageCode = "en-us"
+title = "robinbb"
+theme = "ananke"
+
+# MetaDataFormat = "yaml"
+# DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# googleAnalytics = ""
+# enableRobotsTXT = true
+# 
+# [sitemap]
+#   changefreq = "monthly"
+#   priority = 0.5
+#   filename = "sitemap.xml"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  featured_image = "/images/robinbb-cover-photo-books.jpg"
+  twitter = "https://twitter.com/robinbateboerop"
+  github = "https://github.com/robinbb"
+  linkedin = "https://www.linkedin.com/in/robinbb/"
+#   description = "The last theme you'll ever need. Maybe."
+#   recent_posts_number = 2
+#   favicon = ""
+#   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+#   background_color_class = "bg-black"
+#   site_logo = ""
+#   facebook = ""
+#   instagram = ""
+#   youtube = ""
+#   gitlab = ""
+#   mastodon = ""
+#   slack = ""
+#   stackoverflow = ""
+#   rss = ""
