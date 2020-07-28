@@ -1,14 +1,14 @@
 #! /usr/bin/env bash
-set -x
+
 set -euo pipefail
 
 echo "Ensuring 'grep' is present..."
 command -v grep > /dev/null
 echo "... 'grep' is present."
 echo
-echo "Ensuring 'hugo' is of the correct version..."
+HUGO_DESIRED_VERSION="v0.64.0"
+echo "Ensuring 'hugo' is of the correct version ($HUGO_DESIRED_VERSION)..."
 HUGO_OUTPUT="$(hugo version)"
 echo "$HUGO_OUTPUT"
-HUGO_DESIRED_VERSION="v0.64.0"
-echo "$HUGO_OUTPUT" | grep "Hugo Static Site Generator $HUGO_DESIRED_VERSION"
+echo "$HUGO_OUTPUT" | grep "Hugo Static Site Generator $HUGO_DESIRED_VERSION" >/dev/null
 echo "... 'hugo' version is correct."
