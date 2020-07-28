@@ -7,6 +7,8 @@ command -v grep > /dev/null
 echo "... 'grep' is present."
 echo
 echo "Ensuring 'hugo' is of the correct version..."
-HUGO_VERSION="v0.64.0"
-hugo version | grep "Hugo Static Site Generator $HUGO_VERSION"
+HUGO_OUTPUT="$(hugo version)"
+echo "$HUGO_OUTPUT"
+HUGO_DESIRED_VERSION="v0.64.0"
+echo "$HUGO_OUTPUT" | grep "Hugo Static Site Generator $HUGO_DESIRED_VERSION"
 echo "... 'hugo' version is correct."
