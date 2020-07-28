@@ -2,9 +2,11 @@
 
 set -euo pipefail
 
-# Ensure `grep` is present.
-
+echo "Ensuring 'grep' is present..."
 command -v grep > /dev/null
+echo "... done."
 
+echo "Ensuring 'hugo' is of the correct version..."
 HUGO_VERSION="v0.64.0"
-hugo version | grep "Hugo Static Site Generator $HUGO_VERSION" >/dev/null
+hugo version | grep "Hugo Static Site Generator $HUGO_VERSION"
+echo "... version is correct."
