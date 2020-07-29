@@ -9,12 +9,16 @@ test-driven development.
 
 <!--more-->
 
-First, [install `direnv`](https://direnv.net/#basic-installation) if it is not
-already installed.
+First, we [install `direnv`](https://direnv.net/#basic-installation) if it is
+not already installed.
 
 This will be the only prerequisite that we expect developers to have.
 
-Next, we create the `.envrc` file in the root of the repository:
+Using direnv makes the interface to the developer environment very simple: the
+developer just needs to `cd` to the root of the repo.
+
+For direnv to take any action, there must be an `.envrc` file in the root of
+the repository:
 
 ```shell
 # .envrc
@@ -30,7 +34,7 @@ If `direnv` is correctly installed and configured (did you remember to
 of this file, you will get an error message:
 
 ```
-direnv: error /home/robinbb/repos/robinbb/robinbb.github.io/.envrc is blocked. Run `direnv allow` to approve its content
+direnv: error /home/robinbb/repos/robinbb/blog/.envrc is blocked. Run `direnv allow` to approve its content
 ```
 
 This is a normal part of the direnv flow.

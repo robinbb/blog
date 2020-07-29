@@ -1,4 +1,4 @@
-baseURL = "https://robinbb.github.io/"
+baseURL = "https://blog.robinbb.com/"
 languageCode = "en-us"
 title = "robinbb"
 theme = "ananke"
