@@ -20,7 +20,7 @@ enableRobotsTXT = true
   category = "categories"
 
 [params]
-  featured_image = "/images/robinbb-cover-photo-books.jpg"
+  featured_image = "/images/robinbb-books-background-1.jpeg"
   twitter = "https://twitter.com/robinbateboerop"
   github = "https://github.com/robinbb"
   linkedin = "https://www.linkedin.com/in/robinbb/"

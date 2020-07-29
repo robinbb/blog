@@ -1,13 +1,12 @@
 ---
 title: "Motivation for Employee Engagement on Software Teams"
 date: "2020-07-27"
-draft: true
+draft: false
 ---
 
-# Motivation for Employee Engagement on Software Teams
-
-Why is it important for members of your software team to be engaged? Because it
-is morally right, and because engagement so directly affects the bottom line.
+It is important for members of your software team to be engaged for 2 reasons:
+Because it is morally right, and because engagement so positively affects your
+team's effectiveness.
 
 In 2016, in an exploration of the prediction of team success, Gallup performed
 [a pertinent meta analysis](https://www.gallup.com/workplace/236468/moneyball-business-employee-engagement-meta-analysis.aspx)
@@ -24,6 +23,6 @@ Engaged teams saw huge benefits over disengaged ones:
 Whatever else you might say about employee engagement, it is hard to argue
 against 21% more profit.
 
-By itself, that outcome is worth investing in.
+By itself, that makes your team's degree of engagement worth investing in.
 
 
