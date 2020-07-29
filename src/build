@@ -13,5 +13,7 @@ echo "Updating submodules..."
 echo "... submodules updated."
 echo
 echo "Invoking hugo..."
-(cd "$MY_DIR"/hugo && hugo)
+(cd "$MY_DIR"/hugo && HUGO_ENV='production' hugo)
+# ^ Setting HUGO_ENV=production is required to generate the robots.txt file and
+#   for enabling Google Analytics.
 echo "... done."
