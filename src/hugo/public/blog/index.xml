@@ -6,19 +6,22 @@
     <description>Recent content in Articles on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Measuring Engagement of your Software Team</title>
+      <title>Questions for Measuring Software Team Engagement</title>
       <link>https://blog.robinbb.com/blog/measuring-engagement/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/blog/measuring-engagement/</guid>
-      <description>&lt;p&gt;You should care about the degree of engagement of your team.
-Engagement is a powerful determinant of performance.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Engagement is a powerful determinant of team performance.  If you lead a
+software team, then you should care about its degree of engagement. Measure
+engagement to track and guide its improvement.&lt;/p&gt;
+&lt;p&gt;This post gives questions to use in a survey that measures engagement of your
+software team.&lt;/p&gt;</description>
     </item>
     
     <item>
