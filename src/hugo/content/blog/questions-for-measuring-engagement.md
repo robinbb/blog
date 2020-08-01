@@ -4,12 +4,12 @@ date: "2020-07-29"
 draft: false
 ---
 
-Engagement is a powerful determinant of team performance.  If you lead a
-software team, then you should care about its degree of engagement. Measure
-engagement to track and guide its improvement.
+Engagement is a powerful determinant of team performance. If you lead a
+software team, then consider measuring its degree of engagement. Measuring
+engagement will help you to improve it.
 
-This post gives questions to use in a survey that measures engagement of your
-software team.
+This article explains the language to use in carefully selected questions for
+the measurement of engagement of your software team.
 
 <!--more-->
 
@@ -19,17 +19,19 @@ They have tuned a 12-item questionnaire (called The Gallup Q12) to measure it.
 The Gallup Q12 has become the industry's gold standard for engagement.
 
 In 2016, Gallup posted a pertinent summary of its meta-analysis of employee
-engagement. I won't repeat the key 12 questions here, so please see the
+engagement, including the text for the 12 questions. I won't repeat the key 12
+questions here. Please see
 [that post](https://www.gallup.com/workplace/236468/moneyball-business-employee-engagement-meta-analysis.aspx)
 before continuing.
 
 Here, I explain how to better phrase those 12 survey questions for your
 software team.
 
-### The Term "At Work" Is Ambiguous
+
+### The Term "At Work" Is Now Ambiguous
 
 The phrase "at work" is used frequently in the Q12, but in the new world of
-work, the term is now ambiguous.
+work, the term is ambiguous.
 
 In the new world of work, work is not done uniquely for one company, nor is it
 done uniquely at the office.
