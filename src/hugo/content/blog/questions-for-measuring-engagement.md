@@ -8,8 +8,8 @@ Engagement is a powerful determinant of team performance. If you lead a
 software team, then consider measuring its degree of engagement. Measuring
 engagement will help you to improve it.
 
-This article explains the language to use in carefully selected questions for
-the measurement of engagement of your software team.
+This article recommends language to use in carefully selected questions for the
+measurement of engagement of your software team.
 
 <!--more-->
 

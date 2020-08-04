@@ -27,7 +27,9 @@ WFH table stakes:
 
 ### What is Leadership?
 
-Leadership is the practice of social influence, often in pursuit of a goal.
+Leadership is the practice of social influence. The function of leadership is
+to produce change. The skills of leadership are those required to produce that
+change.
 
 Leadership has nothing to do with seniority, title, or position in a company's
 hierarchy. One does not need a title to lead. Granted, a title gives one social
@@ -37,17 +39,24 @@ mean that one is doing so.
 Leadership is not the possession of any certain personal attributes. No
 specific personality characteristics are required to lead.
 
+#### Leadership versus Management
+
 Leadership and management are not the same thing. They are 2 distinct but
 complementary systems of action. Managers add structure and promote stability
 of work systems.  In contradiction, leaders press for change. Most companies
 are over-managed but under-led.
 
-Companies plan. Company management accomplishes the plan by setting goals,
-defining tasks to accomplish the goals, and allocating resources to the tasks.
-In contrast, company leadership sets the direction by developing a vision along
-with strategies for achieving that vision.
+Management plans, schedules, and budgets. Leadership sets direction and strategy.
 
-References for "What is Leadership?":
+Management organizes and staffs. Leadership aligns people.
+
+Management controls and problem solves. Leadership motivates and inspires.
+
+Note that leaders must be great communicators, great knowers of people. They
+must have emotional intelligence.
+Leaders must generate highly energized behaviour.
+
+#### References for "What is Leadership?":
 
 - ["What Leaders Really Do"](https://hbr.org/2001/12/what-leaders-really-do) by
   retired Harvard Business School professor John P. Kotter, in Harvard Business
@@ -63,6 +72,13 @@ effectiveness of your team.
 One way to measure team effectiveness is to use team engagement as a proxy.
 Engaged teams are 4 times more likely to be successful than disengaged ones.
 
+
+### The Skill of Leadership
+
+- Ability to acquire and analyze information required for constructing a vision.
+- Imagination for creating the vision.
+- The ability to communicate the vision.
+
 How to Lead Well
 
 - Daniel Goleman's ["What Makes a Leader" on HBR](https://hbr.org/2004/01/what-makes-a-leader)
@@ -71,12 +87,73 @@ How to Lead Well
   capabilities".
 - 
 
+## Remote Work Tips
+
+These are techniques for improving the day-to-day activities of leadership when
+they are being done in a work-from-home environment.
+
+Document the vision. Don't assume that it is shared between employees.
+
+Tip: the social activities required in a remote environment are the same,
+remote versus in-person.
+
 Tip: grant autonomy. Use ROWE.
+
+Tip: clarify expectations. Previous IRL interactions might have allowed for
+clarifying expectations "as you go". Now, they should be better defined and
+documented in advance.
+
+Tip: show by example how best to use the remote work tools (messaging, video
+calls, asynchronous work).
 
 Tip: recognize that the current pandemic is not "normal" working from home.
 Stress from non-work situation is much greater. Employers can help by
 minimizing stressors from work.
 
+Tip: don't be afraid of repeating communications that assist with your
+leadership. Being thought repetitive is better than employees becoming
+unaligned, disengaged, or otherwise under-led.
+
+Tip: conduct conversations so that group members can see that other group
+members are aligned, engaged, and share the vision.
 
 Tip: keep doing what previously worked (like measuring engagement), but expect
 inferior results.
+
+Tip: reach outside your organization for help. Now that "coming to the office"
+is no longer a requirement of the outside help, it is much easier for remote
+consultants to connect with now-remote employees. This is an opportunity for
+up-skilling your team with short term consultation. Reconsider whether that
+internal job, which will take months to hire for, can be at least partially
+filled by a consultant.
+
+Tip: employees should have a distinct "working" and "not working" state that
+can be more difficult to achieve when no longer cued by their physical
+location. Coach how to achieve this. Otherwise, teammates will feel like they
+are always working, which leads to too much stress, reduced performance, and
+burnout.
+
+Tip: create the accidental connections that would have happened in a physical
+office. They can spark new ideas, and are good for our health.
+(Schmooze or lose.)
+
+Tip: Model online relationship-building for others. Conduct
+relationship-building in an "open" forum (eg. a company-wide Slack channel).
+This will model to others how to create online relationships.
+
+Tip: overcommunicate. Repeat yourself often. 
+
+Tip: be sensitive to burnout. Lack of body language cues means that you must
+ask about this directly, and discuss.
+
+Tip: monitor for loneliness. Note that one need not be alone to be lonely. It
+is possible to guard against this by encouraging online social meetings (eg.
+weekly "happy hours").
+
+#### References for ?
+
+- https://hbr.org/2020/07/the-implications-of-working-without-an-office
+- https://www.law.northwestern.edu/faculty/fulltime/nadler/Morris_Nadler_SchmoozeOrLose.pdf
+- https://hbr.org/2011/05/defend-your-research-effective-managers-say-the-same-thing-twice-or-more
+- https://hbr.org/2018/11/helping-remote-workers-avoid-loneliness-and-burnout
+

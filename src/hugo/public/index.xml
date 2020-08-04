@@ -20,21 +20,8 @@
       <description>&lt;p&gt;Engagement is a powerful determinant of team performance. If you lead a
 software team, then consider measuring its degree of engagement. Measuring
 engagement will help you to improve it.&lt;/p&gt;
-&lt;p&gt;This article explains the language to use in carefully selected questions for
-the measurement of engagement of your software team.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Motivation for Employee Engagement on Software Teams</title>
-      <link>https://blog.robinbb.com/blog/motivating-engagement/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.robinbb.com/blog/motivating-engagement/</guid>
-      <description>&lt;p&gt;It is important for members of your software team to be engaged for 2 reasons:
-Because it is morally right, and because engagement so positively affects your
-team&amp;rsquo;s effectiveness.&lt;/p&gt;
-&lt;p&gt;This article introduces the motivation for employee engagement for new managers
-of software teams.&lt;/p&gt;</description>
+&lt;p&gt;This article recommends language to use in carefully selected questions for the
+measurement of engagement of your software team.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,6 +32,22 @@ of software teams.&lt;/p&gt;</description>
       <guid>https://blog.robinbb.com/blog/tdd-dev-environment/</guid>
       <description>&lt;p&gt;This post shows how to create a &lt;code&gt;direnv&lt;/code&gt;-based dev environment using
 test-driven development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why Care About Employee Engagement on Software Teams?</title>
+      <link>https://blog.robinbb.com/blog/motivating-engagement/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/motivating-engagement/</guid>
+      <description>&lt;p&gt;It is important for members of your software team to be engaged for 2 reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Because engagement so positively affects your team&amp;rsquo;s effectiveness, and;&lt;/li&gt;
+&lt;li&gt;Because working to engage employees inspires the trust that is required to
+lead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This article introduces the motivation for employee engagement for new leaders
+of software teams.&lt;/p&gt;</description>
     </item>
     
   </channel>
