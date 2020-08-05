@@ -1,7 +1,7 @@
 ---
 title: "Test-Driven Development of Dev Environments"
 date: "2020-07-27"
-draft: false
+draft: true
 ---
 
 This post shows how to create a `direnv`-based dev environment using

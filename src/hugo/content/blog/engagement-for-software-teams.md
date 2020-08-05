@@ -17,8 +17,8 @@ and its mission.
 Degree of employee engagement is interesting to employers because it strongly
 correlates with employee productivity.
 
-Being engaged does not mean being happy. Being engaged makes it easier for an
-employee to be happy, but happiness does not ensure productivity or engagement.
+Being engaged does not mean being happy. Being engaged makes it easier to be
+happy, but happiness does not ensure productivity or engagement.
 
 Being engaged does not mean being satisfied. Being engaged makes it easier to
 be satisfied, but satisfication does not ensure productivity or engagement.
@@ -32,5 +32,5 @@ I explain more about employee engagement on software teams in these articles:
 - [Questions for Measuring Software Team Engagement][1]
 
 
-[1]: /questions-for-measuring-engagement
-[2]: /motivating-engagement
+[1]: /blog/questions-for-measuring-engagement
+[2]: /blog/motivating-engagement

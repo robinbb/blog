@@ -1,6 +1,6 @@
 ---
 title: "Essential Techniques for Leading Software Teams in the Work From Home Era"
-date: "2020-08-12"
+date: "2020-08-06"
 draft: true
 ---
 
