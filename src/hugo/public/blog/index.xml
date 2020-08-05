@@ -6,10 +6,20 @@
     <description>Recent content in Articles on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Employee Engagement for Software Teams</title>
+      <link>https://blog.robinbb.com/blog/engagement-for-software-teams/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/engagement-for-software-teams/</guid>
+      <description>&lt;p&gt;This article introduces the concept of employee engagement for new managers of
+software teams.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Questions for Measuring Software Team Engagement</title>
