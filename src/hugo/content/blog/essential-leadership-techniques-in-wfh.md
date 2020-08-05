@@ -95,7 +95,7 @@ they are being done in a work-from-home environment.
 Document the vision. Don't assume that it is shared between employees.
 
 Tip: the social activities required in a remote environment are the same,
-remote versus in-person.
+remote versus in-person. You probably internalized how to do some of this in-person...
 
 Tip: grant autonomy. Use ROWE.
 
