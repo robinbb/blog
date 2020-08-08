@@ -2,6 +2,10 @@
 title: "Why Care About Employee Engagement on Software Teams?"
 date: "2020-07-27"
 draft: false
+tags:
+- leadership
+- engagement
+
 ---
 
 It is important for members of your software team to be engaged because:

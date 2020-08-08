@@ -2,6 +2,10 @@
 title: "Employee Engagement for Software Teams"
 date: "2020-08-02"
 draft: false
+tags:
+- leadership
+- engagement
+
 ---
 
 This article introduces the concept of employee engagement for new managers of

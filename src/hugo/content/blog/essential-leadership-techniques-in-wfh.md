@@ -2,6 +2,11 @@
 title: "Essential Techniques for Leading Software Teams in the Work From Home Era"
 date: "2020-08-06"
 draft: true
+tags:
+- leadership
+- remote-work
+- work-from-home
+
 ---
 
 Making change on your software team will require leadership. You need not be

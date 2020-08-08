@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>engagement on robinbb</title>
+    <link>https://blog.robinbb.com/tags/engagement/</link>
+    <description>Recent content in engagement on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.robinbb.com/tags/engagement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Employee Engagement for Software Teams</title>
+      <link>https://blog.robinbb.com/blog/engagement-for-software-teams/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/engagement-for-software-teams/</guid>
+      <description>&lt;p&gt;This article introduces the concept of employee engagement for new managers of
+software teams.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Questions for Measuring Software Team Engagement</title>
+      <link>https://blog.robinbb.com/blog/questions-for-measuring-engagement/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/questions-for-measuring-engagement/</guid>
+      <description>&lt;p&gt;Engagement is a powerful determinant of team performance. If you lead a
+software team, then consider measuring its degree of engagement. Measuring
+engagement will help you to improve it.&lt;/p&gt;
+&lt;p&gt;This article recommends language to use in carefully selected questions for the
+measurement of engagement of your software team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why Care About Employee Engagement on Software Teams?</title>
+      <link>https://blog.robinbb.com/blog/motivating-engagement/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/motivating-engagement/</guid>
+      <description>&lt;p&gt;It is important for members of your software team to be engaged because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;engagement improves your team&amp;rsquo;s effectiveness, and;&lt;/li&gt;
+&lt;li&gt;working to engage employees inspires the trust that is required to lead.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

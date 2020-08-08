@@ -2,6 +2,10 @@
 title: "Questions for Measuring Software Team Engagement"
 date: "2020-07-29"
 draft: false
+tags:
+- leadership
+- engagement
+
 ---
 
 Engagement is a powerful determinant of team performance. If you lead a
