@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nix on robinbb</title>
+    <link>https://blog.robinbb.com/tags/nix/</link>
+    <description>Recent content in Nix on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.robinbb.com/tags/nix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Nix?</title>
+      <link>https://blog.robinbb.com/blog/what-is-nix/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/what-is-nix/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt; is a software system for the management of software
+packages.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install Nix on macOS Catalina</title>
+      <link>https://blog.robinbb.com/blog/install-nix-on-macos-catalina/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/install-nix-on-macos-catalina/</guid>
+      <description>&lt;p&gt;Recent changes by Apple to macOS have made that operating system less
+compatible with software designed for Unix, including
+&lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt;.
+Here is how to work around the changes to install Nix on macOS 15 (Catalina).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

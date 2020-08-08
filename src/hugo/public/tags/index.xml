@@ -6,9 +6,64 @@
     <description>Recent content in Tags on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://blog.robinbb.com/tags/devops/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nix</title>
+      <link>https://blog.robinbb.com/tags/nix/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/nix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NixOS</title>
+      <link>https://blog.robinbb.com/tags/nixos/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/nixos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Package Management</title>
+      <link>https://blog.robinbb.com/tags/package-management/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/package-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer Environment</title>
+      <link>https://blog.robinbb.com/tags/developer-environment/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/developer-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macOS</title>
+      <link>https://blog.robinbb.com/tags/macos/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/macos/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

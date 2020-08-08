@@ -28,15 +28,56 @@
   </url>
   
   <url>
+    <loc>https://blog.robinbb.com/tags/devops/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/nix/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/nixos/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/package-management/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/blog/what-is-nix/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/developer-environment/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/blog/install-nix-on-macos-catalina/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/macos/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.robinbb.com/about/</loc>
   </url>
   
   <url>
     <loc>https://blog.robinbb.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.robinbb.com/tags/</loc>
   </url>
   
 </urlset>

@@ -4,6 +4,41 @@ date: "2020-08-06"
 draft: true
 ---
 
+Making change on your software team will require leadership. You need not be
+the boss to lead, but you must know how. Leadership best practices have changed
+in the work-from-home era. This article gives the new essential techniques.
+
+This is the blog post to accompany the Skills Matter talk of 13 August 2020,
+["Essential Techniques for Leading Software Teams in the Work From Home Era"](https://skillsmatter.com/meetups/13127-essential-techniques-for-leading-software-teams-in-the-work-from-home-era).
+
+<!--more-->
+
+Leadership is the practice of social influence. Anyone can lead; team
+leadership is not restricted to the nominated leaders. This article is for
+members of software teams; it aims to inform all team stakeholders - engineers,
+designers, product owners, and, yes, designated managers. I give the new
+essential work-from-home leadership practices.
+
+I begin by presenting a 2-part context. The first part of the context is the
+new normal state of working from home. The second part of the context is a
+useful summary of already-known best practices for effective leadership. Then,
+I'll describe essential techniques for effectively leading software teams in
+that context — techniques gleaned from 15 years of remote work with software
+development organizations.
+
+This is not an article about how to better use Slack and Zoom. It is about
+techniques without which your leadership efforts will fall flat when working
+remotely.
+
+
+### Agenda
+
+About Me
+Context, Part 1: WFH Needs
+Context, Part 2: Leadership Best Practices
+
+### Context, Part 1: Work-From-Home Needs
+
 WFH table stakes:
 
 0. Reliable internet access.
