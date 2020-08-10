@@ -6,10 +6,28 @@
     <description>Recent content in Tags on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>leadership</title>
+      <link>https://blog.robinbb.com/tags/leadership/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trust</title>
+      <link>https://blog.robinbb.com/tags/trust/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/trust/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>engagement</title>
@@ -21,11 +39,11 @@
     </item>
     
     <item>
-      <title>leadership</title>
-      <link>https://blog.robinbb.com/tags/leadership/</link>
-      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <title>management</title>
+      <link>https://blog.robinbb.com/tags/management/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.robinbb.com/tags/leadership/</guid>
+      <guid>https://blog.robinbb.com/tags/management/</guid>
       <description></description>
     </item>
     

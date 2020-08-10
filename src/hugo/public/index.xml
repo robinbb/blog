@@ -6,10 +6,21 @@
     <description>Recent content on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Trust</title>
+      <link>https://blog.robinbb.com/blog/trust/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/trust/</guid>
+      <description>&lt;p&gt;Trust is a foundation for all relationships. It is therefore essential for
+business.&lt;/p&gt;
+&lt;p&gt;This is a primer on the concept of trust for software teams.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Employee Engagement for Software Teams</title>
@@ -17,7 +28,9 @@
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/blog/engagement-for-software-teams/</guid>
-      <description>&lt;p&gt;This article introduces the concept of employee engagement for new managers of
+      <description>&lt;p&gt;Engagement is the emotional commitment of an employee to the company; it
+predicts productivity.&lt;/p&gt;
+&lt;p&gt;This article introduces the concept of employee engagement for new managers of
 software teams.&lt;/p&gt;</description>
     </item>
     
@@ -32,6 +45,18 @@ software team, then consider measuring its degree of engagement. Measuring
 engagement will help you to improve it.&lt;/p&gt;
 &lt;p&gt;This article recommends language to use in carefully selected questions for the
 measurement of engagement of your software team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leadership for Software Teams</title>
+      <link>https://blog.robinbb.com/blog/leadership/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/leadership/</guid>
+      <description>&lt;p&gt;Leadership is the practice of social influence, required to make change in an
+organization.&lt;/p&gt;
+&lt;p&gt;This is a primer on the concept of leadership for any member of a software
+team.&lt;/p&gt;</description>
     </item>
     
     <item>
