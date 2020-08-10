@@ -20,16 +20,16 @@ team.
 
 ### What is Leadership?
 
-Leadership is merely the practice of social influence. The function of
-leadership is to produce change. The skills of leadership are those required to
-produce that change.
+Leadership is the practice of social influence. The function of leadership is
+to produce change. The skills of leadership are those required to attain the
+influence sufficient to produce that change.
 
 
 #### What Leadership Is Not
 
 Leadership is not defined by seniority, title, or position in a company's
 hierarchy. One does not need a title to lead. Granted, a title gives one social
-license to practice leadership, but a person with a management is not
+license to practice leadership, but a person with a management title is not
 necessarily a leader.
 
 Leadership is not defined by the possession of any certain personal attributes.
