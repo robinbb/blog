@@ -67,15 +67,27 @@ disengaged ones.)
 
 ### The Skills of Leadership
 
-Leaders must be great communicators and great knowers of people. They must have
-emotional intelligence.
+Leaders must be great communicators. Leaders must understand people very well;
+they must have emotional intelligence.
 
 Leaders must must have the ability to acquire and analyze information required
 for constructing a vision. They must have imagination for creating the vision.
 They must have the ability to communicate the vision.
 
-How to lead well is the subject of most books on the topic of leadership; seek
-advice on how to improve your leadership skills and behaviour, there.
+
+### Leadership Activities
+
+We can deduce from the above what leaders do. They:
+
+- Define the mission
+- Formulate strategies
+- Communicate the vision
+- Create alignment
+- Build culture
+- Inspire effort
+- Facilitate engagement
+- Build the influence required to lead
+- Make change in other ways
 
 
 ### More Primers Related to Leadership
