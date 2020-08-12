@@ -11,12 +11,14 @@ tags:
 
 Making change on your software team will require leadership. You need not be
 the boss to lead, but you must know how. Leadership best practices have changed
-in the work-from-home era. This article gives the new essential techniques.
+in the work-from-home era. This article identifies the new essential
+techniques.
 
 This is the blog post to accompany the Skills Matter talk of 13 August 2020,
 ["Essential Techniques for Leading Software Teams in the Work From Home Era"](https://skillsmatter.com/meetups/13127-essential-techniques-for-leading-software-teams-in-the-work-from-home-era).
 
 <!--more-->
+
 
 Leadership is the practice of social influence. Anyone can lead; team
 leadership is not restricted to the nominated leaders. This article is for
@@ -26,21 +28,16 @@ essential work-from-home leadership practices.
 
 I begin by presenting a 2-part context. The first part of the context is the
 new normal state of working from home. The second part of the context is a
-useful summary of already-known best practices for effective leadership. Then,
-I'll describe essential techniques for effectively leading software teams in
-that context — techniques gleaned from 15 years of remote work with software
-development organizations.
+definition of leadership.  Then, I'll describe essential techniques for
+effectively leading software teams in that context — techniques gleaned from 15
+years of remote work with software development organizations.
 
 This is not an article about how to better use Slack and Zoom. It is about
 techniques without which your leadership efforts will fall flat when working
 remotely.
 
+Slides for this talk are [here](/slides/robinbb-skills-matter-2020-08-13.pdf).
 
-### Agenda
-
-About Me
-Context, Part 1: WFH Needs
-Context, Part 2: Leadership Best Practices
 
 ### Context, Part 1: Work-From-Home Needs
 
@@ -65,83 +62,75 @@ WFH table stakes:
 7. A clear way to submit your work deliverables.
 
 
-### What is Leadership?
+### Context, Part 2: Leadership
 
-Leadership is the practice of social influence. The function of leadership is
-to produce change. The skills of leadership are those required to produce that
-change.
-
-Leadership has nothing to do with seniority, title, or position in a company's
-hierarchy. One does not need a title to lead. Granted, a title gives one social
-license to practice leadership, but a management title does not necessarily
-mean that one is doing so.
-
-Leadership is not the possession of any certain personal attributes. No
-specific personality characteristics are required to lead.
-
-#### Leadership versus Management
-
-Leadership and management are not the same thing. They are 2 distinct but
-complementary systems of action. Managers add structure and promote stability
-of work systems.  In contradiction, leaders press for change. Most companies
-are over-managed but under-led.
-
-Management plans, schedules, and budgets. Leadership sets direction and strategy.
-
-Management organizes and staffs. Leadership aligns people.
-
-Management controls and problem solves. Leadership motivates and inspires.
-
-Note that leaders must be great communicators, great knowers of people. They
-must have emotional intelligence.
-Leaders must generate highly energized behaviour.
-
-#### References for "What is Leadership?":
-
-- ["What Leaders Really Do"](https://hbr.org/2001/12/what-leaders-really-do) by
-  retired Harvard Business School professor John P. Kotter, in Harvard Business
-  Review, December 2001 (first published in 1990).
-- ["What Is Leadership?"](https://www.forbes.com/sites/kevinkruse/2013/04/09/what-is-leadership/)
-  by Kevin Kruse, Forbes, April 2013.
-
-### The Purpose of Leadership
-
-The purpose of leadership is to effect positive change. You want to improve the
-effectiveness of your team.
-
-One way to measure team effectiveness is to use team engagement as a proxy.
-Engaged teams are 4 times more likely to be successful than disengaged ones.
+The content of my blog posts on [leadership](/blog/leadership) were included in
+my talk. Please read there, then return.
 
 
-### The Skill of Leadership
+### Essential Techniques for Leading Remote Teams
 
-- Ability to acquire and analyze information required for constructing a vision.
-- Imagination for creating the vision.
-- The ability to communicate the vision.
+Understanding the activities of leadership gives us the grounding required to
+question what about leadership must change in a remote work setting versus a
+traditional office setting.  What is essential to leadership remains the same.
+The techniques required to practice are what have changed in a work-from-home
+setting.
 
-How to Lead Well
+Here are my choices of essential techniques for improving the day-to-day
+activities of leadership when they are being done in a work-from-home
+environment.
 
-- Daniel Goleman's ["What Makes a Leader" on HBR](https://hbr.org/2004/01/what-makes-a-leader)
-  The thesis is that emotional intelligence is necessary for effective
-  leadership. Intelligence and technical skills are merely "threshold
-  capabilities".
-- 
+0. Recognize what was communicated with body language.
+1. Document the vision.
+2. Use ROWE.
+   - Clarify expectations.
+3. Overcommunicate.
+   - Use words to replace body language.
+   - Allow time for this.
+4. Demonstrate exemplary remote tool use.
+   - Model online relationship-building.
+   - Conduct "public" conversations.
+   - Schmooze or lose.
+5. Watch for WFH habit problems.
+   - Monitor for burnout.
+   - Monitor for loneliness.
+6. Reach outside the company.
 
-## Remote Work Tips
 
-These are techniques for improving the day-to-day activities of leadership when
-they are being done in a work-from-home environment.
-
-Document the vision. Don't assume that it is shared between employees.
+#### Recognize What Was Communicated With Body Language
 
 Tip: the social activities required in a remote environment are the same,
 remote versus in-person. You probably internalized how to do some of this in-person...
 
-Tip: grant autonomy. Use ROWE.
+- Nodding in approval, or lack thereof, when seeking buy-in.
+- Smiling when presented with a proposed course of action.
+- Physical energy when discussing a topic, a metric for enthusiasm.
+
+
+#### Document The Vision
+
+Don't assume that it is shared between employees.
+
+
+#### Use ROWE
+
+Results-oriented work environments (ROWEs) are described in the book "Work Sucks".
+
+grant autonomy
 
 Tip: clarify expectations. Previous IRL interactions might have allowed for
 clarifying expectations "as you go". Now, they should be better defined and
 documented in advance.
+
+
+#### Overcommunicate
+
+Tip: don't be afraid of repeating communications that assist with your
+leadership. Being thought repetitive is better than employees becoming
+unaligned, disengaged, or otherwise under-led.
+
+
+#### Demonstrate Exemplary Remote Tool Use
 
 Tip: show by example how best to use the remote work tools (messaging, video
 calls, asynchronous work).
@@ -150,22 +139,8 @@ Tip: recognize that the current pandemic is not "normal" working from home.
 Stress from non-work situation is much greater. Employers can help by
 minimizing stressors from work.
 
-Tip: don't be afraid of repeating communications that assist with your
-leadership. Being thought repetitive is better than employees becoming
-unaligned, disengaged, or otherwise under-led.
-
 Tip: conduct conversations so that group members can see that other group
 members are aligned, engaged, and share the vision.
-
-Tip: keep doing what previously worked (like measuring engagement), but expect
-inferior results.
-
-Tip: reach outside your organization for help. Now that "coming to the office"
-is no longer a requirement of the outside help, it is much easier for remote
-consultants to connect with now-remote employees. This is an opportunity for
-up-skilling your team with short term consultation. Reconsider whether that
-internal job, which will take months to hire for, can be at least partially
-filled by a consultant.
 
 Tip: employees should have a distinct "working" and "not working" state that
 can be more difficult to achieve when no longer cued by their physical
@@ -190,7 +165,18 @@ Tip: monitor for loneliness. Note that one need not be alone to be lonely. It
 is possible to guard against this by encouraging online social meetings (eg.
 weekly "happy hours").
 
-#### References for ?
+
+#### Reach Outside the Company
+
+Tip: reach outside your organization for help. Now that "coming to the office"
+is no longer a requirement of the outside help, it is much easier for remote
+consultants to connect with now-remote employees. This is an opportunity for
+up-skilling your team with short term consultation. Reconsider whether that
+internal job, which will take months to hire for, can be at least partially
+filled by a consultant.
+
+
+#### Further Reading
 
 - https://hbr.org/2020/07/the-implications-of-working-without-an-office
 - https://www.law.northwestern.edu/faculty/fulltime/nadler/Morris_Nadler_SchmoozeOrLose.pdf

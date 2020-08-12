@@ -47,10 +47,11 @@ To build and maintain trust with another, ask yourself:
 3. Have I been true to myself and my ideas; have I been authentic and congruent
    in my interactions?
 
-## References
+
+### Learn More
 
 - [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust)
   by Frances Fei, TED, 2018 (video).
 - [The Neuroscience of Trust](https://hbr.org/2017/01/the-neuroscience-of-trust)
-  by Paul J. Zak, Harvard Business Review, 2017. Motivates the understanding of
-  trust in creating employee engagement.
+  by Paul J. Zak, Harvard Business Review, 2017.
+  Motivates the understanding of trust in creating employee engagement.
