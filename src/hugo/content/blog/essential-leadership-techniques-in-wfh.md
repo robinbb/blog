@@ -102,28 +102,46 @@ environment.
 
 #### Recognize What Was Communicated With Body Language
 
-Tip: the social activities required in a remote environment are the same,
-remote versus in-person. You probably internalized how to do some of this in-person...
+It is very easy to be oblivious to what is being communicated with body
+language.  Now that body language is now longer a communication signal that you
+are getting, the quality of your communication risks dropping. Consider the
+following, for example:
 
 - Nodding in approval, or lack thereof, when seeking buy-in.
 - Smiling when presented with a proposed course of action.
 - Physical energy when discussing a topic, a metric for enthusiasm.
 
+These are all communication signal which you will now not get in a WFH
+environment. You must be conscious of this and compensate by being more
+explicit about thoughts and feelings when communicating, online.
+
 
 #### Document The Vision
 
-Don't assume that it is shared between employees.
+Is your company vision documented? Where is it? Is your project's vision
+documented? Where can team members read it?
+
+While there may be a vision, while working from home it is easier to lose track
+of it. Make it front-and-center for your team members.
 
 
 #### Use ROWE
 
-Results-oriented work environments (ROWEs) are described in the book "Work Sucks".
+Grant autonomy. Institute a results-only work environment. Evaluate employees
+according to the work done, now how or when they do it.
 
-grant autonomy
+ROWEs contribute to employee engagement, happiness, and do so without loss of
+productivity.
 
-Tip: clarify expectations. Previous IRL interactions might have allowed for
-clarifying expectations "as you go". Now, they should be better defined and
-documented in advance.
+Probably, a work-from-home situation requires management to get better at
+clarifying expectations. Previous in-real-life interactions might have allowed
+for clarifying expectations "as you go". Now, expectations must be better
+defined and documented in advance.
+
+Results-oriented work environments (ROWEs) are described in the book
+["Why Work Sucks and How to Fix It: The Results-Only Revolution"][work-sucks].
+
+[work-sucks]: https://www.amazon.com/Why-Work-Sucks-How-Fix/dp/1591842921
 
 
 #### Overcommunicate
@@ -161,22 +179,31 @@ This will model to others how to create online relationships.
 
 Tip: overcommunicate. Repeat yourself often. 
 
-Tip: be sensitive to burnout. Lack of body language cues means that you must
-ask about this directly, and discuss.
 
-Tip: monitor for loneliness. Note that one need not be alone to be lonely. It
-is possible to guard against this by encouraging online social meetings (eg.
-weekly "happy hours").
+#### Watch For Work-From-Home Habit Problems
+
+If you care about your team, which you must in order to inspire the trust
+required to lead, then you will help them to work from home.
+
+Be on the lookup for evidence of burnout. Many employees tend to work *more*
+when transitioning to a WFH environment, rather than less.
+
+Also be on the lookout for loneliness. Note that one need not be alone to be
+lonely. It is possible to guard against this by encouraging online social
+meetings (for example, weekly "happy hours").
+
+Lack of body language cues means that you must ask about these things directly,
+and discuss.
 
 
 #### Reach Outside the Company
 
-Tip: reach outside your organization for help. Now that "coming to the office"
-is no longer a requirement of the outside help, it is much easier for remote
-consultants to connect with now-remote employees. This is an opportunity for
-up-skilling your team with short term consultation. Reconsider whether that
-internal job, which will take months to hire for, can be at least partially
-filled by a consultant.
+Take the opportunity to reach outside your organization for help. Now that
+"coming to the office" is no longer a requirement of the outside help, it is
+much easier for remote consultants to connect with now-remote employees. This
+is an opportunity for up-skilling your team with short term consulting
+engagements. Reconsider whether that internal job, which will take months to
+hire for, can be partially filled by a consultant.
 
 
 #### Further Reading
