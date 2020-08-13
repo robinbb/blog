@@ -1,7 +1,7 @@
 ---
 title: "Essential Techniques for Leading Software Teams in the Work From Home Era"
-date: "2020-08-06"
-draft: true
+date: "2020-08-13"
+draft: false
 tags:
 - leadership
 - remote-work
@@ -26,17 +26,21 @@ members of software teams; it aims to inform all team stakeholders - engineers,
 designers, product owners, and, yes, designated managers. I give the new
 essential work-from-home leadership practices.
 
-I begin by presenting a 2-part context. The first part of the context is the
-new normal state of working from home. The second part of the context is a
-definition of leadership.  Then, I'll describe essential techniques for
-effectively leading software teams in that context — techniques gleaned from 15
-years of remote work with software development organizations.
+I begin by presenting a 2-part context for understanding the new essential
+leadership techniques. The first part of the context is understanding the new
+normal state of working from home, and the basic needs of the remote worker in
+that context. The second part of the context is understanding what leadership
+really is. With the context given, I'll then describe essential techniques for
+effectively leading software teams — techniques gleaned from 15 years of remote
+work with software development organizations.
 
 This is not an article about how to better use Slack and Zoom. It is about
 techniques without which your leadership efforts will fall flat when working
 remotely.
 
 Slides for this talk are [here](/slides/robinbb-skills-matter-2020-08-13.pdf).
+
+**This blog post is still a work in progress.**
 
 
 ### Context, Part 1: Work-From-Home Needs
@@ -64,8 +68,7 @@ WFH table stakes:
 
 ### Context, Part 2: Leadership
 
-The content of my blog posts on [leadership](/blog/leadership) were included in
-my talk. Please read there, then return.
+The content of this section has been broken out into separate blog posts on [leadership](/blog/leadership).
 
 
 ### Essential Techniques for Leading Remote Teams
@@ -182,4 +185,3 @@ filled by a consultant.
 - https://www.law.northwestern.edu/faculty/fulltime/nadler/Morris_Nadler_SchmoozeOrLose.pdf
 - https://hbr.org/2011/05/defend-your-research-effective-managers-say-the-same-thing-twice-or-more
 - https://hbr.org/2018/11/helping-remote-workers-avoid-loneliness-and-burnout
-
