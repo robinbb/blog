@@ -87,7 +87,7 @@ environment.
 1. Document the vision.
 2. Use ROWE.
    - Clarify expectations.
-3. Overcommunicate.
+3. Over-Communicate.
    - Use words to replace body language.
    - Allow time for this.
 4. Demonstrate exemplary remote tool use.
@@ -97,7 +97,8 @@ environment.
 5. Watch for WFH habit problems.
    - Monitor for burnout.
    - Monitor for loneliness.
-6. Reach outside the company.
+6. Revisit how you build trust.
+7. Reach outside the company.
 
 
 #### Recognize What Was Communicated With Body Language
@@ -144,7 +145,7 @@ Results-oriented work environments (ROWEs) are described in the book
 [work-sucks]: https://www.amazon.com/Why-Work-Sucks-How-Fix/dp/1591842921
 
 
-#### Overcommunicate
+#### Over-Communicate
 
 Tip: don't be afraid of repeating communications that assist with your
 leadership. Being thought repetitive is better than employees becoming
@@ -195,12 +196,15 @@ meetings (for example, weekly "happy hours").
 Lack of body language cues means that you must ask about these things directly,
 and discuss.
 
+#### Revisit How You Build Trust
+
+
 
 #### Reach Outside the Company
 
 Take the opportunity to reach outside your organization for help. Now that
 "coming to the office" is no longer a requirement of the outside help, it is
-much easier for remote consultants to connect with now-remote employees. This
+much easier for remote consultants to integrate with now-remote employees. This
 is an opportunity for up-skilling your team with short term consulting
 engagements. Reconsider whether that internal job, which will take months to
 hire for, can be partially filled by a consultant.
