@@ -40,50 +40,32 @@ remotely.
 
 Slides for this talk are [here](/slides/robinbb-skills-matter-2020-08-13.pdf).
 
-**This blog post is still a work in progress.**
-
 
 ### Context, Part 1: Work-From-Home Needs
 
-WFH table stakes:
-
-0. Reliable internet access.
-1. Computer equipment (including video camera and microphone).
-2. Group-centric instant messaging software. (eg. Slack, IRC,
-   [Element](https://element.io/),
-   [Rocket.Chat](https://rocket.chat/).)
-3. Video conferencing software. (eg. Zoom,
-   [BlueJeans](https://www.bluejeans.com/),
-   [Google Meet](https://meet.google.com/).)
-4. Online communication tools that assist with asynchronous communication (eg.
-   forum software like [Discourse](https://www.discourse.org/),
-   [Basecamp](https://basecamp.com), source code management repositories,
-   issue tracking tools like Phabricator or Jira).
-5. Phone call emergency contact information shared as appropriate.
-6. Preference for asynchronous communication (online forums, code in a
-   distributed repository, even email) over synchronous communication (instant
-   messaging, video conferencing, or phone calls).
-7. A clear way to submit your work deliverables.
-
+Please see the separate blog post on
+[work-from-home essentials](wfh-essentials-cheat-sheet).
 
 ### Context, Part 2: Leadership
 
-The content of this section has been broken out into separate blog posts on [leadership](/blog/leadership).
+Please see the separate blog post on
+[leadership](/blog/leadership).
 
 
 ### Essential Techniques for Leading Remote Teams
 
 Understanding the activities of leadership gives us the grounding required to
 question what about leadership must change in a remote work setting versus a
-traditional office setting.  What is essential to leadership remains the same.
-The techniques required to practice are what have changed in a work-from-home
-setting.
+traditional office setting.
+
+What is essential to leadership remains the same.  The techniques required to
+practice are what have changed in a work-from-home setting.
 
 Here are my choices of essential techniques for improving the day-to-day
 activities of leadership when they are being done in a work-from-home
 environment.
 
-0. Recognize what was communicated with body language.
+0. Recognize what was previously communicated with body language.
 1. Document the vision.
 2. Use ROWE.
    - Clarify expectations.
