@@ -44,7 +44,7 @@ Slides for this talk are [here](/slides/robinbb-skills-matter-2020-08-13.pdf).
 ### Context, Part 1: Work-From-Home Needs
 
 Please see the separate blog post on
-[work-from-home essentials](wfh-essentials-cheat-sheet).
+[work-from-home essentials](/blog/wfh-essentials-cheat-sheet).
 
 
 ### Context, Part 2: Leadership
