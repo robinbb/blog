@@ -26,13 +26,13 @@ members of software teams; it aims to inform all team stakeholders - engineers,
 designers, product owners, and, yes, designated managers. I give the new
 essential work-from-home leadership practices.
 
-I begin by presenting a 2-part context for understanding the new essential
-leadership techniques. The first part of the context is understanding the new
-normal state of working from home, and the basic needs of the remote worker in
-that context. The second part of the context is understanding what leadership
-really is. With the context given, I'll then describe essential techniques for
-effectively leading software teams — techniques gleaned from 15 years of remote
-work with software development organizations.
+There is a 2-part context for understanding the new essential leadership
+techniques. The first part of the context is understanding the new normal state
+of working from home, and the basic needs of the remote worker in that context.
+The second part of the context is understanding what leadership really is. With
+the context given, I will describe essential techniques for effectively leading
+software teams — techniques gleaned from 15 years of remote work with software
+development organizations.
 
 This is not an article about how to better use Slack and Zoom. It is about
 techniques without which your leadership efforts will fall flat when working
@@ -45,6 +45,7 @@ Slides for this talk are [here](/slides/robinbb-skills-matter-2020-08-13.pdf).
 
 Please see the separate blog post on
 [work-from-home essentials](wfh-essentials-cheat-sheet).
+
 
 ### Context, Part 2: Leadership
 
@@ -59,7 +60,7 @@ question what about leadership must change in a remote work setting versus a
 traditional office setting.
 
 What is essential to leadership remains the same.  The techniques required to
-practice are what have changed in a work-from-home setting.
+practice it are what have changed in a work-from-home setting.
 
 Here are my choices of essential techniques for improving the day-to-day
 activities of leadership when they are being done in a work-from-home
@@ -88,9 +89,8 @@ environment.
 It is very easy to be oblivious to what is being communicated with body
 language. The new communication media used after the transition to WFH - chat,
 forum posts, email, audio calls - do not give body language signals. Now that
-body language is now longer a communication signal that you are getting, the
-quality of your communication risks dropping. Consider the following, for
-example:
+body language is not a communication signal that you are getting, the quality
+of your communication risks dropping. Consider the following, for example:
 
 - Nodding in approval, or lack thereof, when seeking buy-in.
 - Smiling when presented with a proposed course of action.
@@ -113,7 +113,7 @@ of it. Make it front-and-center for your team members.
 #### Use ROWE
 
 Grant autonomy. Institute a results-only work environment. Evaluate employees
-according to the work done, now how or when they do it.
+according to the work done, not how or when they do it.
 
 ROWEs contribute to employee engagement and happiness, which in turn yield
 improvements in productivity.
@@ -121,7 +121,7 @@ improvements in productivity.
 Probably, a work-from-home situation requires managers to get better at
 clarifying expectations. Previous in-real-life interactions might have allowed
 for clarifying expectations "as you go". Now, expectations must be better
-defined and documented in advance.
+defined and documented in advance of dispatching work.
 
 Results-oriented work environments (ROWEs) are described in the book
 ["Why Work Sucks and How to Fix It: The Results-Only Revolution"][work-sucks].
@@ -135,11 +135,17 @@ Don't be afraid of repeating communications that assist with your leadership.
 Being thought of as "a repetitive person" is better than employees becoming
 unaligned, disengaged, or otherwise under-led.
 
+Use more messages and more words to replace communications that were previously
+accomplished with body language. This will seem to make communications more
+wordy, more laborious, and more time consuming. Allow for this.
+
+Over-communicate. Repeat important messages often. 
+
 
 #### Demonstrate Exemplary Remote Tool Use
 
 Show by example how best to use the remote work tools (messaging, video
-calls, asynchronous work).
+calls, asynchronous work). Become a model online communicator.
 
 Conduct conversations "publicly" so that group members can see that other group
 members are aligned, engaged, and share the vision.
@@ -152,19 +158,14 @@ Also, recognize that the current pandemic (as I write this in 2020) is not
 "normal" remote work. Stress from non-work situation is much greater during the
 pandemic. Employers can help by minimizing stressors from work.
 
-Model online relationship-building for others. Conduct relationship-building in
-an "open" forum (e.g. a company-wide Slack channel).  This will model to others
-how to create online relationships.
-
-Over-communicate. Repeat yourself often. 
-
 
 #### Watch For Work-From-Home Habit Problems
 
-If you care about your team, which you must in order to inspire the trust
-required to lead, then you will help them to work from home.
+If you care about your team, which you must do in order to inspire the trust
+required to lead, then you will help them to remain healthy as they work from
+home.
 
-Be on the lookup for evidence of burnout. Many employees tend to work *more*
+Be on the lookout for evidence of burnout. Many employees tend to work *more*
 when transitioning to a WFH environment, rather than less.
 
 Also be on the lookout for loneliness. Note that one need not be alone to be
@@ -172,11 +173,23 @@ lonely. It is possible to guard against this by encouraging online social
 meetings (for example, weekly "happy hours").
 
 Lack of body language cues means that you must ask about these things directly,
-and discuss.
+and discuss. Be careful not to pry.
 
 
 #### Revisit How You Build Trust
 
+Consider how you build trust with empathy. Ask "have my behaviours been
+consistent with someone who is empathetic with the other?" "What have I done to
+display this?" "Have I listened?" "Can others see that I have listened?"
+
+Consider how you build trust with logic. Ask "have I communicated my reasoning
+sufficiently well?" "Is it rigorous?" "What have I done to display this
+rigorous logic?" "How should I communicate this reasoning differently in the
+WFH context?"
+
+Consider how you build trust with authenticity? Ask "have I been true to myself
+and my ideas?" "Have I been authentic and congruent in my interactions?" "How
+is this authenticity made visible in the WFH context?"
 
 
 #### Reach Outside the Company

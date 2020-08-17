@@ -9,8 +9,8 @@ tags:
 ---
 
 Use this cheat sheet as a checklist for the essential needs of teams making a
-change to working-from-home (WFH). These are the recommended minimum
-requirements for WFH.
+change to working-from-home (WFH). These are recommended minimum requirements
+for WFH.
 
 This article accompanies the Skills Matter talk of 13 August 2020,
 ["Essential Techniques for Leading Software Teams in the Work From Home Era"](https://skillsmatter.com/skillscasts/14842-essential-techniques-for-leading-software-teams-in-the-work-from-home-era).
@@ -40,5 +40,5 @@ This article accompanies the Skills Matter talk of 13 August 2020,
 - Preference for asynchronous communication
 - A clear way to submit deliverables
 
-In the case of software, companies must make a definitive choice of which to
-use and to communicate that choice clearly to employees.
+In the case of software tools, companies must make a definitive choice of which
+to use and must communicate that choice clearly to employees.
