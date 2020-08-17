@@ -13,7 +13,7 @@ change to working-from-home (WFH). These are the recommended minimum
 requirements for WFH.
 
 This article accompanies the Skills Matter talk of 13 August 2020,
-["Essential Techniques for Leading Software Teams in the Work From Home Era"](https://skillsmatter.com/meetups/13127-essential-techniques-for-leading-software-teams-in-the-work-from-home-era).
+["Essential Techniques for Leading Software Teams in the Work From Home Era"](https://skillsmatter.com/skillscasts/14842-essential-techniques-for-leading-software-teams-in-the-work-from-home-era).
 
 <!--more-->
 

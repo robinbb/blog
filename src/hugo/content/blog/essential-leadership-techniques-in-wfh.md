@@ -15,7 +15,7 @@ in the work-from-home era. This article identifies the new essential
 techniques.
 
 This is the blog post to accompany the Skills Matter talk of 13 August 2020,
-["Essential Techniques for Leading Software Teams in the Work From Home Era"](https://skillsmatter.com/meetups/13127-essential-techniques-for-leading-software-teams-in-the-work-from-home-era).
+["Essential Techniques for Leading Software Teams in the Work From Home Era"](https://skillsmatter.com/skillscasts/14842-essential-techniques-for-leading-software-teams-in-the-work-from-home-era).
 
 <!--more-->
 
@@ -83,28 +83,30 @@ environment.
 7. Reach outside the company.
 
 
-#### Recognize What Was Communicated With Body Language
+#### Recognize What Was Previously Communicated With Body Language
 
 It is very easy to be oblivious to what is being communicated with body
-language.  Now that body language is now longer a communication signal that you
-are getting, the quality of your communication risks dropping. Consider the
-following, for example:
+language. The new communication media used after the transition to WFH - chat,
+forum posts, email, audio calls - do not give body language signals. Now that
+body language is now longer a communication signal that you are getting, the
+quality of your communication risks dropping. Consider the following, for
+example:
 
 - Nodding in approval, or lack thereof, when seeking buy-in.
 - Smiling when presented with a proposed course of action.
 - Physical energy when discussing a topic, a metric for enthusiasm.
 
-These are all communication signal which you will now not get in a WFH
+These are all communication signals which you will now not get in a WFH
 environment. You must be conscious of this and compensate by being more
-explicit about thoughts and feelings when communicating, online.
+explicit about thoughts and feelings when communicating.
 
 
 #### Document The Vision
 
-Is your company vision documented? Where is it? Is your project's vision
-documented? Where can team members read it?
+Leaders maintain the vision.  Is your company vision documented? Where is it?
+Is your project's vision documented? Where can team members read that?
 
-While there may be a vision, while working from home it is easier to lose track
+While there may be a vision, when working from home it is easier to lose track
 of it. Make it front-and-center for your team members.
 
 
@@ -113,10 +115,10 @@ of it. Make it front-and-center for your team members.
 Grant autonomy. Institute a results-only work environment. Evaluate employees
 according to the work done, now how or when they do it.
 
-ROWEs contribute to employee engagement, happiness, and do so without loss of
-productivity.
+ROWEs contribute to employee engagement and happiness, which in turn yield
+improvements in productivity.
 
-Probably, a work-from-home situation requires management to get better at
+Probably, a work-from-home situation requires managers to get better at
 clarifying expectations. Previous in-real-life interactions might have allowed
 for clarifying expectations "as you go". Now, expectations must be better
 defined and documented in advance.
@@ -129,38 +131,32 @@ Results-oriented work environments (ROWEs) are described in the book
 
 #### Over-Communicate
 
-Tip: don't be afraid of repeating communications that assist with your
-leadership. Being thought repetitive is better than employees becoming
+Don't be afraid of repeating communications that assist with your leadership.
+Being thought of as "a repetitive person" is better than employees becoming
 unaligned, disengaged, or otherwise under-led.
 
 
 #### Demonstrate Exemplary Remote Tool Use
 
-Tip: show by example how best to use the remote work tools (messaging, video
+Show by example how best to use the remote work tools (messaging, video
 calls, asynchronous work).
 
-Tip: recognize that the current pandemic is not "normal" working from home.
-Stress from non-work situation is much greater. Employers can help by
-minimizing stressors from work.
-
-Tip: conduct conversations so that group members can see that other group
+Conduct conversations "publicly" so that group members can see that other group
 members are aligned, engaged, and share the vision.
 
-Tip: employees should have a distinct "working" and "not working" state that
-can be more difficult to achieve when no longer cued by their physical
-location. Coach how to achieve this. Otherwise, teammates will feel like they
-are always working, which leads to too much stress, reduced performance, and
-burnout.
+Create the accidental connections that would have happened in a physical
+office. They can spark new ideas, and are good for our health.  (Schmooze or
+lose.)
 
-Tip: create the accidental connections that would have happened in a physical
-office. They can spark new ideas, and are good for our health.
-(Schmooze or lose.)
+Also, recognize that the current pandemic (as I write this in 2020) is not
+"normal" remote work. Stress from non-work situation is much greater during the
+pandemic. Employers can help by minimizing stressors from work.
 
-Tip: Model online relationship-building for others. Conduct
-relationship-building in an "open" forum (eg. a company-wide Slack channel).
-This will model to others how to create online relationships.
+Model online relationship-building for others. Conduct relationship-building in
+an "open" forum (e.g. a company-wide Slack channel).  This will model to others
+how to create online relationships.
 
-Tip: overcommunicate. Repeat yourself often. 
+Over-communicate. Repeat yourself often. 
 
 
 #### Watch For Work-From-Home Habit Problems
@@ -177,6 +173,7 @@ meetings (for example, weekly "happy hours").
 
 Lack of body language cues means that you must ask about these things directly,
 and discuss.
+
 
 #### Revisit How You Build Trust
 
