@@ -137,7 +137,7 @@ phrasing should be removed for the reasons discussed above. I suggest:
 In this question about opinions counting, we again should avoid "at work"
 phrasing. My alternative:
 
-  > In ${companyName}, my opinions seems to count.
+  > In ${companyName}, my opinions seem to count.
 
 
 ### Q08
@@ -209,4 +209,5 @@ done for the company:
 
 This is my best effort to update the Q12 for the modern work environment.
 
-My suggested phrasings are entirely untested.
+While the Gallup Q12 are very well tested phrasings, my slightly altered
+suggested phrasings, above, are untested.
