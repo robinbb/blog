@@ -7,7 +7,7 @@ theme = "ananke"
 # DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 # Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-# googleAnalytics = ""
+googleAnalytics = "UA-48081501-1"  # blog.robinbb.com
 enableRobotsTXT = true
 
 # [sitemap]
@@ -21,9 +21,10 @@ enableRobotsTXT = true
 
 [params]
   featured_image = "/images/robinbb-books-background-1.jpeg"
-  twitter = "https://twitter.com/robinbateboerop"
-  github = "https://github.com/robinbb"
+  twitter = "https://twitter.com/robinbateboerop/"
+  github = "https://github.com/robinbb/"
   linkedin = "https://www.linkedin.com/in/robinbb/"
+  instagram = "https://www.instagram.com/robinbateboerop/"
 #   description = "The last theme you'll ever need. Maybe."
 #   recent_posts_number = 2
 #   favicon = ""
@@ -31,7 +32,6 @@ enableRobotsTXT = true
 #   background_color_class = "bg-black"
 #   site_logo = ""
 #   facebook = ""
-#   instagram = ""
 #   youtube = ""
 #   gitlab = ""
 #   mastodon = ""

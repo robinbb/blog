@@ -5,6 +5,7 @@ let
 in
 pkgs.mkShell {
   buildInputs = with pkgs; [
+    bazel
     gnugrep
     hugo
   ];
