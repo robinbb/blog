@@ -1,8 +1,32 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
-      Copyright {{now.Format "2006" }} {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ end }}
-    </a>
+    <form action="https://robinbb.us17.list-manage.com/subscribe/post?u=7f63e2688d5a0c3a9afef3e10&amp;id=b7c9e29611"
+          method="post"
+          id="mc-embedded-subscribe-form"
+          name="mc-embedded-subscribe-form"
+          class="validate"
+          target="_blank"
+          novalidate>
+      <input type="email"
+             value=""
+             name="EMAIL"
+             class="email"
+             id="mce-EMAIL"
+             placeholder="your@email.address"
+             required>
+      <input type="submit"
+             value="Get Blog Updates"
+             name="subscribe"
+             id="mc-embedded-subscribe"
+             class="button">
+      <input type="hidden"
+             name="b_7f63e2688d5a0c3a9afef3e10_b7c9e29611"
+             tabindex="-1"
+             value="">
+    </form>
+    <!--
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7f63e2688d5a0c3a9afef3e10_b7c9e29611" tabindex="-1" value=""></div>
+    -->
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
 </footer>
