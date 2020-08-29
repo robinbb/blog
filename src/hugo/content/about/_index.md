@@ -25,6 +25,15 @@ description: "Robin Bate Boerop"
 # > Email address
 # > [Yes, Send Me The Checklist!]
 
+# Why me over the competition:
+# 1. Be memorable
+#    - Use new language
+#    - doucheboss
+# 2. Be bold (values, what I stand for)
+#     - What am I against?
+#     - What pisses me off in the industry?
+# 3. Narrow focus
+#   - tech startups
 ---
 
 This is Robin Bate Boerop's blog about software development.
