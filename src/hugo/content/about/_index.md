@@ -11,6 +11,20 @@ description: "Robin Bate Boerop"
 # I am not an outsourced employee.
 # 1. Have a process and own it.
 # 2. 
+
+# https://www.linkedin.com/posts/skillsmatter_remotework-newnormal-wfh-activity-6694904475800403968-6yYK
+# https://skillsmatter.com/skillscasts/14842-essential-techniques-for-leading-software-teams-in-the-work-from-home-era
+
+# Home:
+# I help tech startups avoid growing pains by providing software engineering leadership.
+# > About Robin
+# > Blog
+# > Assess your leadership practices with my FREE
+# > Software Team Leadership Checklist.
+# > First Name
+# > Email address
+# > [Yes, Send Me The Checklist!]
+
 ---
 
 This is Robin Bate Boerop's blog about software development.
