@@ -1,6 +1,7 @@
 ---
 title: "Essential Techniques for Leading Software Teams in the Work From Home Era"
 date: "2020-08-13"
+featured_image: "/images/robinbb-skills-matter-2020-08-13-promo.jpeg"
 draft: false
 tags:
 - leadership
