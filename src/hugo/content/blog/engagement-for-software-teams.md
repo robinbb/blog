@@ -5,13 +5,14 @@ draft: false
 tags:
 - leadership
 - engagement
+- primer
 
 ---
 
-Engagement is the emotional commitment of an employee to the company; it
-predicts productivity.
+Engagement is the emotional commitment of an employee to the company;
+engagement predicts productivity.
 
-This article introduces the concept of employee engagement for new managers of
+This is a primer on the concept of employee engagement for new managers of
 software teams.
 
 <!--more-->

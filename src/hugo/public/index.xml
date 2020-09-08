@@ -6,10 +6,21 @@
     <description>Recent content on Robin Bate Boerop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leadership References</title>
+      <link>https://blog.robinbb.com/blog/leadership-references/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/leadership-references/</guid>
+      <description>&lt;p&gt;This is my useful list of resources and readings about leadership.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
     
     <item>
       <title>Essential Techniques for Leading Software Teams in the Work From Home Era</title>
@@ -55,9 +66,9 @@ business.&lt;/p&gt;
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/blog/engagement-for-software-teams/</guid>
-      <description>&lt;p&gt;Engagement is the emotional commitment of an employee to the company; it
-predicts productivity.&lt;/p&gt;
-&lt;p&gt;This article introduces the concept of employee engagement for new managers of
+      <description>&lt;p&gt;Engagement is the emotional commitment of an employee to the company;
+engagement predicts productivity.&lt;/p&gt;
+&lt;p&gt;This is a primer on the concept of employee engagement for new managers of
 software teams.&lt;/p&gt;</description>
     </item>
     

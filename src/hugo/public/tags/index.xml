@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Robin Bate Boerop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>leadership</title>
       <link>https://blog.robinbb.com/tags/leadership/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reference</title>
+      <link>https://blog.robinbb.com/tags/reference/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/reference/</guid>
       <description></description>
     </item>
     
@@ -53,6 +62,15 @@
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/tags/engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primer</title>
+      <link>https://blog.robinbb.com/tags/primer/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/primer/</guid>
       <description></description>
     </item>
     

@@ -3,7 +3,7 @@ title: "Test-Driven Development of Dev Environments"
 date: "2020-07-27"
 draft: true
 tags:
-- Developer Environments
+- dev-environments
 - direnv
 
 ---

@@ -2,6 +2,10 @@
 title: "A Standard For Developer Environments"
 date: "2020-07-27"
 draft: true
+tags:
+- dev-environments
+- direnv
+
 ---
 # A Standard For Developer Environments
 
