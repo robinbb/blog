@@ -17,14 +17,10 @@ have led software teams in consulting engagements and as part of Silicon Valley
 tech startups. I co-founded a Canadian software tech startup that was acquired
 in 2014.
 
-Haskell is my preferred programming language, but my recent coding experiences
-have been DevOps engineering efforts for which I use Nix.
-
-I am a software development consultant with [Tweag][Tweag].
+I am a consultant with [Tweag][Tweag].
 
 - [LinkedIn](https://www.linkedin.com/in/robinbb/)
 - [Twitter](https://twitter.com/robinbateboerop)
 - [GitHub](https://github.com/robinbb)
 
 [Tweag]: https://tweag.io/
-
