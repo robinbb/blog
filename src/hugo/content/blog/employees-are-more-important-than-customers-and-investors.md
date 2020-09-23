@@ -30,7 +30,7 @@ advantages like employee retention and increased productivity.  What you must
 understand is that your team defines your business. For your business to be
 successful, your employees must be successful.
 
-As I write this, we are amid the COVID-19 viral pandemic. The business
+As I write this, we are in the midst of the COVID-19 viral pandemic. The business
 environment is strained.  Even more than usual, tech startups are under
 pressure.  As leaders, your beliefs in this matter will be challenged.
 
@@ -39,13 +39,13 @@ thought you had.
 
 Employees need your support. More than ever before, they need to feel like
 their well-being is prioritized; they need to feel like they are being trusted
-to work remotely; they need to feel that concerns about work situation are
+to work remotely; they need to feel that concerns about work situations are
 being heard.
 
 
 ### More Important Than Your Customers
 
-How is it that you think your customers become satisfied, if not by your
+How is it, do you think, that your customers become satisfied, if not by your
 employees?  How well will disengaged employees satisfy customers?
 
 Consider a software developer on your team. You know that small amounts of
@@ -81,21 +81,21 @@ particular investors, you can always find more.
 How reasonable is it to invest in a company with a disengaged team?
 
 Consider your team. Suppose that you accede to investor demands in a way that
-results in a weaker team, a less engaged team.  What have you done? You have
+results in a weaker, less engaged team.  What have you done? You have
 made investment in your company less reasonable, because your team is weaker.
 
 Suppose that you fail to accede to investor demands in a way that causes them
 not to invest, but in a way that results in a stronger, more engaged team.
 Since your team is strong, you can always find more investors.
 
-Consider the worst case scenario of a disengaged team, quite possible in the
-fast paced world of tech startups: your team leaves you.  If your investors are
+Consider the worst-case scenario of a disengaged team, quite possible in the
+fast-paced world of tech startups: your team leaves you.  If your investors are
 satisfied that you met their demands, they still won't invest because you have
 no team; then you have nothing.
 
-Of course, one should always try to satisfy one's investors; but, do prioritize
-correctly.  Strong, engaged teams are more important than satisfied investors,
-when push comes to shove.
+Of course, you should always try to satisfy your investors; but, you must
+prioritize correctly.  Strong, engaged teams are more important than satisfied
+investors, when push comes to shove.
 
 
 ### Priorities
