@@ -6,17 +6,35 @@
     <description>Recent content in Tags on Robin Bate Boerop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>engagement</title>
+      <link>https://blog.robinbb.com/tags/engagement/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>leadership</title>
       <link>https://blog.robinbb.com/tags/leadership/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://blog.robinbb.com/tags/management/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/management/</guid>
       <description></description>
     </item>
     
@@ -57,29 +75,11 @@
     </item>
     
     <item>
-      <title>engagement</title>
-      <link>https://blog.robinbb.com/tags/engagement/</link>
-      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.robinbb.com/tags/engagement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>primer</title>
       <link>https://blog.robinbb.com/tags/primer/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/tags/primer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>management</title>
-      <link>https://blog.robinbb.com/tags/management/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.robinbb.com/tags/management/</guid>
       <description></description>
     </item>
     
