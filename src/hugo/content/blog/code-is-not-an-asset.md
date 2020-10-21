@@ -1,5 +1,5 @@
 ---
-title: "Software Code Is Not An Asset"
+title: "Code Is Not An Asset"
 date: "2020-10-21"
 draft: false
 
