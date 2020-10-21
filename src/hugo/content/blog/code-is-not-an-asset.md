@@ -27,7 +27,7 @@ software development efforts, such as code refactorings. Supposedly.
 Who is to say whether a given line of code is part of a debt? Who is to say
 whether a given programming language expression is debt-free? A given code
 fragment is part of a debt depending on whether it impedes some further
-improvement to the code, right? It is the opinion of the developer.
+improvement to the code, right? This is the opinion of the developer.
 
 Or, does it depend merely on the context in which the code operates? Code that
 was debt-free (and bug-free) when the software operated in one context becomes
