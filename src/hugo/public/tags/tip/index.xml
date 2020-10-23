@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>trust on Robin Bate Boerop</title>
-    <link>https://blog.robinbb.com/tags/trust/</link>
-    <description>Recent content in trust on Robin Bate Boerop</description>
+    <title>tip on Robin Bate Boerop</title>
+    <link>https://blog.robinbb.com/tags/tip/</link>
+    <description>Recent content in tip on Robin Bate Boerop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.robinbb.com/tags/trust/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.robinbb.com/tags/tip/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,17 +24,6 @@ this influence is crucial.&lt;/p&gt;
 &lt;p&gt;Methodically developing your social influence is much more effective than
 allowing your degree of social influence to develop &amp;ldquo;by accident&amp;rdquo;. Make it part
 of your routine.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>On Trust</title>
-      <link>https://blog.robinbb.com/blog/trust/</link>
-      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.robinbb.com/blog/trust/</guid>
-      <description>&lt;p&gt;Trust is a foundation for all relationships. It is therefore essential for
-business.&lt;/p&gt;
-&lt;p&gt;This is a primer on the concept of trust for software teams.&lt;/p&gt;</description>
     </item>
     
   </channel>
