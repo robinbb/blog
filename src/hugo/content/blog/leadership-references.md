@@ -8,14 +8,11 @@ tags:
 
 ---
 
+
 This is my useful list of resources and readings about leadership.
 
-<!--
-**Updated:**
-2020-Sep-8
--->
-
 <!--more-->
+
 
 ### Blogs
 
