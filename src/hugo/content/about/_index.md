@@ -2,6 +2,7 @@
 title: "About"
 description: "Robin Bate Boerop"
 draft: false
+type: page
 ---
 
 ![Robin's Headshot](/images/robinbb-headshot-square.jpg)
