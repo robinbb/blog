@@ -21,8 +21,8 @@ Here are the results that I get:
 - Tuned agile development processes
 - Increased confidence in deployed software
 - Measurable increase of development velocity
-- Measurable improvement of employee engagement
 - Reduced recruiting costs via more effective hiring
+- Measurable improvement of employee engagement
 - Software architecture recommendations worth implementing
 - World-class techniques applied to the build automation software
 - Substantial productivity improvements that last
