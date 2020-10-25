@@ -7,8 +7,8 @@ type: page
 
 ![Robin's Headshot](/images/robinbb-headshot-square.jpg)
 
-Hello! I'm Robin. I help tech startups avoid growing pains by leading remote
-software teams.
+Hello! I'm Robin. I help tech startups avoid growing pains by leading software
+teams.
 
 This is my blog about software development, DevOps, and software team
 leadership.

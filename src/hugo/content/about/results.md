@@ -7,7 +7,7 @@ url: /results/
 ---
 
 
-I am a hands-on team leadership consultant for deep-tech software teams.
+I am a hands-on leadership consultant for deep-tech software teams.
 
 Here are the results that I get:
 
