@@ -16,7 +16,7 @@ Coaching well means giving less advice.
 If you lead a software team, then you probably deliver coaching for improving
 certain behaviours of your team members.
 
-In doing that, never give more than 3 pieces of advice. The advice should be
+In doing that, never give more than 3 pieces of advice. Your advice should be
 constructive, never merely a critique. Aim for giving only 1 piece of advice.
 
 This is because we human beings have a limited capacity for change.
@@ -24,7 +24,7 @@ This is because we human beings have a limited capacity for change.
 <!--more-->
 
 
-If you give more than 3 pieces of advice, you risk seeing lack of progress on
+If you give more than 3 pieces of advice, you risk seeing a lack of progress on
 all of the behaviours, or worse.
 
 I have seen managers, leaders, and coaches bombard their team members with
@@ -41,7 +41,7 @@ coaching session:
 3. The team member disagrees with some of your advice and therefore distrusts
    all of your advice; they make no changes and they trust you less.
 4. The team member internalizes the advice improperly; they transform the
-   advice into harmful thoughts that they are not sufficient; performance drops
+   advice into harmful thoughts that they are inadequate; performance drops
    due to their lowered self-esteem and you never find out why.
 5. The team member feels hurt that you observed so many flaws in their
    behaviour and feels a loss of psychological safety; their trust in you is
@@ -50,6 +50,6 @@ coaching session:
 If there are many behaviour changes that you rapidly need from a given team
 member, then give more frequent coaching.
 
-Giving few pieces of advice allows the employee to focus on the desired
+Giving fewer pieces of advice allows the employee to focus on the desired
 behaviour changes and to succeed at them. They feel successful. Subsequent
 coaching sessions begin with a history of success.
