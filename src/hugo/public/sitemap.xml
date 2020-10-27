@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.robinbb.com/tags/1-on-1s/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <loc>https://blog.robinbb.com/blog/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.robinbb.com/blog/</loc>
+    <loc>https://blog.robinbb.com/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/blog/tip-they-dont-have-to-like-you/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/1-on-1s/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://blog.robinbb.com/tags/leadership/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.robinbb.com/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url>
   
