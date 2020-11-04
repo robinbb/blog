@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toxic-worker on Robin Bate Boerop</title>
+    <link>https://blog.robinbb.com/tags/toxic-worker/</link>
+    <description>Recent content in toxic-worker on Robin Bate Boerop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://blog.robinbb.com/tags/toxic-worker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toxic Developers Destroy Productivity</title>
+      <link>https://blog.robinbb.com/blog/toxic-developers-destroy-productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/toxic-developers-destroy-productivity/</guid>
+      <description>&lt;p&gt;If you are the leader of a software team, then you have heard of the legendary
+10x developer - the superstar worker. To improve your team’s productivity,
+learn this: replacing an average worker with a superstar worker is not nearly
+as effective as removing a toxic worker. It’s not even close. Toxic workers
+destroy productivity.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
