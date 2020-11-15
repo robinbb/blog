@@ -18,6 +18,8 @@ destroy productivity.
 <!--more-->
 
 
+<iframe src="https://player.vimeo.com/video/479351559" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 [The science](https://www.hbs.edu/faculty/Publication%20Files/16-057_d45c0b4f-fa19-49de-8f1b-4b12fe054fea.pdf)
 is in on the effect of toxic workers. Avoiding a toxic worker (or converting a
 toxic worker to an average worker) enhances performance to a much greater

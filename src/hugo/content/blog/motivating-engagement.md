@@ -8,6 +8,7 @@ tags:
 
 ---
 
+
 It is important for members of your software team to be engaged because:
 
 - engagement improves your team's effectiveness, and;
@@ -15,6 +16,9 @@ It is important for members of your software team to be engaged because:
 
 <!--more-->
  
+
+<iframe src="https://player.vimeo.com/video/479351590" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ### Team Performance
 

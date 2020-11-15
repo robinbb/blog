@@ -13,6 +13,8 @@ you.
 <!--more-->
 
 
+<iframe src="https://player.vimeo.com/video/479349532" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 By definition, leaders make change. The influence required for making change
 does not require friendships with team members. What _is_ required for
 influence? [Trust](/blog/trust/).

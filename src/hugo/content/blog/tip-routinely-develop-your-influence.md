@@ -9,6 +9,7 @@ tags:
 
 ---
 
+
 If you are a software team leader, then you will need to make change on your
 team or within your company.  That is by definition; leaders make change.
 
@@ -19,7 +20,10 @@ Methodically developing your social influence is much more effective than
 allowing your degree of social influence to develop "by accident". Make it part
 of your routine.
 
+
 <!--more-->
+
+<iframe src="https://player.vimeo.com/video/479351552" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 In the worst case, failing to make influence-building a part of your routine
 could result in you having no ability to make change.  I have seen entire teams
