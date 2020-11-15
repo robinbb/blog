@@ -1,7 +1,6 @@
 baseURL = "https://blog.robinbb.com/"
 languageCode = "en-us"
 title = "Robin Bate Boerop"
-theme = "robinbb"
 
 # MetaDataFormat = "yaml"
 # DefaultContentLanguage = "en"
