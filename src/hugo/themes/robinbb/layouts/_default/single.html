@@ -1,15 +1,7 @@
-{{ define "header" }}
-   {{/* We can override any block in the baseof file be defining it in the template */}}
-  {{ partial "page-header.html" . }}
-{{ end }}
-
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
-      <h1 class="f1 athelas mt3 mb1">
-        {{- .Title -}}
-      </h1>
       {{ with .Params.author }}
       <p class="tracked">
           By <strong>
@@ -25,7 +17,6 @@
       <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
         {{- .Date.Format "2 January 2006" -}}
       </time>
-
       {{/*
           Show "reading time" and "word count" but only if one of the following are true:
           1) A global config `params` value is set `show_reading_time = true`
@@ -49,10 +40,8 @@
       {{ end }}
       </div>
     </div>
-
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
-
   </article>
 {{ end }}

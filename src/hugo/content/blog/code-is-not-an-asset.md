@@ -12,6 +12,7 @@ Let me explain what I mean by “code is a liability”.
 
 <!--more-->
 
+<iframe src="https://player.vimeo.com/video/479351595" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 In what follows, I use the term “tests” to refer to automated test software. I
 use the term “code” to refer to software source that implements features but
