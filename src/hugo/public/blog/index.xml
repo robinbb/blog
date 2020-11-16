@@ -6,10 +6,21 @@
     <description>Recent content in Articles on Robin Bate Boerop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tip: Repeat Yourself Often</title>
+      <link>https://blog.robinbb.com/blog/tip-repeat-yourself-often/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/tip-repeat-yourself-often/</guid>
+      <description>&lt;p&gt;New leaders of software teams are frequently surprised that their messages do
+not penetrate into their team’s collective consciousness. When communicating
+with your team, repeat yourself often.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Toxic Developers Destroy Productivity</title>
