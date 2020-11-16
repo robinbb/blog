@@ -24,7 +24,7 @@ This is because we human beings have a limited capacity for change.
 <!--more-->
 
 
-<iframe src="https://player.vimeo.com/video/479351596" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+{{< tallVimeo 479351596 >}}
 
 If you give more than 3 pieces of advice, you risk seeing a lack of progress on
 all of the behaviours, or worse.

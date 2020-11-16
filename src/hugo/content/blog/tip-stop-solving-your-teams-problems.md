@@ -17,7 +17,7 @@ This is an opportunity for more than a solved problem.
 <!--more-->
 
 
-<iframe src="https://player.vimeo.com/video/479349509" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+{{< tallVimeo 479349509 >}}
 
 Your analytical self wants to solve problems. Instead of simply providing a
 solution, see the problem as an opportunity to improve your empathetic self.
