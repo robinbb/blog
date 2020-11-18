@@ -237,7 +237,8 @@ packages.&lt;/p&gt;</description>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/blog/install-nix-on-macos-catalina/</guid>
-      <description>&lt;p&gt;Recent changes by Apple to macOS have made that operating system less
+      <description>&lt;p&gt;&lt;strong&gt;Updated on: 18 Nov 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recent changes by Apple to macOS have made that operating system less
 compatible with software designed for Unix, including
 &lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt;.
 Here is how to work around the changes to install Nix on macOS 15 (Catalina).&lt;/p&gt;</description>

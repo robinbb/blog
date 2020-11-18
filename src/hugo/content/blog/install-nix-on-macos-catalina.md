@@ -10,6 +10,8 @@ tags:
  - Developer Environment
 ---
 
+**Updated on: 18 Nov 2020**
+
 Recent changes by Apple to macOS have made that operating system less
 compatible with software designed for Unix, including
 [Nix](https://nixos.org/).
@@ -24,7 +26,7 @@ sudo diskutil apfs addVolume disk1 APFSX Nix -mountpoint /nix
 sudo diskutil enableOwnership /nix
 sudo chflags hidden /nix
 echo "LABEL=Nix /nix apfs rw" | sudo tee -a /etc/fstab
-sh <(curl https://nixos.org/nix/install) --daemon
+sh <(curl -L https://nixos.org/nix/install) --daemon
 ```
 
 ### Credits
