@@ -10,10 +10,7 @@ echo "... prerequisites tested."
 echo
 
 echo "Building CSS and JavaScript via Yarn and NPM..."
-( cd "$MY_DIR"/hugo/theme-src 
-  yarn install
-  npm run-script build:production
-)
+( cd "$MY_DIR"/hugo/theme-src  && ./build )
 echo "... CSS and JavaScript code built."
 echo
 

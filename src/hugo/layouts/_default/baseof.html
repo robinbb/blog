@@ -14,7 +14,7 @@
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
 
-    {{ $stylesheet := .Site.Data.webpack_assets.app }}
+    {{ $stylesheet := .Site.Data.robinbb_assets }}
     {{ with $stylesheet.css }}
       <link href="{{ relURL (printf "%s%s" "dist/" .) }}" rel="stylesheet">
     {{ end }}

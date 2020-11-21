@@ -4,3 +4,12 @@ MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
 cd "$MY_DIR"
 yarn install
 npm run-script build:production
+
+# New build
+cat \
+  'css/tachyons-4.12.0.min.css' \
+  'css/_code.css' \
+  'css/_hugo-internal-templates.css' \
+  'css/_social-icons.css' \
+  'css/_styles.css' \
+  > ../static/dist/css/robinbb.css
