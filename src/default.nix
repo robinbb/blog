@@ -8,5 +8,6 @@ pkgs.mkShell {
     bazel
     gnugrep
     hugo
+    yarn
   ];
 }
