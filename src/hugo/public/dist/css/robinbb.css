@@ -14,8 +14,8 @@ pre  code {
   white-space: pre;
   font-size: .875rem;
   line-height: 2;
-
 }
+
 
 pre {
   background-color: #222;
@@ -120,8 +120,6 @@ pre {
 .rss:hover{
   fill: #ff6f1a;
 }
-/* Put your custom styles here and run `npm start` from the "src" directory on */
-
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
