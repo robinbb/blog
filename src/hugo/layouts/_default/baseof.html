@@ -16,6 +16,8 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">
 
     {{ $stylesheet := .Site.Data.robinbb_assets }}
     {{ with $stylesheet.css }}
@@ -47,7 +49,7 @@
     {{ end }}
     {{ block "head" . }}{{ partial "head-additions.html" }}{{ end }}
   </head>
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}"
+  <body class="ma0 {{ $.Param "body_classes"  | default "merriweather-sans bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}"
     >{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main class="pb7" role="main"
       >{{ block "main" . }}{{ end }}

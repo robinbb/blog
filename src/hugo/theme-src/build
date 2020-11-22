@@ -10,4 +10,5 @@ cat \
   'css/ananke/_hugo-internal-templates.css' \
   'css/ananke/_social-icons.css' \
   'css/ananke/_styles.css' \
+  'css/robinbb.css' \
   > ../static/dist/css/robinbb.css
