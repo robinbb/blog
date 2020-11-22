@@ -1,14 +1,14 @@
 ---
 title: "About"
-description: "Robin Bate Boerop"
+description: "Bio: Robin Bate Boerop"
 draft: false
 type: page
 ---
 
 ![Robin's Headshot](/images/robinbb-headshot-square.jpg)
 
-Hello! I'm Robin. I help tech startups avoid growing pains by leading software
-teams.
+I help companies avoid growing pains by leading software teams. Learn more
+about my [results](/results/).
 
 This is my blog about software development, DevOps, and software team
 leadership.

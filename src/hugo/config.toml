@@ -2,10 +2,9 @@ baseURL = "https://blog.robinbb.com/"
 languageCode = "en-us"
 title = "Robin Bate Boerop"
 
-# MetaDataFormat = "yaml"
-# DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+Paginate = 9
 googleAnalytics = "UA-48081501-1"  # blog.robinbb.com
 enableRobotsTXT = true
 
@@ -13,6 +12,17 @@ enableRobotsTXT = true
 #   changefreq = "monthly"
 #   priority = 0.5
 #   filename = "sitemap.xml"
+
+# SectionPagesMenu = "main"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+  [[menu.main]]
+    identifier = "blog"
+    name = "Articles"
+    url = "/blog/"
 
 [markup]
   [markup.goldmark]

@@ -11,20 +11,17 @@ I am a hands-on leadership consultant for deep-tech software teams.
 
 Here are the results that I get:
 
-<!--more-->
-
-
+- Deployable software
 - Reduced employee turnover
-- Highly deployable software
 - Better team decision-making
 - De-risked technology strategies
 - Tuned agile development processes
+- World-class build automation software
 - Increased confidence in deployed software
+- Reduced recruiting costs by effective hiring
 - Measurable increase of development velocity
-- Reduced recruiting costs via more effective hiring
 - Measurable improvement of employee engagement
 - Software architecture recommendations worth implementing
-- World-class techniques applied to the build automation software
 - Substantial productivity improvements that last
 
 To learn more about my leadership style and philosophy, watch my videos on
