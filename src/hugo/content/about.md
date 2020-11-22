@@ -5,7 +5,13 @@ draft: false
 type: page
 ---
 
-![Robin's Headshot](/images/robinbb-headshot-square.jpg)
+<div class="fl w-100 w-50-ns pr2 pl1">
+
+![Robin's Headshot](/images/robinbb-profile-photo-bw.jpeg)
+
+</div>
+
+<div class="fl w-100 w-50-ns pl2">
 
 I help companies avoid growing pains by leading software teams. Learn more
 about my [results](/results/).
@@ -13,15 +19,12 @@ about my [results](/results/).
 This is my blog about software development, DevOps, and software team
 leadership.
 
-I have developed software professionally for 20 years. For the last 9 years, I
-have led software teams in consulting engagements and as part of Silicon Valley
-tech startups. I co-founded a Canadian software tech startup that was acquired
-in 2014.
+I have developed software
+[professionally for 20 years](https://www.linkedin.com/in/robinbb).
+For the last 9 years, I have led software teams in consulting engagements and
+as part of Silicon Valley tech startups. I co-founded a Canadian software tech
+startup that was acquired in 2014.
 
-I am a consultant with [Tweag][Tweag].
+I am a consultant with [Tweag](https://tweag.io/).
 
-- [LinkedIn](https://www.linkedin.com/in/robinbb/)
-- [Twitter](https://twitter.com/robinbateboerop)
-- [GitHub](https://github.com/robinbb)
-
-[Tweag]: https://tweag.io/
+</div>
