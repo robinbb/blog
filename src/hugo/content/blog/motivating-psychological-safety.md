@@ -17,6 +17,8 @@ creating a psychologically safe work environment.
 <!--more-->
 
 
+{{< tallVimeo 483848775 >}}
+
 If you lead a software team, you need to understand how to produce
 psychological safety.
 

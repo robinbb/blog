@@ -21,6 +21,8 @@ highest order.
 <!--more-->
 
 
+{{< tallVimeo 483848719 >}}
+
 Surprisingly, some teams are formed without thought for their missions. I have
 been placed in management and leadership positions on teams where there was no
 clear mission. I surmise that the senior leaders placing me on those teams
