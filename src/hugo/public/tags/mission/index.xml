@@ -6,10 +6,21 @@
     <description>Recent content in mission on Robin Bate Boerop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.robinbb.com/tags/mission/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mission Defines Success</title>
+      <link>https://blog.robinbb.com/blog/mission-defines-success/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/mission-defines-success/</guid>
+      <description>&lt;p&gt;The purpose of a software team is to complete a mission. If you are a software
+team leader, your success is defined by the accomplishment of that mission; you
+must own the result 100%.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Your Dev Team Needs A Mission</title>
