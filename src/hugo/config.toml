@@ -4,7 +4,7 @@ title = "robinbb"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-Paginate = 9
+Paginate = 12
 googleAnalytics = "UA-48081501-1"  # blog.robinbb.com
 enableRobotsTXT = true
 
@@ -21,7 +21,7 @@ enableRobotsTXT = true
     url = "/about/"
   [[menu.main]]
     identifier = "blog"
-    name = "Articles"
+    name = "Blog"
     url = "/blog/"
 
 [markup]
