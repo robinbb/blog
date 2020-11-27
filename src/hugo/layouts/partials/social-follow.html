@@ -15,13 +15,11 @@
 {{ with .Param "twitter" }}
 <a href="{{ . }}" target="_blank" class="link-transition twitter link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
   {{ partial "svg/twitter.svg" (dict "size" $icon_size) }}
-  {{- partial "new-window-icon.html" . -}}
 </a>
 {{ end }}
 {{ with .Param "instagram" }}
 <a href="{{ . }}" target="_blank" class="link-transition instagram link dib z-999 pt3 pt0-l mr1" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
   {{ partial "svg/instagram.svg" (dict "size" $icon_size) }}
-  {{- partial "new-window-icon.html" . -}}
 </a>
 {{ end }}
 {{ with .Param "youtube" }}
@@ -33,19 +31,16 @@
 {{ with .Param "linkedin" }}
 <a href="{{ . }}" target="_blank" class="link-transition linkedin link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" rel="noopener" aria-label="follow on LinkedIn——Opens in a new window">
   {{ partial "svg/linkedin.svg" (dict "size" $icon_size) }}
-  {{- partial "new-window-icon.html" . -}}
 </a>
 {{ end }}
 {{ with .Param "github" }}
 <a href="{{ . }}" target="_blank" class="link-transition github link dib z-999 pt3 pt0-l mr1" title="Github link" rel="noopener" aria-label="follow on Github——Opens in a new window">
   {{ partial "svg/github.svg" (dict "size" $icon_size) }}
-  {{- partial "new-window-icon.html" . -}}
 </a>
 {{ end }}
 {{ with .Param "gitlab" }}
 <a href="{{ . }}" target="_blank" class="link-transition gitlab link dib z-999 pt3 pt0-l mr1" title="Gitlab link" rel="noopener" aria-label="follow on Gitlab——Opens in a new window">
   {{ partial "svg/gitlab.svg" (dict "size" $icon_size) }}
-  {{- partial "new-window-icon.html" . -}}
 </a>
 {{ end }}
 {{ with .Param "keybase" }}

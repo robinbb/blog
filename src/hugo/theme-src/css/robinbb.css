@@ -29,3 +29,7 @@ a:hover, .nested-links a:hover {
   text-decoration-color: #fc7851;
   -webkit-text-decoration-color: #fc7851;
 }
+
+.twitter:hover, .instagram:hover, .github:hover, .gitlab:hover, .linkedin:hover {
+  fill: #fc7851;
+}
