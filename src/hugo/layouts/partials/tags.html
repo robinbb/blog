@@ -1,9 +1,15 @@
-<ul class="pa0">
-  {{ range .Params.tags }}
-   <li class="list">
-     <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-       {{- . -}}
-     </a>
-   </li>
-  {{ end }}
-</ul>
+<div
+ id="partials-tags"
+ class="mt5 bt b--gray nested-list-reset nested-copy-line-height"
+ ><h3 class="gray">Tags:</h3>
+  <ul class="pa0 list"
+   >{{ range .Params.tags }}
+    <li class="dib"
+     ><a
+       href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"
+       class="link f5 grow br-pill ba ph2 pv0 mb1 dib"
+       >{{- . -}}</a>
+    </li>
+    {{ end }}
+  </ul>
+</div>

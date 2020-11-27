@@ -138,22 +138,34 @@ pre {
 .nested-links a{
   overflow-wrap: break-word;
 }
+.merriweather {
+  font-family: "Merriweather", serif;
+}
+
 .merriweather-sans {
   font-family: "Merriweather Sans", sans-serif;
 }
 
-.roboto-slab {
-  font-family: "Roboto Slab", serif;
+.pt-sans-narrow {
+  font-family: "PT Sans Narrow", sans-serif;
 }
 
 .roboto-mono {
   font-family: "Roboto Mono", monospace;
 }
 
-.lora {
-  font-family: "Lora", serif;
-}
-
 code {
   font-family: "Roboto Mono", monospace;
+}
+
+a, .nested-links a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover, .nested-links a:hover {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: #fc7851;
+  -webkit-text-decoration-color: #fc7851;
 }
