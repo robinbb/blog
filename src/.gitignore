@@ -1,2 +1,3 @@
-*.swo
+/hugo/resources/
 *.swp
+*.swo

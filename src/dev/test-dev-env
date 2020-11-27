@@ -6,7 +6,11 @@ echo "Ensuring 'grep' is present..."
 command -v grep > /dev/null
 echo "... 'grep' is present."
 echo
-HUGO_DESIRED_VERSION="v0.74.3"
+echo "Ensuring 'hugo' is present..."
+command -v hugo > /dev/null
+echo "... 'hugo' is present."
+echo
+HUGO_DESIRED_VERSION="v0.78.2"
 echo "Ensuring 'hugo' is of the correct version ($HUGO_DESIRED_VERSION)..."
 HUGO_OUTPUT="$(hugo version)"
 echo "$HUGO_OUTPUT"

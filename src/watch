@@ -1,0 +1,13 @@
+#! /bin/sh
+
+set -e
+
+if [ ! "$IN_NIX_SHELL" ]; then
+  exec nix-shell --run "$0 $@"
+fi
+
+set -u
+
+MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
+cd "$MY_DIR"/hugo
+hugo server --disableFastRender "$@"
