@@ -31,7 +31,7 @@ enableRobotsTXT = true
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
+  # category = "categories"
 
 [params]
   body_classes = "bg-white black pt-sans-narrow"
