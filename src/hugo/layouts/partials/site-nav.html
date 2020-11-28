@@ -28,7 +28,7 @@
      id="site-nav-i18nlist"
      class="dib red"
      >{{/* partial "i18nlist.html" . */}}</div>
-    {{ if .Site.Menus.main }}
+    {{ if (and (not (eq .Site.Home.RelPermalink .RelPermalink)) .Site.Menus.main) }}
     <div
      class="fr mt1 flex ma0"
      >{{ range .Site.Menus.main }}
