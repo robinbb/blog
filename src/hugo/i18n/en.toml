@@ -32,4 +32,4 @@ other = "An email address is required."
 other = "Send"
 
 [taxonomyPageList]
-other = "Articles tagged with “{{ .Title }}”:"
+other = "Tag “{{ .Title }}”"
