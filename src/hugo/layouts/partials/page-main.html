@@ -1,0 +1,30 @@
+<div
+ id="page-single-outer-div"
+ class="flex-l mt2 mw8 center"
+ ><article
+   id="page-single-article"
+   class="center cf pa3 pa4-ns mw7"
+   ><header
+     id="page-single-header"
+     class="mt0"
+     >
+    {{ with .Params.title }}
+      <h1
+       id="home-title"
+       class="f1 bt mt0"
+       >{{ . }}</h1>
+    {{ end }}
+    {{ with .Params.description }}
+      <h2
+       id="home-description"
+       class="f2"
+       >{{ . }}</h2>
+    {{ end }}
+    </header>
+    <div
+     id="page-single-content"
+     class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray"
+     >{{ .Content }}</div>
+  </article>
+</div>
+

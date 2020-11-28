@@ -17,20 +17,6 @@
      id="partial-site-nav-right-menu"
      class="flex-ns items-center justify-between"
      >{{ partial "i18nlist.html" . }}
-      {{ if .Site.Menus.main }}
-      <ul
-       class="flex pl0 mr3">
-        {{ range .Site.Menus.main }}
-        <li
-         class="list f4 fw4 dib pr3"
-         ><a
-           href="{{ .URL }}"
-           title="{{ .Name }}"
-           >{{ .Name }}</a>
-        </li>
-        {{ end }}
-      </ul>
-      {{ end }}
       {{ partialCached "social-follow.html" . }}
     </div>
   </div>

@@ -10,10 +10,10 @@
     {{ end }}
      <section
       id="default-list-section-pages"
-      class="flex-ns flex-wrap justify-around"
+      class="flex-ns flex-wrap justify-between"
       >{{ range .Paginator.Pages }}
        <div
-        class="relative w-100 w-third-l mb3 ph3"
+        class="relative w-100 w-30-l mb3"
 	>{{- partial "summary.html" . -}}</div>
       {{ end }}
     </section>

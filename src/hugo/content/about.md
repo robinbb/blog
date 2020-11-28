@@ -1,17 +1,16 @@
 ---
-title: "About"
-description: "Bio: Robin Bate Boerop"
+title: "Robin Bate Boerop"
 draft: false
 type: page
 ---
 
-<div class="fl w-100 w-50-ns pr2 pl1">
+<div class="flex-ns justify-between">
+<div class="w-50-ns">
 
 ![Robin's Headshot](/images/robinbb-profile-photo-bw.jpeg)
 
 </div>
-
-<div class="fl w-100 w-50-ns pl2">
+<div class="w-50-ns ml3">
 
 I help companies avoid growing pains by leading software teams. Learn more
 about my [results](/results/).
@@ -27,4 +26,5 @@ startup that was acquired in 2014.
 
 I am a consultant with [Tweag](https://tweag.io/).
 
+</div>
 </div>

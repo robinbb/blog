@@ -1,25 +1,2 @@
 {{ define "header" }}{{ partial "site-header.html" . }}{{ end }}
-{{ define "main" }}
-<div
- id="page-single-outer-div"
- class="flex-l mt2 mw8 center"
- ><article
-   id="page-single-article"
-   class="center cf pv5 ph3 ph4-ns mw7"
-   ><header
-     id="page-single-header"
-     >
-    {{ with .Params.description }}
-      <h2
-       id="page-single-description"
-       class="f2"
-       >{{ . }}</h2>
-    {{ end }}
-    </header>
-    <div
-     id="page-single-content"
-     class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray"
-     >{{ .Content }}</div>
-  </article>
-</div>
-{{ end }}
+{{ define "main" }}{{ partial "page-main.html" . }}{{ end }}
