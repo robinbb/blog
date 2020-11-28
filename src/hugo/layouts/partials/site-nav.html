@@ -1,0 +1,45 @@
+<nav
+ id="site-nav"
+ class="pa3"
+ role="navigation"
+ ><div
+   id="site-nav-div"
+   class="cf"
+   ><div
+     id="site-nav-logo"
+     class="fl w-50 pb3"
+     ><a
+       href="{{ .Site.Home.RelPermalink }}"
+       class="audiowide f2"
+       >{{ with .Site.Params.site_logo }}
+        <img
+         src="{{ . }}"
+         class="w100 mw5-ns"
+         alt="{{ $.Site.Title }}"
+         />
+         {{ else }}{{ .Site.Title }}{{ end }}
+      </a>
+    </div>
+    <div
+     id="site-nav-social-follow"
+     class="fr pl3 pb3"
+     >{{ partial "social-follow.html" . }}</div>
+    <div
+     id="site-nav-i18nlist"
+     class="dib red"
+     >{{/* partial "i18nlist.html" . */}}</div>
+    {{ if .Site.Menus.main }}
+    <div
+     class="fr mt1 flex ma0"
+     >{{ range .Site.Menus.main }}
+      <a
+       class="f4 ph3"
+       href="{{ .URL }}"
+       title="{{ .Name }}"
+       >{{ .Name }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+    </div>
+  </div>
+</nav>

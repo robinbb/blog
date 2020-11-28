@@ -1,5 +1,5 @@
 ---
-title: "Robin Bate Boerop"
+title: "About Robin Bate Boerop"
 draft: false
 type: page
 ---
@@ -14,9 +14,6 @@ type: page
 
 I help companies avoid growing pains by leading software teams. Learn more
 about my [results](/results/).
-
-This is my blog about software development, DevOps, and software team
-leadership.
 
 I have developed software
 [professionally for 20 years](https://www.linkedin.com/in/robinbb).

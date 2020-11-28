@@ -16,8 +16,6 @@
     
 
     
-
-    
     
 
     
@@ -64,27 +62,30 @@ if (!doNotTrack) {
   <body
    class="ma0 bg-white black pt-sans-narrow production"
    ><header
- id="home-header"
+ id="site-header-header"
  ><div
-   id="home-header-nav-wrapper"
+   id="site-header-nav-wrapper"
    class="pb0 bg-white"
    ><nav
+ id="site-nav"
  class="pa3"
  role="navigation"
  ><div
-   id="partial-site-nav-outer-div"
-   class="flex-ns justify-between items-center"
-   ><a
-     href="/"
-     class="w-50 audiowide f2 dib"
-     >robinbb
-    </a>
+   id="site-nav-div"
+   class="cf"
+   ><div
+     id="site-nav-logo"
+     class="fl w-50 pb3"
+     ><a
+       href="/"
+       class="audiowide f2"
+       >robinbb
+      </a>
+    </div>
     <div
-     id="partial-site-nav-right-menu"
-     class="flex-ns items-center justify-between"
+     id="site-nav-social-follow"
+     class="fr pl3 pb3"
      >
-
-      
 
 
 
@@ -123,7 +124,29 @@ if (!doNotTrack) {
 
 
 
-
+</div>
+    <div
+     id="site-nav-i18nlist"
+     class="dib red"
+     ></div>
+    
+    <div
+     class="fr mt1 flex ma0"
+     >
+      <a
+       class="f4 ph3"
+       href="/about/"
+       title="About"
+       >About</a>
+      
+      <a
+       class="f4 ph3"
+       href="/blog/"
+       title="Blog"
+       >Blog</a>
+      
+    </div>
+    
     </div>
   </div>
 </nav>
@@ -155,16 +178,18 @@ if (!doNotTrack) {
     </header>
     <div
      id="page-single-content"
-     class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray"
+     class="nested-copy-line-height lh-copy f4 nested-img mid-gray"
      ><div class="flex-ns justify-between">
 <div class="w-50-ns">
 <p><img src="/images/robinbb-profile-photo-bw.jpeg" alt="Robin&rsquo;s Headshot"></p>
 </div>
 <div class="w-50-ns ml3">
-<p>I help companies avoid growing pains by leading software teams. Learn more
-about my <a href="/results/">results</a>.</p>
+<p>I help companies avoid growing pains by leading software teams.</p>
 <p>This is my blog about software development, DevOps, and leadership.</p>
-<p>I am a global software leadership consultant with <a href="https://tweag.io/">Tweag</a>.</p>
+<div class="flex justify-around">
+<a href="/about/" class="dim f3 button pa2 tc ba br3">About Me</a>
+<a href="/blog/" class="dim f3 button pa2 tc ba br3">Read Blog</a>
+</div>
 </div>
 </div>
 </div>

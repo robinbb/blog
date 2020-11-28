@@ -176,6 +176,11 @@ a:hover, .nested-links a:hover {
   -webkit-text-decoration-color: #fc7851;
 }
 
+a.button {
+  color: #FFF;
+  background-color: #fc7851;
+}
+
 .twitter:hover, .instagram:hover, .github:hover, .gitlab:hover, .linkedin:hover {
   fill: #fc7851;
 }

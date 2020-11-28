@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://blog.robinbb.com/blah/</loc>
+    <loc>https://blog.robinbb.com/about/</loc>
   </url>
   
   <url>
@@ -242,10 +242,6 @@
   
   <url>
     <loc>https://blog.robinbb.com/results/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.robinbb.com/about/</loc>
   </url>
   
 </urlset>

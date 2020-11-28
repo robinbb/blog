@@ -12,12 +12,15 @@ type: page
 </div>
 <div class="w-50-ns ml3">
 
-I help companies avoid growing pains by leading software teams. Learn more
-about my [results](/results/).
+I help companies avoid growing pains by leading software teams.
 
 This is my blog about software development, DevOps, and leadership.
 
-I am a global software leadership consultant with [Tweag](https://tweag.io/).
+<div class="flex justify-around">
+<a href="/about/" class="dim f3 button pa2 tc ba br3">About Me</a>
+<a href="/blog/" class="dim f3 button pa2 tc ba br3">Read Blog</a>
+</div>
 
 </div>
+
 </div>
