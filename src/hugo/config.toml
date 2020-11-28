@@ -36,7 +36,7 @@ enableRobotsTXT = true
 [params]
   body_classes = "bg-white black pt-sans-narrow"
   background_color_class = "bg-white"
-  post_content_classes = "merriweather"
+  post_content_classes = "merriweather mid-gray f4"
   twitter = "https://twitter.com/robinbateboerop/"
   github = "https://github.com/robinbb/"
   linkedin = "https://www.linkedin.com/in/robinbb/"

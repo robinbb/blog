@@ -1,5 +1,6 @@
 ---
-title: "Why Leaders Should Create Psychologically Safe Work Environments"
+title: "Motivating Psychological Safety"
+description: "Why Leaders Should Create Psychologically Safe Work Environments"
 date: "2020-11-25"
 draft: false
 tags:

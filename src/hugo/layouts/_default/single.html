@@ -2,11 +2,19 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article
    id="default-single-article"
-   class="flex-l flex-wrap justify-between mw8 center ph3"
+   class="cf ma3 ma4-ns ma5-l"
    ><header
      id="default-single-header"
-     class="w-100"
-     >{{ with .Params.author }}
+     class="fn fl-l w-50-l pr5-l"
+     ><h1
+       id="default-single-title"
+       class="f1 lh-title bt bw1 mt0"
+       >{{ .Title }}</h1>
+      <h2
+       id="default-single-subtitle"
+       class="f3 lh-title gray"
+       >{{ .Description }}</h2>
+      {{ with .Params.author }}
       <p class="tracked">
           By <strong>
           {{ if reflect.IsSlice . }}
@@ -18,9 +26,9 @@
       </p>
       {{ end }}
       <time
-        class="f6 mv3 dib tracked"
-        {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}
-        >{{- .Date.Format "2 January 2006" -}}</time>
+       class="f6 mv3 dib tracked"
+       {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}
+       >{{- .Date.Format "2 January 2006" -}}</time>
       {{/*
           Show "reading time" and "word count" but only if one of the following are true:
           1) A global config `params` value is set `show_reading_time = true`
@@ -33,8 +41,8 @@
       {{ end }}
     </header>
     <div
-      id="default-single-outer-div"
-      class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes" }} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+      id="default-single-content-wrapper"
+      class="fn fl-l w-50-l nested-copy-line-height lh-copy {{ $.Param "post_content_classes" }} nested-links nested-img">
       {{- .Content -}}
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
@@ -45,12 +53,13 @@
       {{ end }}
       </div>
     </div>
-    <aside
-     id="default-single-aside"
-     class="w-30-l"
-     >{{/* partial "social-share.html" . */}}
-      {{- partial "menu-contextual.html" . -}}
-      {{- partial "tags.html" . -}}
-    </aside>
+    <div
+     id="default-single-tags"
+     class="fn fl-l w-50-l pr5-l tr"
+     >{{- partial "tags.html" . -}}</div>
+    <div
+     id="default-single-contextualenu"
+     class="fn fl-l w-50-l tl"
+     >{{- partial "menu-contextual.html" . -}}</div>
   </article>
 {{ end }}

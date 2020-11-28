@@ -184,3 +184,7 @@ a.button {
 .twitter:hover, .instagram:hover, .github:hover, .gitlab:hover, .linkedin:hover {
   fill: #fc7851;
 }
+
+#default-single-content-wrapper p:first-child {
+  margin-top: 0;
+}
