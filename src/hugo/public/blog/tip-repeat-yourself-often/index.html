@@ -65,12 +65,11 @@ if (!doNotTrack) {
 
     
     <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
-
-
 
   </head>
   <body
@@ -80,27 +79,36 @@ if (!doNotTrack) {
  ><div
    id="site-header-nav-wrapper"
    class="pb0 bg-white"
-   ><nav class="pv3 ph3 ph4-ns"
+   ><nav
+ class="pv3 ph3"
  role="navigation"
- ><div class="flex-l justify-between items-center center"
-   ><a href="/"
-     class="f3 fw2 dib"
+ ><div
+   id="partial-site-nav-outer-div"
+   class="flex-l justify-between items-center"
+   ><a
+     href="/"
+     class="audiowide f2 dib"
      >robinbb
     </a>
-    <div class="flex-l items-center"
+    <div
+     id="partial-site-nav-right-menu"
+     class="flex-l items-center"
      >
 
       
-      <ul class="pl0 mr3">
+      <ul
+       class="pl0 mr3">
         
-        <li class="list f5 f4-ns fw4 dib pr3"
+        <li
+         class="list f5 f4-ns fw4 dib pr3"
          ><a
            href="/about/"
            title="About"
            >About</a>
         </li>
         
-        <li class="list f5 f4-ns fw4 dib pr3"
+        <li
+         class="list f5 f4-ns fw4 dib pr3"
          ><a
            href="/blog/"
            title="Blog"
@@ -153,12 +161,6 @@ if (!doNotTrack) {
   </div>
 </nav>
 
-  </div>
-  <div
-   class="tc-l pv3 ph3 ph4-ns"
-   ><h1
-     class="f1 f-subheadline-l fw2 gray mb0 lh-title"
-     >Tip: Repeat Yourself Often</h1>
   </div>
 </header>
 
@@ -356,7 +358,10 @@ laborious, and more time consuming. Plan for this.</p>
     <footer
  class="bg-white bottom-0 w-100 pa3"
  role="contentinfo"
- >Copyright &copy; 2020 Robin Bate Boerop. All rights reserved.</footer>
+ ><div
+   class="tc"
+   >Copyright &copy; 2020 Robin Bate Boerop. All rights reserved.</div>
+</footer>
 
     
 <script type="text/javascript">

@@ -1,18 +1,20 @@
 {{ define "main" }}
   <article
-    id="default-list-article"
-    class="pa3 pa4-ns nested-copy-line-height nested-img"
-    ><section
-       id="default-list-section-1"
-       class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"
-       >{{- .Content -}}</section>
+   id="default-list-article"
+   class="pa3 nested-copy-line-height nested-img"
+   >{{ with .Content }}
+    <section
+     id="default-list-section-content"
+     class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"
+     >{{- . -}}</section>
+    {{ end }}
      <section
-       id="default-list-section"
-       class="flex-ns flex-wrap justify-around mt5"
-       >{{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb5">
-          {{- partial "summary.html" . -}}
-        </div>
+      id="default-list-section-pages"
+      class="flex-ns flex-wrap justify-around"
+      >{{ range .Paginator.Pages }}
+       <div
+        class="relative w-100 w-third-l mb3 ph3"
+	>{{- partial "summary.html" . -}}</div>
       {{ end }}
     </section>
     {{- template "_internal/pagination.html" . -}}
