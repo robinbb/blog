@@ -17,7 +17,7 @@
     {{ end }}
 
     {{ block "favicon" . }}
-    {{ partialCached "site-favicon.html" . }}
+    {{ partial "site-favicon.html" . }}
     {{ end }}
 
     {{ if .OutputFormats.Get "RSS" }}

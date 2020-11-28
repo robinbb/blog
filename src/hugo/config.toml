@@ -34,6 +34,7 @@ enableRobotsTXT = true
   # category = "categories"
 
 [params]
+  favicon = "/robinbb-favicon.png"
   body_classes = "bg-white black pt-sans-narrow"
   background_color_class = "bg-white"
   post_content_classes = "merriweather mid-gray f4"
@@ -48,7 +49,6 @@ enableRobotsTXT = true
   # featured_image = "/images/robinbb-books-background-1.jpeg"
   # description = "The last theme you'll ever need. Maybe."
   # recent_posts_number = 2
-  # favicon = ""
   # # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   # background_color_class = "bg-black"
   # site_logo = ""
