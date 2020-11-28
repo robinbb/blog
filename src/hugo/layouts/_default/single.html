@@ -1,4 +1,5 @@
 {{ define "main" }}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
   {{ $section := .Site.GetPage "section" .Section }}
   <article
    id="default-single-article"
@@ -38,6 +39,16 @@
       {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
       <span class="f6 mv4 dib tracked"> - {{ .ReadingTime}} minutes read</span>
       <span class="f6 mv4 dib tracked"> - {{ .WordCount}} words</span>
+      {{ end }}
+      {{ if $featured_image }}
+        {{ $featured_image := (trim $featured_image "/") | absURL }}
+        <div
+         class="w-100 mb3"
+         ><img
+           src="{{ $featured_image }}"
+           class="img"
+	   >
+        </div>
       {{ end }}
     </header>
     <div
