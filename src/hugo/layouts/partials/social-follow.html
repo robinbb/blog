@@ -1,5 +1,5 @@
 
-{{ $icon_size := "32px" }}
+{{ $icon_size := "40px" }}
 {{ with .Param "stackoverflow" }}
 <a href="{{ . }}" target="_blank" class="link-transition stackoverflow link dib z-999" title="Stack Overflow link" rel="noopener" aria-label="follow on Stack Overflow——Opens in a new window">
   {{ partial "svg/stackoverflow.svg" (dict "size" $icon_size) }}

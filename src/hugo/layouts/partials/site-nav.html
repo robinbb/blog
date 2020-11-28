@@ -1,28 +1,21 @@
 <nav
  id="site-nav"
- class="pa3"
+ class="ph4 pt4 pb5"
  role="navigation"
  ><div
    id="site-nav-div"
    class="cf"
    ><div
      id="site-nav-logo"
-     class="fl w-50 pb3"
+     class="w-100 pb4 w-auto-l fl-l"
      ><a
        href="{{ .Site.Home.RelPermalink }}"
-       class="audiowide f2"
-       >{{ with .Site.Params.site_logo }}
-        <img
-         src="{{ . }}"
-         class="w100 mw5-ns"
-         alt="{{ $.Site.Title }}"
-         />
-         {{ else }}{{ .Site.Title }}{{ end }}
-      </a>
+       class="audiowide f1"
+       >{{ .Site.Title }}</a>
     </div>
     <div
      id="site-nav-social-follow"
-     class="fr pl3 pb3"
+     class="w-100 pb3 mt1 w-auto-l fr-l"
      >{{ partial "social-follow.html" . }}</div>
     <div
      id="site-nav-i18nlist"
@@ -30,10 +23,10 @@
      >{{/* partial "i18nlist.html" . */}}</div>
     {{ if (and (not (eq .Site.Home.RelPermalink .RelPermalink)) .Site.Menus.main) }}
     <div
-     class="fr mt1 flex ma0"
+     class="w-100 w-auto-l fr-l"
      >{{ range .Site.Menus.main }}
       <a
-       class="f4 ph3"
+       class="f2 mr4"
        href="{{ .URL }}"
        title="{{ .Name }}"
        >{{ .Name }}</a>
