@@ -3,7 +3,13 @@ title: "Results"
 description: "Software Teams Improved"
 draft: false
 type: page
-url: /results/
+tags:
+- CTO
+- manager
+- leader
+- consultant
+- software
+- results
 ---
 
 
