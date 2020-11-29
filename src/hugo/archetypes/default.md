@@ -1,7 +1,12 @@
-+++
-title =  "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
-tags = []
-featured_image = ""
-description = ""
-+++
+---
+title: "Robin Bate Boerop"
+date: "2020-Nov-07"
+description: ""
+featured_image: ""
+images: []
+videos: []
+audio: []
+tags:
+- leadership
+---
+

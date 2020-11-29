@@ -1,17 +1,23 @@
 ---
 title: "Tip: Repeat Yourself Often"
 date: "2020-11-16"
+description: ""
+featured_image: ""
+images: [ "https://i.vimeocdn.com/video/994955085.jpg?mw=400&mh=711" ]
+videos: [ "https://vimeo.com/479349579" ]
+audio: []
 tags:
 - leadership
 - communication
-
 ---
+
 
 New leaders of software teams are frequently surprised that their messages do
 not penetrate into their team’s collective consciousness. When communicating
 with your team, repeat yourself often.
 
 <!--more-->
+
 
 {{< tallVimeo 479349579 >}}
 
