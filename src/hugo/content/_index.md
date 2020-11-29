@@ -2,6 +2,13 @@
 title: "Robin Bate Boerop"
 draft: false
 type: page
+tags:
+- CTO
+- manager
+- leader
+- consultant
+- software
+- blog
 ---
 
 <div class="flex-ns justify-between">

@@ -3,7 +3,7 @@ title: "Tip: Repeat Yourself Often"
 date: "2020-11-16"
 description: ""
 featured_image: ""
-images: [ "https://i.vimeocdn.com/video/994955085.jpg?mw=400&mh=711" ]
+images: [ "https://i.vimeocdn.com/video/994955085.jpg" ]
 videos: [ "https://vimeo.com/479349579" ]
 audio: []
 tags:

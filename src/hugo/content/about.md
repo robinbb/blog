@@ -2,6 +2,13 @@
 title: "About Robin Bate Boerop"
 draft: false
 type: page
+tags:
+- CTO
+- manager
+- leader
+- consultant
+- software
+- startup
 ---
 
 <div class="flex-ns justify-between">
@@ -24,11 +31,5 @@ I am a global software leadership consultant with [Tweag](https://tweag.io/).
 <a href="/results/" class="dim f3 button pv2 ph3 tc ba br3">My Results</a>
 <a href="/blog/" class="dim f3 button pv2 ph3 tc ba br3">Read Blog</a>
 </div>
-</div>
-</div>
-
-
-
-
 </div>
 </div>

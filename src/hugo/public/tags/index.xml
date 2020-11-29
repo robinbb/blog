@@ -196,5 +196,68 @@
       <description></description>
     </item>
     
+    <item>
+      <title>blog</title>
+      <link>https://blog.robinbb.com/tags/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consultant</title>
+      <link>https://blog.robinbb.com/tags/consultant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/consultant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTO</title>
+      <link>https://blog.robinbb.com/tags/cto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/cto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leader</title>
+      <link>https://blog.robinbb.com/tags/leader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/leader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manager</title>
+      <link>https://blog.robinbb.com/tags/manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://blog.robinbb.com/tags/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://blog.robinbb.com/tags/startup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/tags/startup/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
