@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asset on robinbb</title>
+    <link>https://blog.robinbb.com/tags/asset/</link>
+    <description>Recent content in asset on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.robinbb.com/tags/asset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Is Not An Asset</title>
+      <link>https://blog.robinbb.com/blog/code-is-not-an-asset/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/code-is-not-an-asset/</guid>
+      <description>&lt;p&gt;Your software source code is not the asset that you might think it is. It is a
+liability. More code means more liability. Are you making the right trade-offs?&lt;/p&gt;
+&lt;p&gt;Let me explain what I mean by “code is a liability”.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

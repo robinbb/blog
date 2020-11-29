@@ -1,4 +1,5 @@
 ---
+title: "Remote Work"
 draft: true
 ---
 

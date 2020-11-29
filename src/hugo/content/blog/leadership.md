@@ -1,11 +1,13 @@
 ---
 title: "Leadership for Software Teams"
+description: >-
+  A primer on the concept of leadership for any member of a software team
 date: "2020-07-27"
 draft: false
 tags:
 - leadership
 - management
-
+- primer
 ---
 
 

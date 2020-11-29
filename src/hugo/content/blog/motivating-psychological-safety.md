@@ -3,10 +3,14 @@ title: "Motivating Psychological Safety"
 description: "Why Leaders Should Create Psychologically Safe Work Environments"
 date: "2020-11-25"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/1002534528.jpg"
+videos:
+- "https://vimeo.com/483848775"
 tags:
 - leadership
 - psychological-safety
-
+- video-teaser
 ---
 
 

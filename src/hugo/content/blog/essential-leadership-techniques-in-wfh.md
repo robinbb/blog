@@ -1,7 +1,13 @@
 ---
 title: "Essential Techniques for Leading Software Teams in the Work From Home Era"
+description: >-
+  Learn essential leadership techniques for remote work
 date: "2020-08-13"
 featured_image: "/images/robinbb-skills-matter-2020-08-13-promo.jpeg"
+images:
+- "/images/robinbb-skills-matter-2020-08-13-promo.jpeg"
+videos:
+- "https://skillsmatter.com/skillscasts/14842-essential-techniques-for-leading-software-teams-in-the-work-from-home-era"
 draft: false
 tags:
 - leadership

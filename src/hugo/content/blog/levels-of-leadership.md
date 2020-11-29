@@ -1,5 +1,9 @@
 ---
+title: "The Levels of Leadership"
 draft: true
+tags:
+- leadership
+- levels
 ---
 
 

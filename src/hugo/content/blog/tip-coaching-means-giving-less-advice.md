@@ -2,12 +2,16 @@
 title: "Tip: Coaching Means Giving Less Advice"
 date: "2020-10-26"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/995355827.jpg"
+videos:
+- "https://vimeo.com/479351596"
 tags:
 - tip
 - leadership
 - coaching
 - 1-on-1s
-
+- video-teaser
 ---
 
 

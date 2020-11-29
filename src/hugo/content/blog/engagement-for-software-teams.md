@@ -1,5 +1,8 @@
 ---
 title: "Employee Engagement for Software Teams"
+description: >-
+  A primer on the concept of employee engagement for new managers of software
+  teams
 date: "2020-08-02"
 draft: false
 tags:

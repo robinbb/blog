@@ -1,8 +1,12 @@
 ---
 title: "Install Nix on macOS Catalina"
+description: >-
+  How to install Nix on macOS 15 (Catalina)
 date: "2020-02-22"
 draft: false
 featured_image: "/images/nix-social-preview.png"
+images:
+- "/images/nix-social-preview.png"
 tags:
  - Nix
  - macOS

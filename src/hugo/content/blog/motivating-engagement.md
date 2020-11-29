@@ -3,10 +3,14 @@ title: "Motivating Engagement"
 description: "Why Care About Employee Engagement on Software Teams?"
 date: "2020-07-27"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/995363739.jpg"
+videos:
+- "https://vimeo.com/479351590"
 tags:
 - leadership
 - engagement
-
+- video-teaser
 ---
 
 

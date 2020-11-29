@@ -1,8 +1,15 @@
 ---
 title: "Code Is Not An Asset"
+description: "Software source code is a liability"
 date: "2020-10-21"
 draft: false
-
+images: [ "https://i.vimeocdn.com/video/994959038.jpg" ]
+videos: [ "https://vimeo.com/479351595" ]
+tags:
+- code
+- asset
+- liability
+- decision-making
 ---
 
 Your software source code is not the asset that you might think it is. It is a

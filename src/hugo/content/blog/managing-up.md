@@ -1,4 +1,6 @@
 ---
+title: "Managing Up"
+description: "Managing up or up-managing"
 draft: true
 ---
 
