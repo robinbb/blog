@@ -2,10 +2,16 @@
 title: "Toxic Developers Destroy Productivity"
 date: "2020-11-03"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/994958781.jpg"
+videos:
+- "https://vimeo.com/479351559"
 tags:
-- toxic-worker
 - leadership
-
+- toxic-worker
+- tip
+- productivity
+- video-teaser
 ---
 
 

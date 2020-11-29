@@ -6,7 +6,18 @@
     <description>Recent content in primer on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.robinbb.com/tags/primer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.robinbb.com/tags/primer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Trust</title>
+      <link>https://blog.robinbb.com/blog/trust/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/blog/trust/</guid>
+      <description>&lt;p&gt;Trust is a foundation for all relationships. It is therefore essential for
+business.&lt;/p&gt;
+&lt;p&gt;This is a primer on the concept of trust for software teams.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Employee Engagement for Software Teams</title>
       <link>https://blog.robinbb.com/blog/engagement-for-software-teams/</link>

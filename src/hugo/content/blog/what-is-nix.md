@@ -3,6 +3,8 @@ title: "What is Nix?"
 date: "2020-05-11"
 draft: false
 featured_image: "/images/nix-social-preview.png"
+images:
+- "/images/nix-social-preview.png"
 tags:
  - Nix
  - NixOS
@@ -10,10 +12,12 @@ tags:
  - DevOps
 ---
 
+
 [Nix](https://nixos.org/) is a software system for the management of software
 packages.
 
 <!--more-->
+
 
 In some contexts, *Nix* is a term used to mean NixOS, the computer operating
 system based on the Nix package management system.

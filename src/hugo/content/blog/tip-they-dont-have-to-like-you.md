@@ -2,6 +2,14 @@
 title: "Tip: They Don't Have to Like You"
 date: "2020-10-27"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/995358623.jpg"
+videos:
+- "https://vimeo.com/479349532"
+tags:
+- leadership
+- tip
+- video-teaser
 ---
 
 

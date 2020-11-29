@@ -2,10 +2,14 @@
 title: "Your Dev Team Needs A Mission"
 date: "2020-11-25"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/1002535729.jpg"
+videos:
+- "https://vimeo.com/483848719"
 tags:
 - leadership
 - mission
-
+- video-teaser
 ---
 
 

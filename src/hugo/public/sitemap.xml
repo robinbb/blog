@@ -63,6 +63,16 @@
   </url>
   
   <url>
+    <loc>https://blog.robinbb.com/tags/productivity/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/tip/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.robinbb.com/blog/toxic-developers-destroy-productivity/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url>
@@ -70,11 +80,6 @@
   <url>
     <loc>https://blog.robinbb.com/tags/toxic-worker/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.robinbb.com/tags/tip/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -178,12 +183,22 @@
   </url>
   
   <url>
+    <loc>https://blog.robinbb.com/tags/cheat-sheet/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.robinbb.com/blog/essential-leadership-techniques-in-wfh/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.robinbb.com/tags/remote-work/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/wfh/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,12 +218,12 @@
   </url>
   
   <url>
-    <loc>https://blog.robinbb.com/blog/engagement-for-software-teams/</loc>
-    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+    <loc>https://blog.robinbb.com/tags/primer/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.robinbb.com/tags/primer/</loc>
+    <loc>https://blog.robinbb.com/blog/engagement-for-software-teams/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
   </url>
   

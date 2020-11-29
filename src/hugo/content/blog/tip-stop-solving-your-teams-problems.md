@@ -2,10 +2,14 @@
 title: "Tip: Stop Solving Your Team's Problems"
 date: "2020-11-02"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/995365972.jpg"
+videos:
+- "https://vimeo.com/479349509"
 tags:
 - tip
 - leadership
-
+- video-teaser
 ---
 
 

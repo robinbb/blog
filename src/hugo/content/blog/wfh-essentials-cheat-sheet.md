@@ -5,7 +5,8 @@ draft: false
 tags:
 - remote-work
 - work-from-home
-
+- cheat-sheet
+- WFH
 ---
 
 Use this cheat sheet as a checklist for the essential needs of teams making a

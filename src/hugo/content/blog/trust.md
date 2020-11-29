@@ -5,7 +5,7 @@ draft: false
 tags:
 - trust
 - leadership
-
+- primer
 ---
 
 Trust is a foundation for all relationships. It is therefore essential for
