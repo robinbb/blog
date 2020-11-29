@@ -1,12 +1,20 @@
 ---
 title: "Tip: Routinely Develop Your Influence"
+description: >-
+  Social influence is what enables you to make change; it is crucial to make
+  time to develop this infuence.
 date: "2020-10-22"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/994958855.jpg"
+videos:
+- "https://vimeo.com/479351552"
 tags:
 - tip
 - leadership
 - trust
-
+- influence
+- video-teaser
 ---
 
 

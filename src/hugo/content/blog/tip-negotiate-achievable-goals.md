@@ -1,12 +1,19 @@
 ---
 title: "Tip: Negotiate Achievable Goals"
+description: >-
+  Leaders must ensure that the software team's goals are achievable
 date: "2020-10-22"
 draft: false
+images:
+- "https://i.vimeocdn.com/video/995353650.jpg"
+videos:
+- "https://vimeo.com/479351600"
 tags:
-- tip
 - leadership
+- tip
+- goals
 - trust
-
+- video-teaser
 ---
 
 
