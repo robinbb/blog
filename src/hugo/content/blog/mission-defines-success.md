@@ -1,9 +1,5 @@
 ---
 title: "Mission Defines Success"
-description: >-
-  The purpose of a software team is to complete a mission. If you are a
-  software team leader, your success is defined by the accomplishment of that
-  mission; you must own the result 100%.
 date: "2020-11-26"
 draft: false
 images:

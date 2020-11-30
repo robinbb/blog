@@ -1,8 +1,5 @@
 ---
 title: "Tip: Routinely Develop Your Influence"
-description: >-
-  Social influence is what enables you to make change; it is crucial to make
-  time to develop this infuence.
 date: "2020-10-22"
 draft: false
 images:

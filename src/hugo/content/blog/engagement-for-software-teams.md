@@ -1,15 +1,13 @@
 ---
 title: "Employee Engagement for Software Teams"
 description: >-
-  A primer on the concept of employee engagement for new managers of software
-  teams
+  A primer employee engagement for new managers
 date: "2020-08-02"
 draft: false
 tags:
 - leadership
 - engagement
 - primer
-
 ---
 
 Engagement is the emotional commitment of an employee to the company;

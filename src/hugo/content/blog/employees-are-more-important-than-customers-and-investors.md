@@ -1,15 +1,11 @@
 ---
 title: "Employees Are More Important Than Customers and Investors"
-description: >-
-  New leaders of tech startups need to understand that engaged employees are
-  the best foundation for building a successful business.
 date: "2020-09-23"
 draft: false
 tags:
 - leadership
 - management
 - engagement
-
 ---
 
 
