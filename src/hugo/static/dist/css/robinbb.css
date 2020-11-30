@@ -167,6 +167,7 @@ code {
 a, .nested-links a {
   color: black;
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover, .nested-links a:hover {

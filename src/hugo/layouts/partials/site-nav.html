@@ -15,7 +15,7 @@
     </div>
     <div
      id="site-nav-social-follow"
-     class="w-100 pb3 mt1 w-auto-l fr-l"
+     class="w-100 pb3 w-auto-l fr-l"
      >{{ partial "social-follow.html" . }}</div>
     <div
      id="site-nav-i18nlist"
@@ -23,10 +23,10 @@
      >{{/* partial "i18nlist.html" . */}}</div>
     {{ if (and (not (eq .Site.Home.RelPermalink .RelPermalink)) .Site.Menus.main) }}
     <div
-     class="w-100 w-auto-l fr-l"
+     class="w-100 w-auto-l mt1 fr-l"
      >{{ range .Site.Menus.main }}
       <a
-       class="f2 mr4"
+       class="f3 mr4"
        href="{{ .URL }}"
        title="{{ .Name }}"
        >{{ .Name }}</a>
