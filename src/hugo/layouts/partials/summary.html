@@ -6,10 +6,16 @@
        class="link black dim"
        >{{ .Title }}</a>
     </h2>
-    <h3 class="f4 gray">{{ .Description }}</h3>
+    <h3 class="f4 i gray">{{ .Description }}</h3>
     <div
      id="partials-summary-div-summary"
      class="merriweather nested-links f5 lh-copy nested-copy-line-height"
-     >{{ .Summary  }}</div>
+     >{{ .Summary  }}
+      <a
+       href="{{ .Permalink }}"
+       style="margin-top: -16px;"
+       class="pt-sans-narrow button f4 cf fr tc ph2 br2 b"
+       >Read More...</a>
+    </div>
   </div>
 </div>

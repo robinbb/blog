@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.robinbb.com/blog/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.robinbb.com/tags/leadership/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
@@ -24,6 +19,11 @@
   
   <url>
     <loc>https://blog.robinbb.com/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/blog/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -283,10 +283,6 @@
   </url>
   
   <url>
-    <loc>https://blog.robinbb.com/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://blog.robinbb.com/tags/blog/</loc>
   </url>
   
@@ -315,7 +311,23 @@
   </url>
   
   <url>
+    <loc>https://blog.robinbb.com/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://blog.robinbb.com/tags/software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/software-development/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/software-engineering/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/sre/</loc>
   </url>
   
   <url>

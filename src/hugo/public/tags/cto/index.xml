@@ -12,22 +12,7 @@
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.robinbb.com/</guid>
-      <description> I help companies avoid growing pains by leading software teams.
-This is my blog about software development, DevOps, and leadership.
-About Me Read Blog    </description>
-    </item>
-    
-    <item>
-      <title>About Robin Bate Boerop</title>
-      <link>https://blog.robinbb.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.robinbb.com/about/</guid>
-      <description> I help companies avoid growing pains by leading software teams.
-This is my blog about software development, DevOps, and leadership.
-I have developed software professionally for 20 years. I have led software teams in consulting engagements and as part of Silicon Valley tech startups. I co-founded a Canadian software startup that was acquired in 2014.
-I am a global software leadership consultant with Tweag.
-My Results Read Blog    </description>
+      <description></description>
     </item>
     
     <item>
@@ -39,6 +24,18 @@ My Results Read Blog    </description>
       <description>I am a hands-on leadership consultant for deep-tech software teams.
 Here are the results that I get:
  Deployable software Reduced employee turnover Better team decision-making De-risked technology strategies Tuned agile development processes World-class build automation software Increased confidence in deployed software Reduced recruiting costs by effective hiring Measurable increase of development velocity Measurable improvement of employee engagement Software architecture recommendations worth implementing Substantial productivity improvements that last  To learn more about my leadership style and philosophy, watch my videos on Twitter or LinkedIn.</description>
+    </item>
+    
+    <item>
+      <title>Robin Bate Boerop</title>
+      <link>https://blog.robinbb.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.robinbb.com/about/</guid>
+      <description> Global Software Leadership Consultant I make winning software teams by providing hands-on engineering leadership.
+I have developed software professionally for 20 years. I have led software teams in consulting engagements and as part of Silicon Valley tech startups. I co-founded a Canadian software startup that was acquired in 2014.
+I advise for Tweag.
+Results My C.V.    </description>
     </item>
     
   </channel>

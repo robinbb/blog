@@ -1,2 +1,34 @@
 {{ define "header" }}{{ partial "site-header.html" . }}{{ end }}
-{{ define "main" }}{{ partial "page-main.html" . }}{{ end }}
+{{ define "main"}}
+<div
+ id="main-flex-container"
+ class="flex-ns ph3 mw7 center"
+ ><div
+   id="image-container"
+   class="w-100 w-50-ns"
+   ><img
+     id="image-robinbb-profile"
+     class="br2"
+     src="/images/robinbb-profile-photo-bw.jpeg"
+     >
+  </div>
+  <div
+   id="text-container"
+   class="mh3 w-100 w-auto-ns"
+   ><h1 class="tc tl-ns f1 mt0 mb1" >Software</h1>
+    <h1 class="tc tl-ns f1 mv1" >Teams</h1>
+    <h1 class="tc tl-ns f1 mv1" >Improved</h1>
+    <div
+     class="mv4 w-100 flex justify-around justify-start-ns flex-column-ns"
+     ><a
+       href="/about/"
+       class="grow f3 button mv1 pv2 ph3 tc br3"
+       >About</a>
+      <a
+       href="/blog/"
+       class="grow f3 button mv1 pv2 ph3 tc br3"
+       >Blog</a>
+    </div>
+  </div>
+</div>
+{{ end }}
