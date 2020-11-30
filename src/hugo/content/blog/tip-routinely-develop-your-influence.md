@@ -40,7 +40,7 @@ How do you develop social influence? By growing legitimate relationships and
 trust. By communicating with each of your team members. By understanding and
 empathasizing.  This requires time.
 
-Have a look at your schedule. When is the social influence built?  Alot time
+Have a look at your schedule. When is the social influence built? Allot time
 for the necessary communications.
 
 Are _each_ of your team members considered in that influence-building schedule?
