@@ -303,6 +303,14 @@
   </url>
   
   <url>
+    <loc>https://blog.robinbb.com/meet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/meeting/</loc>
+  </url>
+  
+  <url>
     <loc>https://blog.robinbb.com/results/</loc>
   </url>
   
@@ -312,6 +320,10 @@
   
   <url>
     <loc>https://blog.robinbb.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.robinbb.com/tags/schedule/</loc>
   </url>
   
   <url>
