@@ -1,6 +1,7 @@
 ---
 title: "Robin Bate Boerop"
-description: "Software Teams Improved"
+description: >-
+  Software teams improved. Robin Bate Boerop's website and blog.
 draft: false
 type: page
 tags:

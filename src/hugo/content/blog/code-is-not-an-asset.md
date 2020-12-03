@@ -1,6 +1,7 @@
 ---
 title: "Code Is Not An Asset"
-description: "Software source code is a liability"
+description: >-
+  Explains that software source code is a liability, not an asset.
 date: "2020-10-21"
 draft: false
 images: [ "https://i.vimeocdn.com/video/994959038.jpg" ]

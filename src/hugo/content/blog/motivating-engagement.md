@@ -1,6 +1,7 @@
 ---
 title: "Motivating Engagement"
-description: "Why Care About Employee Engagement on Software Teams?"
+description: >-
+  Why care about employee engagement on software teams?"
 date: "2020-07-27"
 draft: false
 images:

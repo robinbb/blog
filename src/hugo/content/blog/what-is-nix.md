@@ -1,5 +1,7 @@
 ---
 title: "What is Nix?"
+description: >-
+  This article defines the terms Nix, NixOS, Nixpkgs, and Nix expression.
 date: "2020-05-11"
 draft: false
 featured_image: "/images/nix-social-preview.png"

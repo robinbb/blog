@@ -1,7 +1,7 @@
 ---
 title: "Employee Engagement for Software Teams"
 description: >-
-  A primer employee engagement for new managers
+  A primer on employee engagement for new leaders.
 date: "2020-08-02"
 draft: false
 tags:

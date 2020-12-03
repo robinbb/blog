@@ -1,5 +1,8 @@
 ---
 title: "Tip: They Don't Have to Like You"
+description: >-
+  Are you a software leader worried that the team members don’t like you?  You
+  can stop worrying. They don’t have to like you. They just have to trust you.
 date: "2020-10-27"
 draft: false
 images:

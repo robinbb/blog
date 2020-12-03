@@ -1,7 +1,7 @@
 ---
 title: "Tip: Negotiate Achievable Goals"
 description: >-
-  Leaders must ensure that the software team's goals are achievable
+  Leaders must ensure that the software team's goals are achievable.
 date: "2020-10-22"
 draft: false
 images:

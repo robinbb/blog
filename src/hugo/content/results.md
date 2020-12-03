@@ -1,6 +1,8 @@
 ---
 title: "Results"
-description: "Software Teams Improved"
+description: >-
+  Software teams improved. I am a hands-on leadership consultant for highly
+  technical software teams. Here are the results that I get.
 draft: false
 type: page
 tags:
@@ -12,6 +14,8 @@ tags:
 - results
 ---
 
+
+<h2>Software Teams Improved</h2>
 
 I am a hands-on leadership consultant for deep-tech software teams.
 

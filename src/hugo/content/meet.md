@@ -1,5 +1,7 @@
 ---
 title: "Meet With Robin"
+description: >-
+  Schedule a meeting with Robin Bate Boerop.
 draft: false
 type: page
 tags:

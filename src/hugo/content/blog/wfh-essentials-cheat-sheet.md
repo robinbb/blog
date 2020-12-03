@@ -1,5 +1,9 @@
 ---
 title: "Work-From-Home Essentials Cheat Sheet"
+description: >-
+  Use this cheat sheet as a checklist for the essential needs of teams making a
+  change to working-from-home (WFH). These are recommended minimum requirements
+  for WFH. Companion to the Skills Matter talk of 13 August 2020.
 date: "2020-08-13"
 draft: false
 tags:

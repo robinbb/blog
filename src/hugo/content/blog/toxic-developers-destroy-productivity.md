@@ -1,5 +1,11 @@
 ---
 title: "Toxic Developers Destroy Productivity"
+description: >-
+  If you are the leader of a software team, then you have heard of the
+  legendary 10x developer - the superstar worker. To improve your team's
+  productivity, learn this: replacing an average worker with a superstar worker
+  is not nearly as effective as removing a toxic worker. It’s not even close.
+  Toxic workers destroy productivity.
 date: "2020-11-03"
 draft: false
 images:
@@ -16,7 +22,7 @@ tags:
 
 
 If you are the leader of a software team, then you have heard of the legendary
-10x developer - the superstar worker. To improve your team’s productivity,
+10x developer - the superstar worker. To improve your team's productivity,
 learn this: replacing an average worker with a superstar worker is not nearly
 as effective as removing a toxic worker. It’s not even close. Toxic workers
 destroy productivity.

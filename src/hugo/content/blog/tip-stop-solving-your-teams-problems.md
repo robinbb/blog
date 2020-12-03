@@ -1,5 +1,9 @@
 ---
 title: "Tip: Stop Solving Your Team's Problems"
+description: >-
+  If you lead a software team, and a team member has a problem, you may be
+  tempted to solve it. Maybe you shouldn’t. This is an opportunity for more than
+  a solved problem.
 date: "2020-11-02"
 draft: false
 images:

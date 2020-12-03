@@ -1,5 +1,7 @@
 ---
 title: "On Trust"
+description: >-
+  This is a primer on the concept of trust for software teams.
 date: "2020-08-09"
 draft: false
 tags:

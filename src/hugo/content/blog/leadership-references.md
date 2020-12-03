@@ -1,5 +1,7 @@
 ---
 title: "Leadership References"
+description: >-
+  A list of useful references on the concept of leadership.
 date: "2020-09-08"
 draft: false
 tags:

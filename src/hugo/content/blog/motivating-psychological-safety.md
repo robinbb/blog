@@ -1,6 +1,8 @@
 ---
 title: "Motivating Psychological Safety"
-description: "Why Leaders Should Create Psychologically Safe Work Environments"
+description: >-
+  Why software team leaders should create psychologically safe work
+  environments.
 date: "2020-11-25"
 draft: false
 images:

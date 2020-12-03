@@ -1,7 +1,7 @@
 ---
 title: "Leadership for Software Teams"
 description: >-
-  A primer on the concept of leadership
+  A primer on the concept of leadership.
 date: "2020-07-27"
 draft: false
 tags:

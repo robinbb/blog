@@ -1,5 +1,7 @@
 ---
 title: "Tip: Coaching Means Giving Less Advice"
+description: >-
+  A tip for software team leaders: coaching well means giving less advice.
 date: "2020-10-26"
 draft: false
 images:

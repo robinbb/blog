@@ -1,5 +1,8 @@
 ---
 title: "Tip: Routinely Develop Your Influence"
+description: >-
+  On a software team, leaders should make the development of social influence
+  routine.
 date: "2020-10-22"
 draft: false
 images:

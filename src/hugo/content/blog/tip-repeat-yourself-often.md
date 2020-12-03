@@ -1,5 +1,8 @@
 ---
 title: "Tip: Repeat Yourself Often"
+description: >-
+  A tip for software team leaders: to communicate clearly and to lead
+  effectively, repeat yourself often.
 date: "2020-11-16"
 featured_image: ""
 images: [ "https://i.vimeocdn.com/video/994955085.jpg" ]

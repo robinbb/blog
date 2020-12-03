@@ -1,5 +1,10 @@
 ---
 title: "Your Dev Team Needs A Mission"
+description: >-
+  Teams exist to complete a mission. If you are a software team leader, you
+  must ensure that the team's mission is well defined and clearly communicated.
+  Without a clear mission, your team’s ability to make decisions is grossly
+  impeded, as is your ability to set goals and measure progress.
 date: "2020-11-25"
 draft: false
 images:

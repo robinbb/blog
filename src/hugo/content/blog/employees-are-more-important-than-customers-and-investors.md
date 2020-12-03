@@ -1,5 +1,8 @@
 ---
 title: "Employees Are More Important Than Customers and Investors"
+description: >-
+  Employee engagement is more important than your customers, and more important
+  than your investors. This article explains why.
 date: "2020-09-23"
 draft: false
 tags:
