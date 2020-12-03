@@ -1,1 +1,25 @@
-{{ define "main" }}{{ partial "page-main.html" . }}{{ end }}
+{{ define "main" }}
+<div
+ id="page-single-outer-div"
+ class="flex-l mt2 mw7 center"
+ ><article
+   id="page-single-article"
+   class="center cf ph3 pb3 w-100"
+   ><header
+     id="page-single-header"
+     class="mt0"
+     >
+    {{ with .Params.title }}
+      <h1
+       id="page-single-title"
+       class="f1 bt mt0"
+       >{{ . }}</h1>
+    {{ end }}
+    </header>
+    <div
+     id="page-single-content"
+     class="nested-copy-line-height lh-copy f4 nested-img mid-gray"
+     >{{ .Content }}</div>
+  </article>
+</div>
+{{ end }}

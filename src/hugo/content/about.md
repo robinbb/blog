@@ -1,5 +1,8 @@
 ---
 title: "Robin Bate Boerop"
+description: >-
+  About Robin Bate Boerop - Global Software Leadership Consultant. Bio and
+  social media profiles.
 draft: false
 type: page
 tags:
