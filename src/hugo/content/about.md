@@ -38,12 +38,12 @@ I advise for [Tweag](https://tweag.io/).
 <div class="mv4 w-100 flex justify-around">
 <a
  href="/results/"
- class="grow f3 button mv1 pv2 ph3 tc br3"
+ class="grow w-50 f3 button mv1 pv2 ph3 tc br3 mw4 ba"
  >Results</a>
 <a
- href="https://www.linkedin.com/in/robinbb"
- class="grow f3 button mv1 pv2 ph3 tc br3"
- >My C.V.</a>
+ href="/meet/"
+ class="grow w-50 f3 button mv1 pv2 ph3 tc br3 mw4 ba"
+ >Meet</a>
 </div>
 </div>
 </div>
