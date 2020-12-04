@@ -17,7 +17,11 @@ tags:
 <div class="flex-ns justify-between">
 
 <div class="w-50-ns">
-<img class="br2" src="/images/robinbb-profile-photo-bw.jpeg">
+<img
+ class="br2"
+ src="/images/robinbb-profile-photo-bw.jpeg"
+ alt="[Profile photo for Robin Bate Boerop]"
+ >
 </div>
 
 <div class="ml3-ns w-50-ns">
