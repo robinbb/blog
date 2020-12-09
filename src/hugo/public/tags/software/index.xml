@@ -35,7 +35,26 @@ Here are the results that I get:
       <description> Global Software Leadership Consultant I make winning software teams by providing hands-on engineering leadership.
 I have developed software professionally for 20 years. I have led software teams in consulting engagements and as part of Silicon Valley tech startups. I co-founded a Canadian software startup that was acquired in 2014.
 I advise for Tweag.
-Results Meet    </description>
+Results Meet      Speaking engagements Results Schedule a meeting My c.v.  </description>
+    </item>
+    
+    <item>
+      <title>Speaking Engagements</title>
+      <link>https://robinbb.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/talks/</guid>
+      <description> &amp;ldquo;Software Testing: Stories From The Real World&amp;rdquo; for nbQ, 4 October 2016. [agenda, poster] &amp;ldquo;OO Design Patterns in Functional Programming Languages&amp;rdquo; for Fredericton Developer User Group, 16 January 2013. [slides, repo] &amp;ldquo;Parallel and Functional Programming&amp;rdquo; for Fredericton Developer User Group, 22 February 2012. [slides, repo]  </description>
+    </item>
+    
+    <item>
+      <title>Talk - Software Testing: Stories From The Real World</title>
+      <link>https://robinbb.com/talk-nbq-2016-oct-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/talk-nbq-2016-oct-4/</guid>
+      <description>Tuesday, 4 October 2016
+Software Testing Env  What organization culture gives rise to the testing and software development process? What is the testing and software development process? What problems are exhibited by that process?  5 different testing experiences  University coding project Tech startup company (web app) Enterprise software consulting project (2) Prominent open source software (Mozilla) Database software (IBM)  Career Tips  RobinBB software valuation method. Know and satisfy your client.</description>
     </item>
     
   </channel>

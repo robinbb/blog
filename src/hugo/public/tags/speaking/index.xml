@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speaking on robinbb</title>
+    <link>https://robinbb.com/tags/speaking/</link>
+    <description>Recent content in speaking on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://robinbb.com/tags/speaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speaking Engagements</title>
+      <link>https://robinbb.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/talks/</guid>
+      <description> &amp;ldquo;Software Testing: Stories From The Real World&amp;rdquo; for nbQ, 4 October 2016. [agenda, poster] &amp;ldquo;OO Design Patterns in Functional Programming Languages&amp;rdquo; for Fredericton Developer User Group, 16 January 2013. [slides, repo] &amp;ldquo;Parallel and Functional Programming&amp;rdquo; for Fredericton Developer User Group, 22 February 2012. [slides, repo]  </description>
+    </item>
+    
+    <item>
+      <title>Talk - Software Testing: Stories From The Real World</title>
+      <link>https://robinbb.com/talk-nbq-2016-oct-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/talk-nbq-2016-oct-4/</guid>
+      <description>Tuesday, 4 October 2016
+Software Testing Env  What organization culture gives rise to the testing and software development process? What is the testing and software development process? What problems are exhibited by that process?  5 different testing experiences  University coding project Tech startup company (web app) Enterprise software consulting project (2) Prominent open source software (Mozilla) Database software (IBM)  Career Tips  RobinBB software valuation method. Know and satisfy your client.</description>
+    </item>
+    
+  </channel>
+</rss>

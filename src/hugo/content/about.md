@@ -47,3 +47,9 @@ I advise for [Tweag](https://tweag.io/).
 </div>
 </div>
 </div>
+
+---
+- [Speaking engagements](/talks/)
+- [Results](/results/)
+- [Schedule a meeting](/meet/)
+- [My c.v.](https://www.linkedin.com/in/robinbb/)
