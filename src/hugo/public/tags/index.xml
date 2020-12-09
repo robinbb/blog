@@ -287,6 +287,15 @@
     </item>
     
     <item>
+      <title>acquisition</title>
+      <link>https://robinbb.com/tags/acquisition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/acquisition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>blog</title>
       <link>https://robinbb.com/tags/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -310,6 +319,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/tags/cto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haskell</title>
+      <link>https://robinbb.com/tags/haskell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/haskell/</guid>
       <description></description>
     </item>
     
@@ -445,6 +463,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UserEvents</title>
+      <link>https://robinbb.com/tags/userevents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/userevents/</guid>
       <description></description>
     </item>
     

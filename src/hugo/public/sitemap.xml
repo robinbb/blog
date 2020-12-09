@@ -283,6 +283,10 @@
   </url>
   
   <url>
+    <loc>https://robinbb.com/tags/acquisition/</loc>
+  </url>
+  
+  <url>
     <loc>https://robinbb.com/tags/blog/</loc>
   </url>
   
@@ -292,6 +296,10 @@
   
   <url>
     <loc>https://robinbb.com/tags/cto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/haskell/</loc>
   </url>
   
   <url>
@@ -308,6 +316,10 @@
   
   <url>
     <loc>https://robinbb.com/tags/meeting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/project-userevents/</loc>
   </url>
   
   <url>
@@ -372,6 +384,10 @@
   
   <url>
     <loc>https://robinbb.com/tags/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/userevents/</loc>
   </url>
   
 </urlset>
