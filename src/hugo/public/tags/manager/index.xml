@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>manager on robinbb</title>
-    <link>https://blog.robinbb.com/tags/manager/</link>
+    <link>https://robinbb.com/tags/manager/</link>
     <description>Recent content in manager on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.robinbb.com/tags/manager/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://robinbb.com/tags/manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robin Bate Boerop</title>
-      <link>https://blog.robinbb.com/</link>
+      <link>https://robinbb.com/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.robinbb.com/</guid>
+      <guid>https://robinbb.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meet With Robin</title>
-      <link>https://blog.robinbb.com/meet/</link>
+      <link>https://robinbb.com/meet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.robinbb.com/meet/</guid>
+      <guid>https://robinbb.com/meet/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Results</title>
-      <link>https://blog.robinbb.com/results/</link>
+      <link>https://robinbb.com/results/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.robinbb.com/results/</guid>
+      <guid>https://robinbb.com/results/</guid>
       <description>Software Teams Improved I am a hands-on leadership consultant for deep-tech software teams.
 Here are the results that I get:
  Deployable software Reduced employee turnover Better team decision-making De-risked technology strategies Tuned agile development processes World-class build automation software Increased confidence in deployed software Reduced recruiting costs by effective hiring Measurable increase of development velocity Measurable improvement of employee engagement Software architecture recommendations worth implementing Substantial productivity improvements that last  To learn more about my leadership style and philosophy, watch my videos on Twitter or LinkedIn.</description>
@@ -37,10 +37,10 @@ Here are the results that I get:
     
     <item>
       <title>Robin Bate Boerop</title>
-      <link>https://blog.robinbb.com/about/</link>
+      <link>https://robinbb.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.robinbb.com/about/</guid>
+      <guid>https://robinbb.com/about/</guid>
       <description> Global Software Leadership Consultant I make winning software teams by providing hands-on engineering leadership.
 I have developed software professionally for 20 years. I have led software teams in consulting engagements and as part of Silicon Valley tech startups. I co-founded a Canadian software startup that was acquired in 2014.
 I advise for Tweag.

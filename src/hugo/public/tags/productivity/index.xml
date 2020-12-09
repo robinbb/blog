@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>productivity on robinbb</title>
-    <link>https://blog.robinbb.com/tags/productivity/</link>
+    <link>https://robinbb.com/tags/productivity/</link>
     <description>Recent content in productivity on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.robinbb.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://robinbb.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toxic Developers Destroy Productivity</title>
-      <link>https://blog.robinbb.com/blog/toxic-developers-destroy-productivity/</link>
+      <link>https://robinbb.com/blog/toxic-developers-destroy-productivity/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.robinbb.com/blog/toxic-developers-destroy-productivity/</guid>
+      <guid>https://robinbb.com/blog/toxic-developers-destroy-productivity/</guid>
       <description>&lt;p&gt;If you are the leader of a software team, then you have heard of the legendary
 10x developer - the superstar worker. To improve your team&amp;rsquo;s productivity,
 learn this: replacing an average worker with a superstar worker is not nearly
