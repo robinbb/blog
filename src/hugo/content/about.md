@@ -50,8 +50,6 @@ I advise for [Tweag](https://tweag.io/).
 
 ---
 - [Speaking engagements](/talks/)
-- [Results](/results/)
-- [Schedule a meeting](/meet/)
 - [Press citation](http://www.devx.com/webdev/Article/44826)
 - [Startup acquisition](/project-userevents/)
 - [My c.v.](https://www.linkedin.com/in/robinbb/)
