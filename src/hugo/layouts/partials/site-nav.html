@@ -1,37 +1,35 @@
 <nav
  id="site-nav"
- class="ph3 pt4 pb5"
+ class="pa3 pb5"
  role="navigation"
  ><div
    id="site-nav-div"
-   class="cf"
+   class="flex flex-column flex-row-ns justify-between"
    ><div
      id="site-nav-logo"
-     class="w-100 pb4 w-auto-l fl-l"
+     class=""
      ><a
        href="{{ .Site.Home.RelPermalink }}"
        class="audiowide f1"
        >{{ .Site.Title }}</a>
     </div>
     <div
-     id="site-nav-social-follow"
-     class="w-100 pb3 w-auto-l fr-l"
-     >{{ partial "social-follow.html" . }}</div>
-    <div
      id="site-nav-i18nlist"
-     class="dib red"
+     class="red"
      >{{/* partial "i18nlist.html" . */}}</div>
     {{ if (and (not (eq .Site.Home.RelPermalink .RelPermalink)) .Site.Menus.main) }}
-    <div
-     class="w-100 w-auto-l mt1 fr-l"
+    <ul
+     class="nested-list-reset pa0"
      >{{ range .Site.Menus.main }}
-      <a
-       class="f3 mr4"
-       href="{{ .URL }}"
-       title="{{ .Name }}"
-       >{{ .Name }}</a>
+      <li
+       class="di pr3 pr0-ns pl0 pl3-ns"
+       ><a
+         class="f4"
+         href="{{ .URL }}"
+         title="{{ .Name }}"
+	 >{{ .Name }}</a></li>
       {{ end }}
-    </div>
-    {{ end }}
+    </ul>
+  {{ end }}
   </div>
 </nav>

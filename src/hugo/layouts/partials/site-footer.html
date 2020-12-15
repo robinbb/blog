@@ -1,7 +1,13 @@
 <footer
  class="{{ .Site.Params.background_color_class }} bottom-0 w-100 pa3 mt5"
  role="contentinfo"
- ><div
-   class="tc"
+ >{{ if (and (not (eq .Site.Home.RelPermalink .RelPermalink)) .Site.Menus.main) }}
+  <div
+   id="site-footer-social-follow"
+   class="w-100 pv3 tc"
+   >{{ partial "social-follow.html" . }}</div>
+  {{ end }}
+  <div
+   class="f6 tc pt3"
    >Copyright &copy; 2020 Robin Bate Boerop. All rights reserved.</div>
 </footer>

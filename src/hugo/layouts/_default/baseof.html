@@ -40,13 +40,16 @@
   </head>
   <body
    class="ma0 {{ $.Param "body_classes" }} {{ with getenv "HUGO_ENV" }}{{ . }}{{ end }}"
-   >{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main
-     id="default-baseof-main"
-     class="w-100"
-     role="main"
-     >{{ block "main" . }}{{ end }}</main>
-    {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+   ><div
+     class="w-100 flex flex-column justify-between min-vh-100"
+     >{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+      <main
+       id="default-baseof-main"
+       class="w-100"
+       role="main"
+       >{{ block "main" . }}{{ end }}</main>
+      {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+    </div>
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
   </body>
 </html>

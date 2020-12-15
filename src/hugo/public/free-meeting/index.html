@@ -63,30 +63,105 @@ if (!doNotTrack) {
   </head>
   <body
    class="ma0 bg-white black pt-sans-narrow production"
-   ><header
+   ><div
+     class="w-100 flex flex-column justify-between min-vh-100"
+     ><header
  id="site-header-header"
  ><div
    id="site-header-nav-wrapper"
    class="pb0 bg-white"
    ><nav
  id="site-nav"
- class="ph3 pt4 pb5"
+ class="pa3 pb5"
  role="navigation"
  ><div
    id="site-nav-div"
-   class="cf"
+   class="flex flex-column flex-row-ns justify-between"
    ><div
      id="site-nav-logo"
-     class="w-100 pb4 w-auto-l fl-l"
+     class=""
      ><a
        href="/"
        class="audiowide f1"
        >robinbb</a>
     </div>
     <div
-     id="site-nav-social-follow"
-     class="w-100 pb3 w-auto-l fr-l"
+     id="site-nav-i18nlist"
+     class="red"
+     ></div>
+    
+    <ul
+     class="nested-list-reset pa0"
      >
+      <li
+       class="di pr3 pr0-ns pl0 pl3-ns"
+       ><a
+         class="f4"
+         href="/about/"
+         title="About"
+	 >About</a></li>
+      
+      <li
+       class="di pr3 pr0-ns pl0 pl3-ns"
+       ><a
+         class="f4"
+         href="/blog/"
+         title="Blog"
+	 >Blog</a></li>
+      
+    </ul>
+  
+  </div>
+</nav>
+
+  </div>
+</header>
+
+      <main
+       id="default-baseof-main"
+       class="w-100"
+       role="main"
+       >
+<div
+ id="page-single-outer-div"
+ class="flex-l mt2 mw7 center"
+ ><article
+   id="page-single-article"
+   class="center cf ph3 pb3 w-100"
+   ><header
+     id="page-single-header"
+     class="mt0"
+     >
+    
+      <h1
+       id="page-single-title"
+       class="f1 bt mt0"
+       >Meet With Robin For Free</h1>
+    
+    </header>
+    <div
+     id="page-single-content"
+     class="nested-copy-line-height lh-copy f4 nested-img mid-gray"
+     ><!-- Calendly inline widget begin -->
+<div
+ class="calendly-inline-widget"
+ data-url="https://calendly.com/tweag-robinbb/30min"
+ style="min-width:320px;height:1000px;">
+</div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+</div>
+  </article>
+</div>
+</main>
+      <footer
+ class="bg-white bottom-0 w-100 pa3 mt5"
+ role="contentinfo"
+ >
+  <div
+   id="site-footer-social-follow"
+   class="w-100 pv3 tc"
+   >
 
 
 
@@ -131,79 +206,13 @@ if (!doNotTrack) {
 
 
 </div>
-    <div
-     id="site-nav-i18nlist"
-     class="dib red"
-     ></div>
-    
-    <div
-     class="w-100 w-auto-l mt1 fr-l"
-     >
-      <a
-       class="f3 mr4"
-       href="/about/"
-       title="About"
-       >About</a>
-      
-      <a
-       class="f3 mr4"
-       href="/blog/"
-       title="Blog"
-       >Blog</a>
-      
-    </div>
-    
-  </div>
-</nav>
-
-  </div>
-</header>
-
-    <main
-     id="default-baseof-main"
-     class="w-100"
-     role="main"
-     >
-<div
- id="page-single-outer-div"
- class="flex-l mt2 mw7 center"
- ><article
-   id="page-single-article"
-   class="center cf ph3 pb3 w-100"
-   ><header
-     id="page-single-header"
-     class="mt0"
-     >
-    
-      <h1
-       id="page-single-title"
-       class="f1 bt mt0"
-       >Meet With Robin For Free</h1>
-    
-    </header>
-    <div
-     id="page-single-content"
-     class="nested-copy-line-height lh-copy f4 nested-img mid-gray"
-     ><!-- Calendly inline widget begin -->
-<div
- class="calendly-inline-widget"
- data-url="https://calendly.com/tweag-robinbb/30min"
- style="min-width:320px;height:1000px;">
-</div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
-</div>
-  </article>
-</div>
-</main>
-    <footer
- class="bg-white bottom-0 w-100 pa3 mt5"
- role="contentinfo"
- ><div
-   class="tc"
+  
+  <div
+   class="f6 tc pt3"
    >Copyright &copy; 2020 Robin Bate Boerop. All rights reserved.</div>
 </footer>
 
+    </div>
     
 <script type="text/javascript">
   var _dcq = _dcq || [];
