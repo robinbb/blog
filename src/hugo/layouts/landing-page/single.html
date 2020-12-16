@@ -1,0 +1,32 @@
+{{ define "header" }}
+<nav
+ id="landing-page-nav"
+ class="pa3 pb5"
+ role="navigation"
+ ><div
+   id="landing-page-nav-div"
+   class="flex flex-column flex-row-ns justify-between"
+   ><div
+     id="landing-page-nav-logo"
+     class=""
+     ><div
+       class="audiowide f1"
+       >{{ .Site.Title }}</div>
+    </div>
+    <div
+     id="site-nav-i18nlist"
+     class="red"
+     >{{/* partial "i18nlist.html" . */}}</div>
+  </div>
+</nav>
+{{ end }}
+{{ define "main" }}{{ .Content }}{{ end }}
+{{ define "footer" }}
+<footer
+ class="{{ .Site.Params.background_color_class }} bottom-0 w-100 pa3 mt5"
+ role="contentinfo"
+ ><div
+   class="f6 tc pt3"
+   >Copyright &copy; 2020 Robin Bate Boerop. All rights reserved.</div>
+</footer>
+{{ end }}
