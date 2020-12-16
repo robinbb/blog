@@ -13,7 +13,7 @@
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/blog/</guid>
-      <description></description>
+      <description>Robin Bate Boerop&#39;s blog about software development, DevOps, and leadership.</description>
     </item>
     
     <item>
@@ -22,8 +22,7 @@
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/blog/what-is-nix/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt; is a software system for the management of software
-packages.&lt;/p&gt;</description>
+      <description>This article defines the terms Nix, NixOS, Nixpkgs, and Nix expression.</description>
     </item>
     
   </channel>

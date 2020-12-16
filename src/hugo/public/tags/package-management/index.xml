@@ -13,8 +13,7 @@
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/blog/what-is-nix/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt; is a software system for the management of software
-packages.&lt;/p&gt;</description>
+      <description>This article defines the terms Nix, NixOS, Nixpkgs, and Nix expression.</description>
     </item>
     
     <item>
@@ -23,11 +22,7 @@ packages.&lt;/p&gt;</description>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/blog/install-nix-on-macos-catalina/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Updated on: 18 Nov 2020&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Recent changes by Apple to macOS have made that operating system less
-compatible with software designed for Unix, including
-&lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt;.
-Here is how to work around the changes to install Nix on macOS 15 (Catalina).&lt;/p&gt;</description>
+      <description>How to install Nix on macOS 15 (Catalina).</description>
     </item>
     
   </channel>

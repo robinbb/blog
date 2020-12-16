@@ -1,3 +1,4 @@
+
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
@@ -25,7 +26,7 @@
     {{- with .OutputFormats.Get "RSS" -}}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
-    {{- range $pages -}}{{- if ne .Params.sitemap_exclude true -}} 
+    {{ range $pages }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
@@ -34,6 +35,6 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Description | html }}</description>
     </item>
-    {{- end -}}{{- end -}}
+    {{ end }}
   </channel>
 </rss>
