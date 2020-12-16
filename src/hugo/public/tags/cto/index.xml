@@ -5,7 +5,8 @@
     <link>https://robinbb.com/tags/cto/</link>
     <description>Recent content in CTO on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://robinbb.com/tags/cto/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://robinbb.com/tags/cto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robin Bate Boerop</title>
       <link>https://robinbb.com/</link>
@@ -13,6 +14,15 @@
       
       <guid>https://robinbb.com/</guid>
       <description>Software teams improved. Robin Bate Boerop&#39;s website and blog.</description>
+    </item>
+    
+    <item>
+      <title>Our Tech Startup Was Acquired</title>
+      <link>https://robinbb.com/blog/userevents-acquisition/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/userevents-acquisition/</guid>
+      <description>The business UserEvents was acquired by LiveOps in January of 2014.</description>
     </item>
     
     <item>
@@ -25,21 +35,12 @@
     </item>
     
     <item>
-      <title>Our Tech Startup Was Acquired</title>
-      <link>https://robinbb.com/project-userevents/</link>
+      <title>Press</title>
+      <link>https://robinbb.com/press/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://robinbb.com/project-userevents/</guid>
-      <description>The business UserEvents was acquired by LiveOps in January of 2014.</description>
-    </item>
-    
-    <item>
-      <title>Results</title>
-      <link>https://robinbb.com/results/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robinbb.com/results/</guid>
-      <description>Software teams improved. I am a hands-on leadership consultant for highly technical software teams. Here are the results that I get.</description>
+      <guid>https://robinbb.com/press/</guid>
+      <description>Robin Bate Boerop&#39;s mentions in the press.</description>
     </item>
     
     <item>
@@ -48,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/about/</guid>
-      <description>About Robin Bate Boerop - Global Software Leadership Consultant. Bio and social media profiles.</description>
+      <description>About Robin Bate Boerop - Global Software Leadership Consultant.</description>
     </item>
     
   </channel>

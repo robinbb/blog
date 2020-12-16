@@ -2,7 +2,7 @@
 title: "Our Tech Startup Was Acquired"
 description: >-
   The business UserEvents was acquired by LiveOps in January of 2014.
-date: "2014-Jan-28"
+date: "2014-01-28"
 draft: false
 tags:
 - UserEvents

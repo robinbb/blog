@@ -161,6 +161,13 @@
       <guid>https://robinbb.com/blog/install-nix-on-macos-catalina/</guid>
       <description>How to install Nix on macOS 15 (Catalina).</description>
     </item><item>
+      <title>Our Tech Startup Was Acquired</title>
+      <link>https://robinbb.com/blog/userevents-acquisition/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/userevents-acquisition/</guid>
+      <description>The business UserEvents was acquired by LiveOps in January of 2014.</description>
+    </item><item>
       <title>Meet With Robin</title>
       <link>https://robinbb.com/meet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -168,12 +175,12 @@
       <guid>https://robinbb.com/meet/</guid>
       <description>Schedule a meeting with Robin Bate Boerop.</description>
     </item><item>
-      <title>Our Tech Startup Was Acquired</title>
-      <link>https://robinbb.com/project-userevents/</link>
+      <title>Press</title>
+      <link>https://robinbb.com/press/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://robinbb.com/project-userevents/</guid>
-      <description>The business UserEvents was acquired by LiveOps in January of 2014.</description>
+      <guid>https://robinbb.com/press/</guid>
+      <description>Robin Bate Boerop&#39;s mentions in the press.</description>
     </item><item>
       <title>Results</title>
       <link>https://robinbb.com/results/</link>
@@ -187,7 +194,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/about/</guid>
-      <description>About Robin Bate Boerop - Global Software Leadership Consultant. Bio and social media profiles.</description>
+      <description>About Robin Bate Boerop - Global Software Leadership Consultant.</description>
+    </item><item>
+      <title>Software Team Leadership Book</title>
+      <link>https://robinbb.com/stl-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/stl-book/</guid>
+      <description>Robin Bate Boerop&#39;s book: Software Team Leadership.</description>
     </item><item>
       <title>Speaking Engagements</title>
       <link>https://robinbb.com/talks/</link>

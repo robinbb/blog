@@ -20,13 +20,9 @@
  id="partials-menu-contextual"
  class="bt b--gray nested-list-reset nested-copy-line-height"
  ><h3 class="gray">{{ i18n "related" }}</h3>
-  <ul class="pa0 list"
+  <ul class="pa0 nested-list-reset list"
    >{{ range . }}
-    <li class="mb2"
-     ><a
-       href="{{ .RelPermalink }}"
-       >{{- .Title -}}</a>
-    </li>
+    <li><a href="{{ .RelPermalink }}">{{- .Title -}}</a></li>
     {{ end }}
   </ul>
 </div>

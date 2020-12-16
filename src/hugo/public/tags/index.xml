@@ -289,9 +289,45 @@
     <item>
       <title>acquisition</title>
       <link>https://robinbb.com/tags/acquisition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/tags/acquisition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTO</title>
+      <link>https://robinbb.com/tags/cto/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/cto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haskell</title>
+      <link>https://robinbb.com/tags/haskell/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://robinbb.com/tags/startup/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UserEvents</title>
+      <link>https://robinbb.com/tags/userevents/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/userevents/</guid>
       <description></description>
     </item>
     
@@ -305,29 +341,20 @@
     </item>
     
     <item>
+      <title>book</title>
+      <link>https://robinbb.com/tags/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>consultant</title>
       <link>https://robinbb.com/tags/consultant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/tags/consultant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CTO</title>
-      <link>https://robinbb.com/tags/cto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robinbb.com/tags/cto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Haskell</title>
-      <link>https://robinbb.com/tags/haskell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robinbb.com/tags/haskell/</guid>
       <description></description>
     </item>
     
@@ -355,6 +382,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/tags/meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>press</title>
+      <link>https://robinbb.com/tags/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/press/</guid>
       <description></description>
     </item>
     
@@ -431,15 +467,6 @@
     </item>
     
     <item>
-      <title>startup</title>
-      <link>https://robinbb.com/tags/startup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robinbb.com/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>talk</title>
       <link>https://robinbb.com/tags/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -458,20 +485,29 @@
     </item>
     
     <item>
+      <title>team</title>
+      <link>https://robinbb.com/tags/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testimonial</title>
+      <link>https://robinbb.com/tags/testimonial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/tags/testimonial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>testing</title>
       <link>https://robinbb.com/tags/testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/tags/testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UserEvents</title>
-      <link>https://robinbb.com/tags/userevents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robinbb.com/tags/userevents/</guid>
       <description></description>
     </item>
     

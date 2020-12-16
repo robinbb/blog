@@ -5,13 +5,14 @@
     <link>https://robinbb.com/tags/startup/</link>
     <description>Recent content in startup on robinbb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://robinbb.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://robinbb.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Tech Startup Was Acquired</title>
-      <link>https://robinbb.com/project-userevents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://robinbb.com/blog/userevents-acquisition/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://robinbb.com/project-userevents/</guid>
+      <guid>https://robinbb.com/blog/userevents-acquisition/</guid>
       <description>The business UserEvents was acquired by LiveOps in January of 2014.</description>
     </item>
     
@@ -21,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robinbb.com/about/</guid>
-      <description>About Robin Bate Boerop - Global Software Leadership Consultant. Bio and social media profiles.</description>
+      <description>About Robin Bate Boerop - Global Software Leadership Consultant.</description>
     </item>
     
   </channel>

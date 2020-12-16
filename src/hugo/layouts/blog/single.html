@@ -1,0 +1,64 @@
+{{ define "main" }}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article
+   id="default-single-article"
+   class="cf pa3 center mw9"
+   ><header
+     id="default-single-header"
+     class="fn fl-l w-50-l pr3-l"
+     ><h1
+       id="default-single-title"
+       class="f1 lh-title bt bw1 mt0"
+       >{{ .Title }}</h1>
+      {{- with .Params.author -}}
+      <p class="tracked">By <strong>{{ if reflect.IsSlice . }}{{ delimit . ", " | markdownify }}{{else}}{{ . | markdownify }}{{ end }}</strong></p>
+      {{- end -}}
+      <time
+       class="f6 mv3 dib tracked"
+       {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}
+       >{{- .Date.Format "2 January 2006" -}}</time>
+      {{/*
+          Show "reading time" and "word count" but only if one of the following are true:
+          1) A global config `params` value is set `show_reading_time = true`
+          2) A section front matter value is set `show_reading_time = true`
+          3) A page front matter value is set `show_reading_time = true`
+        */}}
+      {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+      <span class="f6 mv4 dib tracked"> - {{ .ReadingTime}} minutes read</span>
+      <span class="f6 mv4 dib tracked"> - {{ .WordCount}} words</span>
+      {{ end }}
+      {{ if $featured_image }}
+        {{ $featured_image := (trim $featured_image "/") | absURL }}
+        <div
+         class="w-100 mb3"
+         ><img
+           src="{{ $featured_image }}"
+           class="img"
+	   >
+        </div>
+      {{ end }}
+    </header>
+    <div
+      id="default-single-content-wrapper"
+      class="fn fl-l w-50-l nested-copy-line-height lh-copy merriweather mid-gray f4 nested-links nested-img">
+      {{- .Content -}}
+      <div class="mt6 instapaper_ignoref">
+      {{ if .Site.DisqusShortname }}
+        {{ template "_internal/disqus.html" . }}
+      {{ end }}
+      {{ if .Site.Params.commentoEnable }}
+        {{- partial "commento.html" . -}}
+      {{ end }}
+      </div>
+    </div>
+    <div
+     id="default-single-tags"
+     class="fn fl-l w-50-l pr3-l tr"
+     >{{- partial "tags.html" . -}}</div>
+    <div
+     id="default-single-contextualenu"
+     class="fn fl-l w-50-l tl"
+     >{{- partial "menu-contextual.html" . -}}</div>
+  </article>
+{{ end }}

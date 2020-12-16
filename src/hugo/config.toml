@@ -42,7 +42,6 @@ enableRobotsTXT = true
   images = [ "/images/robinbb-profile-photo-bw.jpeg", "/images/robinbb-books-background-1.jpeg" ]
   body_classes = "bg-white black pt-sans-narrow"
   background_color_class = "bg-white"
-  post_content_classes = "merriweather mid-gray f4"
   twitter = "https://twitter.com/robinbateboerop/"
   github = "https://github.com/robinbb/"
   gitlab = "https://gitlab.com/robinbb/"

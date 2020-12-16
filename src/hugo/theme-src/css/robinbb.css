@@ -40,6 +40,7 @@ a:hover, .nested-links a:hover {
 a.button {
   color: #FFF;
   background-color: #fc7851;
+  font-family: "PT Sans Narrow", sans-serif;
 }
 
 .twitter:hover, .instagram:hover, .github:hover, .gitlab:hover, .linkedin:hover {
@@ -48,4 +49,8 @@ a.button {
 
 #default-single-content-wrapper p:first-child {
   margin-top: 0;
+}
+
+ul {
+  padding-left: 1em;
 }
