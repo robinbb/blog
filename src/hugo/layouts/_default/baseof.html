@@ -7,7 +7,7 @@
     <meta name="description" content="{{ .Description | default "robinbb" }}">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") -}}
-    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    {{ if eq .Params.sitemap_exclude true }}<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">{{ else }}<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">{{ end }}
     {{ else }}
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
