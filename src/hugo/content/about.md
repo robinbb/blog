@@ -51,6 +51,7 @@ I make winning software teams by providing hands-on engineering leadership.
 - _<a href="/stl-book/" target="_blank">Software Team Leadership</a>_ book author
 - SaaS startup co-founder
   (<a href="/blog/userevents-acquisition/" target="_blank" alt="Userevents acquisition">acquired</a> 2014)
+- Leader at <a href="https://tweag.io" target="_blank">Tweag</a>
 
 <a href="/results/" class="button f3 cf fr tc ph3 pv1 br3 b">See Results</a>
 
