@@ -2,7 +2,7 @@
 title: "Results"
 description: >-
   Software teams improved. I am a hands-on leadership consultant for highly
-  technical software teams. Here are the results that I get.
+  technical software teams. Here are the results that I reliably get.
 draft: false
 tags:
 - results
@@ -16,7 +16,7 @@ tags:
 
 ## Software Teams Improved
 
-I get results:
+I reliably get results:
 
 - Deployable software
 - Reduced employee turnover
