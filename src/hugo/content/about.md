@@ -46,6 +46,8 @@ tags:
 
 I make winning software teams by providing hands-on engineering leadership.
 
+My life's mission is to show the world a better way to make software.
+
 - 20-year software development professional
 - Silicon Valley veteran
 - _<a href="/stl-book/" target="_blank">Software Team Leadership</a>_ book author
