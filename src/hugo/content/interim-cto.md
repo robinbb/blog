@@ -62,7 +62,7 @@ minimal.
 I develop talent, launch sustainable processes, tend to the culture, optimize
 team performance, and mentor leaders.
 
-I give crucial insight to business strategy decisions.
+I am a technology visionary who gives crucial insight to business strategy.
 
 - 20-year software development professional
 - Silicon Valley veteran
