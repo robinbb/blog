@@ -45,10 +45,12 @@ tags:
 
 By [Robin Bate Boerop](/about/).
 
-This is the title of my forthcoming book that teaches how to make winning
-software teams by providing hands-on engineering leadership.
+This is the title of my
+[forthcoming book](https://leanpub.com/softwareteamleadership) that teaches how
+to make winning software teams by providing hands-on engineering leadership.
 
 <a href="/blog/" class="button f3 cf fr tc ph3 pv1 br3 b">Read Blog</a>
 
 </div>
-</article>
+</div>
+</div>
