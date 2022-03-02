@@ -13,4 +13,12 @@ tags:
 - schedule
 ---
 
-<iframe src="https://app.acuityscheduling.com/schedule.php?owner=21367024&appointmentType=category:Consulting%20Meetings" title="Schedule Appointment" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+
+<div id="booking-page"></div>
+
+<script>window.SavvyCal=window.SavvyCal||function(){(SavvyCal.q=SavvyCal.q||[]).push(arguments)};</script>
+<script async src="https://embed.savvycal.com/v1/embed.js"></script>
+<script>
+  SavvyCal('init');
+  SavvyCal('inline', { link: 'robinbb/meet', selector: '#booking-page' });
+</script>

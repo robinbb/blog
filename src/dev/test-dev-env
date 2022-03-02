@@ -10,8 +10,7 @@ echo "Ensuring 'hugo' is present..."
 command -v hugo > /dev/null
 echo "... 'hugo' is present."
 echo
-HUGO_DESIRED_VERSION="v0.78.2"
-HUGO_DESIRED_VERSION="hugo v0.92.0+extended darwin/amd64 BuildDate=unknown"
+HUGO_DESIRED_VERSION="hugo v0.92.2+extended darwin/amd64 BuildDate=unknown"
 echo "Ensuring 'hugo' is of the correct version ($HUGO_DESIRED_VERSION)..."
 HUGO_OUTPUT="$(hugo version)"
 echo "$HUGO_OUTPUT"
