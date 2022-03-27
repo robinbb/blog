@@ -2,3 +2,4 @@
 /hugo/.hugo_build.lock
 *.swp
 *.swo
+.DS_Store
