@@ -5,7 +5,6 @@ title = "robinbb"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 Paginate = 12
-googleAnalytics = "UA-48081501-1"  # blog.robinbb.com
 enableRobotsTXT = true
 
 # [sitemap]
