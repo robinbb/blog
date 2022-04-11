@@ -1,4 +1,4 @@
 # _redirect file for Netlify
 /jobs https://robin-bate-boerop.breezy.hr/ 302
 /meet https://savvycal.com/robinbb/meet 302
-/tweag-meet https://savvycal.com/robinbb/tweag-meet 302
+/tweag-meet https://savvycal.com/robinbb/meet 302
