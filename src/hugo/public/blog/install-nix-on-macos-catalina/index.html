@@ -29,7 +29,6 @@
 <meta property="og:url" content="https://robinbb.com/blog/install-nix-on-macos-catalina/" /><meta property="og:image" content="https://robinbb.com/images/nix-social-preview.png" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2020-02-22T00:00:00+00:00" />
 <meta property="article:modified_time" content="2020-02-22T00:00:00+00:00" /><meta property="og:site_name" content="robinbb" />
-
 <meta itemprop="name" content="Install Nix on macOS Catalina">
 <meta itemprop="description" content="How to install Nix on macOS 15 (Catalina)."><meta itemprop="datePublished" content="2020-02-22T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2020-02-22T00:00:00+00:00" />
@@ -139,14 +138,14 @@
 compatible with software designed for Unix, including
 <a href="https://nixos.org/">Nix</a>.
 Here is how to work around the changes to install Nix on macOS 15 (Catalina).</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">echo <span style="color:#e6db74">&#39;nix&#39;</span> | sudo tee -a /etc/synthetic.conf
-reboot  <span style="color:#75715e"># Actually reboot your Mac.</span>
-sudo diskutil apfs addVolume disk1 APFSX Nix -mountpoint /nix
-sudo diskutil enableOwnership /nix
-sudo chflags hidden /nix
-echo <span style="color:#e6db74">&#34;LABEL=Nix /nix apfs rw&#34;</span> | sudo tee -a /etc/fstab
-sh &lt;<span style="color:#f92672">(</span>curl -L https://nixos.org/nix/install<span style="color:#f92672">)</span> --daemon
-</code></pre></div><h3 id="credits">Credits</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>echo <span style="color:#e6db74">&#39;nix&#39;</span> | sudo tee -a /etc/synthetic.conf
+</span></span><span style="display:flex;"><span>reboot  <span style="color:#75715e"># Actually reboot your Mac.</span>
+</span></span><span style="display:flex;"><span>sudo diskutil apfs addVolume disk1 APFSX Nix -mountpoint /nix
+</span></span><span style="display:flex;"><span>sudo diskutil enableOwnership /nix
+</span></span><span style="display:flex;"><span>sudo chflags hidden /nix
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;LABEL=Nix /nix apfs rw&#34;</span> | sudo tee -a /etc/fstab
+</span></span><span style="display:flex;"><span>sh &lt;<span style="color:#f92672">(</span>curl -L https://nixos.org/nix/install<span style="color:#f92672">)</span> --daemon
+</span></span></code></pre></div><h3 id="credits">Credits</h3>
 <ul>
 <li><a href="https://github.com/NixOS/nix/issues/2925#issuecomment-539570232">https://github.com/NixOS/nix/issues/2925#issuecomment-539570232</a></li>
 </ul><div class="mt6 instapaper_ignoref">
