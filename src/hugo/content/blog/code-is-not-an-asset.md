@@ -88,7 +88,7 @@ effort that must be paid to correct them. This is not like a loan. â€œTech debtâ
 is a misnomer - it is actually an unhedged call option, a kind of contingent
 liability that must be paid at an unknown time at an unbounded cost. This is
 explained by
-[blogger Steve Freeman](https://www.higherorderlogic.com/2010/07/23/bad-code-isnt-technical-debt-its-an-unhedged-call-option/).
+[blogger Steve Freeman](https://web.archive.org/web/20200930041637/https://www.higherorderlogic.com/2010/07/23/bad-code-isnt-technical-debt-its-an-unhedged-call-option/).
 
 
 ### Conclusion
