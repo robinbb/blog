@@ -33,18 +33,18 @@ a, .nested-links a {
 a:hover, .nested-links a:hover {
   color: black;
   text-decoration: underline;
-  text-decoration-color: #fc7851;
-  -webkit-text-decoration-color: #fc7851;
+  text-decoration-color: #EDA13A;
+  -webkit-text-decoration-color: #EDA13A;
 }
 
 a.button {
   color: #FFF;
-  background-color: #fc7851;
+  background-color: #EDA13A;
   font-family: "PT Sans Narrow", sans-serif;
 }
 
 .twitter:hover, .instagram:hover, .github:hover, .gitlab:hover, .linkedin:hover {
-  fill: #fc7851;
+  fill: #EDA13A;
 }
 
 #default-single-content-wrapper p:first-child {
