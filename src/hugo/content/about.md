@@ -10,7 +10,7 @@ tags:
 - leader
 - consultant
 - software
-- startup
+- DevOps
 ---
 
 <div
@@ -44,17 +44,17 @@ tags:
      class="nested-copy-line-height lh-copy merriweather mid-gray f4 nested-links nested-img"
      >
 
-I make winning software teams by providing hands-on engineering leadership.
+I make winning teams with hands-on software development leadership.
 
 My life's mission is to show the world a better way to make software.
 
-- 23-year software development professional
+- 24-year software development professional
 - Silicon Valley veteran
-- _<a href="/stl-book/" target="_blank">Software Team Leadership</a>_ book author
-- SaaS startup co-founder
-  (<a href="/blog/userevents-acquisition/" target="_blank" alt="Userevents acquisition">acquired</a> 2014)
-- Leader at <a href="https://www.heb.com/" target="_blank">H-E-B</a>
-- Head of Engineering at <a href="https://minaprotocol.com/about" target="_blank">Mina Foundation</a>
+
+Currently:
+
+- Advisor at <a href="https://www.minafoundation.com" target="_blank">Mina Foundation</a>
+- Principal at <a href="https://granola.team" target="_blank">Granola Systems</a> 
 
 <a href="/results/" class="button f3 cf fr tc ph3 pv1 br3 b">See Results</a>
 
