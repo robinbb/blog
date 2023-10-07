@@ -7,7 +7,6 @@
    class="w-100 pv3 tc"
    >{{ partial "social-follow.html" . }}</div>
   {{ end }}
-  <div
-   class="f6 tc pt3"
-   >Copyright &copy; 2022 Robin Bate Boerop. All rights reserved.</div>
+  {{ with .Site.Copyright }}
+  <div class="f6 tc pt3" >{{.}}</div>{{ end }}
 </footer>
