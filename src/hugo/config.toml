@@ -26,6 +26,10 @@ enableRobotsTXT = true
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
 
 [markup]
   [markup.goldmark]
