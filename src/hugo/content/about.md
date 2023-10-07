@@ -51,7 +51,7 @@ My life's mission is to show the world a better way to make software.
 - 24-year software development professional
 - Silicon Valley veteran
 
-Currently:
+Currently (in 2023):
 
 - Advisor at <a href="https://www.minafoundation.com" target="_blank">Mina Foundation</a>
 - Principal at <a href="https://granola.team" target="_blank">Granola Systems</a> 

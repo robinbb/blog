@@ -1,7 +1,7 @@
 ---
 title: "Robin Bate Boerop"
 description: >-
-  Software teams improved. Robin Bate Boerop's website and blog.
+  Robin Bate Boerop's website and blog.
 draft: false
 type: landing-page
 tags:
@@ -10,39 +10,44 @@ tags:
 - leader
 - consultant
 - software
-- blog
+- DevOps
 ---
 
 <div
  id="main-flex-container"
- class="flex-ns ph3 mw7 center pb5"
+ class="flex-l pa3 mw8 center"
  ><div
    id="image-container"
-   class="w-100 w-50-ns"
+   class="w-50-l flex justify-center justify-end-l mr3-l"
    ><img
      id="image-robinbb-profile"
      alt="[Profile photo for Robin Bate Boerop]"
-     class="br2"
+     class="dtc br2"
+     style="max-height: 600px;"
      src="/images/robinbb-profile-photo-bw.jpeg"
      >
   </div>
   <div
    id="text-container"
-   class="bt-ns mh3 w-50-ns"
-   ><h1
-     id="tagline"
-     class="tc tl-ns f1 mv1"
-     >Software<br/>Teams<br>Improved</h1>
+   class="w-50-l mw7"
+   ><header
+     id="about-header"
+     class="bt mt3 mt0-l"
+     ><h1
+       id="about-title"
+       class="f1 lh-title mt0 mb1"
+       >Robin Bate Boerop</h1>
+      <h2>Global Software Leadership Consultant</h2>
+    </header>
     <div
-     class="mv4 w-100 flex justify-around flex-column-ns"
-     ><a
-       href="/about/"
-       class="grow w-50 f3 button mv1 pv2 ph3 tc br3 mw4"
-       >About</a>
-      <a
-       href="/blog/"
-       class="grow w-50 f3 button mv1 pv2 ph3 tc br3 mw4"
-       >Blog</a>
-    </div>
-  </div>
+     id="default-single-content-wrapper"
+     class="nested-copy-line-height lh-copy merriweather mid-gray f4 nested-links nested-img"
+     >
+
+I make winning teams with hands-on software development leadership.
+
+<a href="/about/" class="button f3 cf fr tc ph3 pv1 br3 b">About</a>
+
+</div>
+</div>
 </div>
