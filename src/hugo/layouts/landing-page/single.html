@@ -5,7 +5,7 @@
  role="navigation"
  ><div
    id="landing-page-nav-div"
-   class="flex flex-column flex-row-ns justify-between"
+   class="flex flex-column flex-row-ns justify-between bb"
    ><div
      id="landing-page-nav-logo"
      class=""
@@ -22,11 +22,5 @@
 {{ end }}
 {{ define "main" }}{{ .Content }}{{ end }}
 {{ define "footer" }}
-<footer
- class="{{ .Site.Params.background_color_class }} bottom-0 w-100 pa3 mt5"
- role="contentinfo"
- ><div
-   class="f6 tc pt3"
-   >Copyright &copy; 2020 Robin Bate Boerop. All rights reserved.</div>
-</footer>
+<footer></footer>
 {{ end }}
