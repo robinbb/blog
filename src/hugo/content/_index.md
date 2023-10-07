@@ -46,7 +46,8 @@ tags:
 
 I make winning teams with hands-on software development leadership.
 
-<a href="/about/" class="button f3 cf fr tc ph3 pv1 br3 b">About</a>
+<a href="/about/" class="button f3 ph3 pv2 br3 b">About</a>
+<a href="/contact/" class="button f3 ph3 pv2 br3 b">Contact</a>
 
 </div>
 </div>
