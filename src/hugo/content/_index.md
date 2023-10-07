@@ -29,7 +29,7 @@ tags:
   </div>
   <div
    id="text-container"
-   class="w-50-l mw7"
+   class="w-50-l mw7 pb2"
    ><header
      id="about-header"
      class="bt mt3 mt0-l"
@@ -46,8 +46,8 @@ tags:
 
 I make winning teams with hands-on software development leadership.
 
-<a href="/about/" class="button f3 ph3 pv2 br3 b">About</a>
-<a href="/contact/" class="button f3 ph3 pv2 br3 b">Contact</a>
+<a href="/about/" class="button f3 ph3 pv1 br3 b">About</a>
+<a href="/contact/" class="button f3 ph3 pv1 br3 b">Contact</a>
 
 </div>
 </div>

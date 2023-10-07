@@ -29,7 +29,7 @@ tags:
   </div>
   <div
    id="text-container"
-   class="w-50-l mw7"
+   class="w-50-l mw7 pb2"
    ><header
      id="stl-book-header"
      class="bt mt3 mt0-l"
@@ -49,7 +49,7 @@ This is the title of my
 [forthcoming book](https://leanpub.com/softwareteamleadership) that teaches how
 to make winning software teams by providing hands-on engineering leadership.
 
-<a href="/about/" class="button f3 cf fr tc ph3 pv1 br3 b">About Robin</a>
+<a href="/about/" class="button f3 ph3 pv1 br3 b">About Robin</a>
 
 </div>
 </div>

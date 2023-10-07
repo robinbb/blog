@@ -29,7 +29,7 @@ tags:
   </div>
   <div
    id="text-container"
-   class="w-50-l mw7"
+   class="w-50-l mw7 pb2"
    ><header
      id="about-header"
      class="bt mt3 mt0-l"
@@ -56,7 +56,7 @@ Currently (in 2023):
 - Advisor at <a href="https://www.minafoundation.com" target="_blank">Mina Foundation</a>
 - Principal at <a href="https://granola.team" target="_blank">Granola Systems</a> 
 
-<a href="/results/" class="button f3 cf fr tc ph3 pv1 br3 b">See Results</a>
+<a href="/results/" class="button f3 ph3 pv1 br3 b">See Results</a>
 
 </div>
 </div>
