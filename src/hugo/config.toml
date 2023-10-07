@@ -1,11 +1,15 @@
 baseURL = "https://robinbb.com/"
 languageCode = "en-us"
 title = "robinbb"
+Copyright = "Copyright 2023 by Robin Bate Boerop. All rights reserved."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 Paginate = 12
 enableRobotsTXT = true
+
+[Author]
+  name = "Robin Bate Boerop"
 
 # [sitemap]
 #   changefreq = "monthly"
