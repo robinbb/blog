@@ -5,7 +5,7 @@ Copyright = "Copyright 2023 by Robin Bate Boerop. All rights reserved."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-Paginate = 12
+Paginate = 9
 enableRobotsTXT = true
 
 [Author]
