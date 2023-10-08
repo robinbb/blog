@@ -25,20 +25,24 @@ code {
 }
 
 a, .nested-links a {
-  color: black;
+  color: white;
   text-decoration: none;
   font-weight: bold;
 }
 
+.granola-dark {
+  background-color: #242934;
+}
+
 a:hover, .nested-links a:hover {
-  color: black;
+  color: white;
   text-decoration: underline;
   text-decoration-color: #EDA13A;
   -webkit-text-decoration-color: #EDA13A;
 }
 
 a.button {
-  color: #FFF;
+  color: white;
   background-color: #EDA13A;
   font-family: "PT Sans Narrow", sans-serif;
 }
