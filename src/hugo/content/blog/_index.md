@@ -1,7 +1,7 @@
 ---
 title: "Robin Bate Boerop's Blog"
 description: >-
-  Robin Bate Boerop's blog about software development, DevOps, and leadership.
+  Robin Bate Boerop's blog about DevOps and software team leadership.
 tags:
 - blog
 - DevOps
