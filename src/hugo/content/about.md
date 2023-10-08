@@ -48,7 +48,7 @@ I make winning teams with hands-on software development leadership.
 
 My life's mission is to show the world a better way to make software.
 
-- 24-year software development professional
+- 24 years of professional experience
 - Silicon Valley veteran
 
 Currently (in 2023):

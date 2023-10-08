@@ -30,7 +30,7 @@ tags:
   </div>
   <div
    id="text-container"
-   class="w-50-l mw7"
+   class="w-50-l mw7 pb2"
    ><header
      id="about-header"
      class="bt mt3 mt0-l"
@@ -63,7 +63,7 @@ team performance, and mentor leaders.
 
 I am a technology visionary who gives crucial insight to business strategy.
 
-- 24-year software development professional
+- 24 years of professional experience
 - Silicon Valley veteran
 - Specialize in DevOps, SRE, cloud ops, and platform engineering
 - SaaS startup co-founder
@@ -71,7 +71,7 @@ I am a technology visionary who gives crucial insight to business strategy.
 - Software consulting firm owner
   (<a href="https://granola.team" target="_blank" alt="Granola Systems">Granola</a>)
 
-<a href="/results/" class="button f3 cf fr tc ph3 pv1 br3 b">See Results</a>
+<a href="/results/" class="button f3 ph3 pv1 br3 b">See Results</a>
 
 </div>
 </div>
