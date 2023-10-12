@@ -2,5 +2,18 @@
 
 [build]
   base = "src/"
-  command = "./build"
+  command = "echo 'default context'"
   publish = "src/hugo/public"
+
+[context.production]
+  command = "echo 'production context' && ./build"
+  environment = { HUGO_ENV = "production" }
+
+[context.deploy-preview]
+  command = "echo 'deploy-preview context' && ./build"
+  environment = { HUGO_ENV = "deploy-preview" }
+
+[[redirects]]
+  from = "/meet"
+  to = "/contact"
+  status = 302
