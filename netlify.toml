@@ -1,0 +1,17 @@
+# netlify.toml
+
+[build]
+  base = "src/"
+  command = "echo context: $HUGO_ENV && ./build"
+  publish = "hugo/public/"
+
+[context.production]
+  environment = { HUGO_ENV = "production" }
+
+[context.deploy-preview]
+  environment = { HUGO_ENV = "deploy-preview" }
+
+[[redirects]]
+  from = "/meet"
+  to = "/contact"
+  status = 302
