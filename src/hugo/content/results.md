@@ -24,9 +24,9 @@ I reliably get results:
 - De-risked technology strategies
 - Tuned agile development processes
 - World-class build-automation software
+- Measurable increase of development speed
 - Increased confidence in deployed software
 - Reduced recruiting costs by effective hiring
-- Measurable increase of development velocity.
 - Measurable improvement of employee engagement
 - Software architecture recommendations worth implementing
 - Substantial and lasting productivity improvements
