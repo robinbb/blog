@@ -1,6 +1,5 @@
 #! /bin/sh
 
-set -x
 set -e
 set -u
 
@@ -17,5 +16,5 @@ echo "... theme built."
 echo
 
 echo "Invoking hugo..."
-(cd "$MY_DIR"/hugo && rm -fr public && hugo && ls -la public)
+(cd "$MY_DIR"/hugo && rm -fr public && hugo)
 echo "... done."
