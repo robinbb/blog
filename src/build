@@ -17,5 +17,5 @@ echo "... theme built."
 echo
 
 echo "Invoking hugo..."
-(cd "$MY_DIR"/hugo && rm -fr public && hugo)
+(cd "$MY_DIR"/hugo && rm -fr public && hugo && ls -la hugo/public)
 echo "... done."
