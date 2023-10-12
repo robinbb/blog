@@ -2,15 +2,13 @@
 
 [build]
   base = "src/"
-  command = "echo 'default context'"
+  command = "echo context: $HUGO_ENV && ./build"
   publish = "hugo/public/"
 
 [context.production]
-  command = "echo 'production context' && ./build"
   environment = { HUGO_ENV = "production" }
 
 [context.deploy-preview]
-  command = "echo 'deploy-preview context' && ./build"
   environment = { HUGO_ENV = "deploy-preview" }
 
 [[redirects]]
