@@ -26,7 +26,7 @@ I reliably get results:
 - World-class build-automation software
 - Increased confidence in deployed software
 - Reduced recruiting costs by effective hiring
-- Measurable increase of development speed
+- Measurable increase of development velocity.
 - Measurable improvement of employee engagement
 - Software architecture recommendations worth implementing
 - Substantial and lasting productivity improvements
