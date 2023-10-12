@@ -1,5 +1,6 @@
 /hugo/resources/
 /hugo/.hugo_build.lock
+/hugo/public/
 *.swp
 *.swo
 .DS_Store
