@@ -1,6 +1,6 @@
 # netlify.toml
 
 [build]
-  base = src/
-  command = ./build
-  publish = src/hugo/public
+  base = "src/"
+  command = "./build"
+  publish = "src/hugo/public"
