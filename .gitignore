@@ -1,0 +1,9 @@
+# Local Netlify folder
+.netlify
+
+# Editor temp  files
+*.swp
+*.swo
+
+# MacOS droppings
+.DS_Store

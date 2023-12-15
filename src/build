@@ -6,14 +6,13 @@ set -u
 MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
 
 echo "Testing prerequisites..."
+
 "$MY_DIR"/dev/test-dev-env
 echo "... prerequisites tested."
-echo
 
 echo "Building theme..."
 ( cd "$MY_DIR"/hugo/theme-src  && ./build )
 echo "... theme built."
-echo
 
 echo "Invoking hugo..."
 (cd "$MY_DIR"/hugo && rm -fr public && hugo)

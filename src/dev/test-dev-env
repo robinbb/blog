@@ -5,8 +5,6 @@ set -euo pipefail
 echo "Ensuring 'grep' is present..."
 command -v grep > /dev/null
 echo "... 'grep' is present."
-echo
 echo "Ensuring 'hugo' is present..."
 command -v hugo > /dev/null
 echo "... 'hugo' is present."
-echo
