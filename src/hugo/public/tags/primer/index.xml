@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>primer on robinbb</title>
+    <link>https://robinbb.com/tags/primer/</link>
+    <description>Recent content in primer on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2023 by Robin Bate Boerop. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://robinbb.com/tags/primer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Trust</title>
+      <link>https://robinbb.com/blog/trust/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/trust/</guid>
+      <description>This is a primer on the concept of trust for software teams.</description>
+    </item>
+    
+    <item>
+      <title>Employee Engagement for Software Teams</title>
+      <link>https://robinbb.com/blog/engagement-for-software-teams/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/engagement-for-software-teams/</guid>
+      <description>A primer on employee engagement for new leaders.</description>
+    </item>
+    
+    <item>
+      <title>Leadership for Software Teams</title>
+      <link>https://robinbb.com/blog/leadership/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/leadership/</guid>
+      <description>A primer on the concept of leadership.</description>
+    </item>
+    
+  </channel>
+</rss>

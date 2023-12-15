@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>communication on robinbb</title>
+    <link>https://robinbb.com/tags/communication/</link>
+    <description>Recent content in communication on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2023 by Robin Bate Boerop. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://robinbb.com/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tip: Repeat Yourself Often</title>
+      <link>https://robinbb.com/blog/tip-repeat-yourself-often/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/tip-repeat-yourself-often/</guid>
+      <description>A tip for software team leaders: to communicate clearly and to lead effectively, repeat yourself often.</description>
+    </item>
+    
+  </channel>
+</rss>

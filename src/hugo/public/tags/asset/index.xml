@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asset on robinbb</title>
+    <link>https://robinbb.com/tags/asset/</link>
+    <description>Recent content in asset on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2023 by Robin Bate Boerop. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://robinbb.com/tags/asset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Is Not An Asset</title>
+      <link>https://robinbb.com/blog/code-is-not-an-asset/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/code-is-not-an-asset/</guid>
+      <description>Explains that software source code is a liability, not an asset.</description>
+    </item>
+    
+  </channel>
+</rss>

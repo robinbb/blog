@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acquisition on robinbb</title>
+    <link>https://robinbb.com/tags/acquisition/</link>
+    <description>Recent content in acquisition on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2023 by Robin Bate Boerop. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 28 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://robinbb.com/tags/acquisition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Tech Startup Was Acquired</title>
+      <link>https://robinbb.com/blog/userevents-acquisition/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/blog/userevents-acquisition/</guid>
+      <description>The business UserEvents was acquired by LiveOps in January of 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

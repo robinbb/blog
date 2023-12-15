@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leader on robinbb</title>
+    <link>https://robinbb.com/tags/leader/</link>
+    <description>Recent content in leader on robinbb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2023 by Robin Bate Boerop. All rights reserved.</copyright><atom:link href="https://robinbb.com/tags/leader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Results</title>
+      <link>https://robinbb.com/results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/results/</guid>
+      <description>Software teams improved. I am a hands-on leadership consultant for highly technical software teams. Here are the results that I reliably get.</description>
+    </item>
+    
+    <item>
+      <title>Robin Bate Boerop</title>
+      <link>https://robinbb.com/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/</guid>
+      <description>Robin Bate Boerop&#39;s website and blog.</description>
+    </item>
+    
+    <item>
+      <title>Robin Bate Boerop</title>
+      <link>https://robinbb.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/about/</guid>
+      <description>About Robin Bate Boerop - Global Software Leadership Consultant.</description>
+    </item>
+    
+    <item>
+      <title>Software Team Leadership Book</title>
+      <link>https://robinbb.com/stl-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/stl-book/</guid>
+      <description>Robin Bate Boerop&#39;s book: Software Team Leadership.</description>
+    </item>
+    
+    <item>
+      <title>Talk - Software Testing: Stories From The Real World</title>
+      <link>https://robinbb.com/talk-nbq-2016-oct-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robinbb.com/talk-nbq-2016-oct-4/</guid>
+      <description>Talk given to nbQ on 4 October 2016.</description>
+    </item>
+    
+  </channel>
+</rss>
