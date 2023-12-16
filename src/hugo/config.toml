@@ -7,6 +7,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 Paginate = 9
 enableRobotsTXT = true
+disableHugoGeneratorInject = true
 
 [Author]
   name = "Robin Bate Boerop"
