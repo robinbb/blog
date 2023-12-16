@@ -15,7 +15,7 @@
   <channel>
     <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content on {{ .Site.Title }}</description>
+    <description>Recent content for: {{ .Site.Title }}</description>
     {{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}
     {{ with .Site.Author.name }}
@@ -23,11 +23,13 @@
     {{ with .Site.Copyright }}
     <copyright>{{.}}</copyright>{{end}}
     {{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{ end }}
     {{- with .OutputFormats.Get "RSS" -}}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
-    {{- range $pages -}}{{- if ne .Params.sitemap_exclude true -}} 
+    {{- range $pages -}}
+    {{- if ne .Params.sitemap_exclude true -}}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
@@ -36,6 +38,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Description | html }}</description>
     </item>
-    {{- end -}}{{- end -}}
+    {{- end -}}
+    {{- end -}}
   </channel>
 </rss>

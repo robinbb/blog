@@ -1,4 +1,3 @@
-
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
@@ -23,9 +22,11 @@
     <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
     <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+
     {{- with .OutputFormats.Get "RSS" -}}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
+
     {{ range $pages }}
     <item>
       <title>{{ .Title }}</title>
@@ -35,6 +36,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Description | html }}</description>
     </item>
+
     {{ end }}
   </channel>
 </rss>
