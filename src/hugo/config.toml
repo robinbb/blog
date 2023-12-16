@@ -64,3 +64,9 @@ enableRobotsTXT = true
   # slack = ""
   # stackoverflow = ""
   # rss = ""
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
