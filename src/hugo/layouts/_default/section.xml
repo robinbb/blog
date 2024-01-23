@@ -27,7 +27,6 @@
     {{- end -}}
     {{- range $pages -}}
     {{- if ne .Params.sitemap_exclude true -}}
-
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
@@ -36,8 +35,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Description | html }}</description>
     </item>
+    {{ end -}}
     {{- end -}}
-    {{- end -}}
-
   </channel>
 </rss>
