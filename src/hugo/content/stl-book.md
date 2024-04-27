@@ -40,7 +40,7 @@ tags:
     </header>
     <div
      id="default-single-content-wrapper"
-     class="nested-copy-line-height lh-copy merriweather f4 nested-links nested-img"
+     class="nested-copy-line-height lh-copy f4 nested-links nested-img"
      >
 
 By [Robin Bate Boerop](/about/).
