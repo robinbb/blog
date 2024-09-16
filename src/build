@@ -15,5 +15,5 @@ echo "Building theme..."
 echo "... theme built."
 
 echo "Invoking hugo..."
-(cd "$MY_DIR"/hugo && rm -fr public && hugo)
+(cd "$MY_DIR"/hugo && rm -fr public && HUGO_ENV=production hugo)
 echo "... done."

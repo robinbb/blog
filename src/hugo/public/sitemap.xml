@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://robinbb.com/tags/blog/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/devops/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://robinbb.com/tags/leadership/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
@@ -18,12 +28,27 @@
   </url>
   
   <url>
+    <loc>https://robinbb.com/blog/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://robinbb.com/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robinbb.com/blog/</loc>
+    <loc>https://robinbb.com/tags/software-development/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/software-engineering/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/sre/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,11 +268,6 @@
   </url>
   
   <url>
-    <loc>https://robinbb.com/tags/devops/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://robinbb.com/tags/nix/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
@@ -313,7 +333,8 @@
   </url>
   
   <url>
-    <loc>https://robinbb.com/tags/blog/</loc>
+    <loc>https://robinbb.com/workout/</loc>
+    <lastmod>2012-06-23T16:44:36-03:00</lastmod>
   </url>
   
   <url>
@@ -381,14 +402,6 @@
   </url>
   
   <url>
-    <loc>https://robinbb.com/tags/software-development/</loc>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/tags/software-engineering/</loc>
-  </url>
-  
-  <url>
     <loc>https://robinbb.com/stl-book/</loc>
   </url>
   
@@ -402,10 +415,6 @@
   
   <url>
     <loc>https://robinbb.com/tags/speeches/</loc>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/tags/sre/</loc>
   </url>
   
   <url>
