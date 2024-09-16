@@ -3,18 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://robinbb.com/blog/a-new-daily-blog/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://robinbb.com/tags/blog/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/daily/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://robinbb.com/tags/devops/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://robinbb.com/tags/leadership/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/newsletter/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/blog/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/software-development/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/software-engineering/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/sre/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/tags/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,36 +69,6 @@
   
   <url>
     <loc>https://robinbb.com/blog/mission-defines-success/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/blog/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/tags/software-development/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/tags/software-engineering/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/tags/sre/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://robinbb.com/tags/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,6 +184,11 @@
   
   <url>
     <loc>https://robinbb.com/blog/code-is-not-an-asset/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/daily/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url>
   

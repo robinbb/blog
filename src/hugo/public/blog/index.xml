@@ -8,8 +8,16 @@
     <managingEditor>Robin Bate Boerop</managingEditor>
     <copyright>Copyright 2023 by Robin Bate Boerop. All rights reserved.</copyright>
     
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://robinbb.com/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>A New Beginning</title>
+      <link>https://robinbb.com/blog/a-new-daily-blog/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <author>Robin Bate Boerop</author>
+      <guid>https://robinbb.com/blog/a-new-daily-blog/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mission Defines Success</title>
       <link>https://robinbb.com/blog/mission-defines-success/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
