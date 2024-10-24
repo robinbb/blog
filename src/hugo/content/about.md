@@ -37,22 +37,22 @@ tags:
        id="about-title"
        class="f1 lh-title mt0 mb1"
        >Robin Bate Boerop</h1>
-      <h2>Global Software Leadership Consultant</h2>
+      <h2>Software Team Leadership Consultant</h2>
     </header>
     <div
      id="default-single-content-wrapper"
      class="nested-copy-line-height lh-copy f4 nested-links nested-img"
      >
 
-I make winning teams with hands-on software development leadership.
+I make winning teams with hands-on software team leadership.
 
 My life's mission is to show the world a better way to make software.
 
-- 24 years of professional experience
+- 25 years of professional experience
 - Silicon Valley veteran
-- Principal at <a href="https://granola.team" target="_blank">Granola Systems</a> 
+- Community leader of <a href="https://granola.team" target="_blank">Granola</a> 
 
-<a href="/results/" class="button f3 ph3 pv1 br3 b">See Results</a>
+<a href="/results/" class="button f3 ph3 pv1 br3 b">Results</a>
 
 </div>
 </div>
