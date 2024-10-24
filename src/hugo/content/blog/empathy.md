@@ -2,7 +2,7 @@
 title: "Empathy"
 description: >-
   What is empathy, really, and how is it properly used by leaders?
-date: "2022-Jan-23"
+date: "2022-01-23"
 draft: true
 featured_image: ""
 images:

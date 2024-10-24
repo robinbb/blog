@@ -1,0 +1,14 @@
+#! /bin/sh
+
+set -e
+set -u
+
+MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
+
+echo "Building theme..."
+( cd "$MY_DIR"/src/hugo/theme-src  && ./build )
+echo "... theme built."
+
+echo "Invoking Hugo..."
+(cd "$MY_DIR"/src/hugo && rm -fr public && HUGO_ENV=production hugo)
+echo "... done."
