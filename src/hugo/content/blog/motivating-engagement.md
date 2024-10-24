@@ -3,28 +3,19 @@ title: "Motivating Engagement"
 description: >-
   Why care about employee engagement on software teams?"
 date: "2020-07-27"
-draft: false
-images:
-- "https://i.vimeocdn.com/video/995363739.jpg"
-videos:
-- "https://vimeo.com/479351590"
 tags:
 - leadership
 - engagement
 - video-teaser
 ---
 
+It is important for members of your software team to be *engaged*.
 
-It is important for members of your software team to be engaged because:
-
-- engagement improves your team's effectiveness, and;
-- working to engage employees inspires the trust that is required to lead.
+- Engagement improves your team's effectiveness.
+- Working to engage employees inspires the trust that is required to lead.
 
 <!--more-->
  
-
-{{< wideVimeo 479351590 >}}
-
 ### Team Performance
 
 In 2016, in an exploration of the prediction of team success, Gallup performed
