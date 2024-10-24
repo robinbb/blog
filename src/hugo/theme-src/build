@@ -4,11 +4,21 @@ MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
 cd "$MY_DIR"
 
 # New build
-cat \
-  'css/tachyons-4.12.0.min.css' \
-  'css/ananke/_code.css' \
-  'css/ananke/_hugo-internal-templates.css' \
-  'css/ananke/_social-icons.css' \
-  'css/ananke/_styles.css' \
-  'css/robinbb.css' \
-  > ../static/dist/css/robinbb.css
+( echo "/* _code.css */"
+  cat 'css/ananke/_code.css'
+  echo
+  echo "/* _hugo-internal-templates.css */"
+  cat 'css/ananke/_hugo-internal-templates.css'
+  echo
+  echo "/* _social_icons.css */"
+  cat 'css/ananke/_social-icons.css'
+  echo
+  echo "/* _styles.css */"
+  cat 'css/ananke/_styles.css'
+  echo
+  echo "/* robinbb.css */"
+  cat 'css/robinbb.css'
+  echo
+  echo "/* Tachyons */"
+  cat 'css/tachyons-4.12.0.min.css'
+) > ../static/dist/css/robinbb.css
