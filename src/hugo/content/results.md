@@ -31,5 +31,7 @@ I reliably get results:
 - Software architecture recommendations worth implementing
 - Substantial and lasting productivity improvements
 
+[Testimonials](https://www.linkedin.com/in/robinbb/details/recommendations/).
+
 To learn more about my leadership style and philosophy, see my
 [blog](/blog/).
