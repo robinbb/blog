@@ -32,12 +32,11 @@ tags:
    class="w-50-l mw7 pb2"
    ><header
      id="about-header"
-     class="bt mt3 mt0-l"
+     class="mt3 mt0-l"
      ><h1
-       id="about-title"
        class="f1 lh-title mt0 mb1"
        >Robin Bate Boerop</h1>
-      <h2>Software Team Leadership Consultant</h2>
+      <h2 class="mt0">Software Team Leadership Consultant</h2>
     </header>
     <div
      id="default-single-content-wrapper"
