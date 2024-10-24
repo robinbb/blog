@@ -6,14 +6,9 @@ description: >-
   a solved problem.
 date: "2020-11-02"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/995365972.jpg"
-videos:
-- "https://vimeo.com/479349509"
 tags:
 - tip
 - leadership
-- video-teaser
 ---
 
 
@@ -23,9 +18,6 @@ tempted to solve it. Maybe you shouldn’t.
 This is an opportunity for more than a solved problem.
 
 <!--more-->
-
-
-{{< tallVimeo 479349509 >}}
 
 Your analytical self wants to solve problems. Instead of simply providing a
 solution, see the problem as an opportunity to improve your empathetic self.

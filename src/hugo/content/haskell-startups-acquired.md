@@ -5,12 +5,6 @@ description: >-
 date: "2020-01-07"
 draft: true
 featured_image: ""
-images:
--
-videos:
-- "https://vimeo.com/"
-audio:
-- 
 tags:
 - Haskell
 - startups

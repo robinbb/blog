@@ -8,16 +8,11 @@ description: >-
   Toxic workers destroy productivity.
 date: "2020-11-03"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/994958781.jpg"
-videos:
-- "https://vimeo.com/479351559"
 tags:
 - leadership
 - toxic-worker
 - tip
 - productivity
-- video-teaser
 ---
 
 
@@ -28,8 +23,6 @@ as effective as removing a toxic worker. It’s not even close. Toxic workers
 destroy productivity.
 
 <!--more-->
-
-{{< tallVimeo "479351559" >}}
 
 [The science](https://www.hbs.edu/faculty/Publication%20Files/16-057_d45c0b4f-fa19-49de-8f1b-4b12fe054fea.pdf)
 is in on the effect of toxic workers. Avoiding a toxic worker (or converting a

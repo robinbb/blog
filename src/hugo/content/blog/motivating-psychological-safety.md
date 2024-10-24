@@ -5,14 +5,9 @@ description: >-
   environments.
 date: "2020-11-25"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/1002534528.jpg"
-videos:
-- "https://vimeo.com/483848775"
 tags:
 - leadership
 - psychological-safety
-- video-teaser
 ---
 
 
@@ -22,9 +17,6 @@ and team performance is impeded. Leaders can increase team effectiveness by
 creating a psychologically safe work environment.
 
 <!--more-->
-
-
-{{< tallVimeo 483848775 >}}
 
 If you lead a software team, you need to understand how to produce
 psychological safety.

@@ -5,18 +5,12 @@ description: >-
   routine.
 date: "2020-10-22"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/994958855.jpg"
-videos:
-- "https://vimeo.com/479351552"
 tags:
 - tip
 - leadership
 - trust
 - influence
-- video-teaser
 ---
-
 
 If you are a software team leader, then you will need to make change on your
 team or within your company.  That is by definition; leaders make change.
@@ -30,9 +24,6 @@ of your routine.
 
 
 <!--more-->
-
-
-{{< tallVimeo "479351552" >}}
 
 In the worst case, failing to make influence-building a part of your routine
 could result in you having no ability to make change.  I have seen entire teams

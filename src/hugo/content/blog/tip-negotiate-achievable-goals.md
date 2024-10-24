@@ -4,26 +4,18 @@ description: >-
   Leaders must ensure that the software team's goals are achievable.
 date: "2020-10-22"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/995353650.jpg"
-videos:
-- "https://vimeo.com/479351600"
 tags:
 - leadership
 - tip
 - goals
 - trust
-- video-teaser
 ---
-
 
 As the leader, it is your job to make sure that your software team's goals are
 achievable.
 
 
 <!--more-->
-
-{{< tallVimeo 479351600 >}}
 
 The goals ought to result from a negotiaton with the software team.
 

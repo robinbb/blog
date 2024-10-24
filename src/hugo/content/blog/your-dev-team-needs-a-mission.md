@@ -7,14 +7,9 @@ description: >-
   impeded, as is your ability to set goals and measure progress.
 date: "2020-11-25"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/1002535729.jpg"
-videos:
-- "https://vimeo.com/483848719"
 tags:
 - leadership
 - mission
-- video-teaser
 ---
 
 
@@ -28,9 +23,6 @@ absent. Failing to clearly communicate a mission is a leadership mistake of the
 highest order.
 
 <!--more-->
-
-
-{{< tallVimeo 483848719 >}}
 
 Surprisingly, some teams are formed without thought for their missions. I have
 been placed in management and leadership positions on teams where there was no

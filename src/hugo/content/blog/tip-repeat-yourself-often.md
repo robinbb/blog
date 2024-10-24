@@ -5,13 +5,10 @@ description: >-
   effectively, repeat yourself often.
 date: "2020-11-16"
 featured_image: ""
-images: [ "https://i.vimeocdn.com/video/994955085.jpg" ]
-videos: [ "https://vimeo.com/479349579" ]
 audio: []
 tags:
 - leadership
 - communication
-- video-teaser
 ---
 
 
@@ -20,9 +17,6 @@ not penetrate into their team’s collective consciousness. When communicating
 with your team, repeat yourself often.
 
 <!--more-->
-
-
-{{< tallVimeo 479349579 >}}
 
 This is a common mistake among new leaders whom I have coached. If you make the
 mistake of under-communicating, it will be very costly; your other leadership

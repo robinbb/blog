@@ -6,7 +6,6 @@ date: "2020-07-27"
 tags:
 - leadership
 - engagement
-- video-teaser
 ---
 
 It is important for members of your software team to be *engaged*.

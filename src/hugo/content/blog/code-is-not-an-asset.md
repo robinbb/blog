@@ -4,8 +4,6 @@ description: >-
   Explains that software source code is a liability, not an asset.
 date: "2020-10-21"
 draft: false
-images: [ "https://i.vimeocdn.com/video/994959038.jpg" ]
-videos: [ "https://vimeo.com/479351595" ]
 tags:
 - code
 - asset
@@ -19,9 +17,6 @@ liability. More code means more liability. Are you making the right trade-offs?
 Let me explain what I mean by “code is a liability”.
 
 <!--more-->
-
-
-{{< tallVimeo "479351595" >}}
 
 In what follows, I use the term “tests” to refer to automated test software. I
 use the term “code” to refer to software source that implements features but

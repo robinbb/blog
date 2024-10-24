@@ -5,14 +5,9 @@ description: >-
   can stop worrying. They don’t have to like you. They just have to trust you.
 date: "2020-10-27"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/995358623.jpg"
-videos:
-- "https://vimeo.com/479349532"
 tags:
 - leadership
 - tip
-- video-teaser
 ---
 
 
@@ -22,9 +17,6 @@ You can stop worrying. They don’t have to like you. They just have to trust
 you.
 
 <!--more-->
-
-
-{{< tallVimeo 479349532 >}}
 
 By definition, leaders make change. The influence required for making change
 does not require friendships with team members. What _is_ required for

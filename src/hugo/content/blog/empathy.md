@@ -5,12 +5,6 @@ description: >-
 date: "2022-01-23"
 draft: true
 featured_image: ""
-images:
--
-videos:
-- "https://vimeo.com/"
-audio:
-- 
 tags:
 - leadership
 - tip

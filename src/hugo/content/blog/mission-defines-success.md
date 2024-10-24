@@ -6,14 +6,9 @@ description: >-
   mission; you must own the result 100%.
 date: "2020-11-26"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/1002532647.jpg"
-videos:
-- "https://vimeo.com/483848780"
 tags:
 - mission
 - leadership
-- video-teaser
 ---
 
 
@@ -22,9 +17,6 @@ team leader, your success is defined by the accomplishment of that mission; you
 must own the result 100%.
 
 <!--more-->
-
-
-{{< tallVimeo 483848780 >}}
 
 That the success of the mission is entirely their responsibility is offensive
 to some leaders. They reject the notion that they are 100% responsible for the

@@ -4,16 +4,11 @@ description: >-
   A tip for software team leaders: coaching well means giving less advice.
 date: "2020-10-26"
 draft: false
-images:
-- "https://i.vimeocdn.com/video/995355827.jpg"
-videos:
-- "https://vimeo.com/479351596"
 tags:
 - tip
 - leadership
 - coaching
 - 1-on-1s
-- video-teaser
 ---
 
 
@@ -28,9 +23,6 @@ constructive, never merely a critique. Aim for giving only 1 piece of advice.
 This is because we human beings have a limited capacity for change.
 
 <!--more-->
-
-
-{{< tallVimeo 479351596 >}}
 
 If you give more than 3 pieces of advice, you risk seeing a lack of progress on
 all of the behaviours, or worse.
