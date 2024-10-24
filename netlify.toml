@@ -2,7 +2,7 @@
 
 [build]
   base = "src/"
-  command = "echo context: $HUGO_ENV && ./build"
+  command = "echo context: $HUGO_ENV && ../build"
   publish = "src/hugo/public/"
 
 [context.production]
