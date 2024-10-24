@@ -3,8 +3,10 @@
 MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
 cd "$MY_DIR"
 
-# New build
-( echo "/* _code.css */"
+# Tachyons must come first, as other directives override it.
+( echo "/* Tachyons */"
+  cat 'css/tachyons-4.12.0.min.css'
+  echo "/* _code.css */"
   cat 'css/ananke/_code.css'
   echo
   echo "/* _hugo-internal-templates.css */"
@@ -19,6 +21,4 @@ cd "$MY_DIR"
   echo "/* robinbb.css */"
   cat 'css/robinbb.css'
   echo
-  echo "/* Tachyons */"
-  cat 'css/tachyons-4.12.0.min.css'
 ) > ../static/dist/css/robinbb.css
