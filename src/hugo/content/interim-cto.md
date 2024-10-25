@@ -33,12 +33,11 @@ tags:
    class="w-50-l mw7 pb2"
    ><header
      id="about-header"
-     class="bt mt3 mt0-l"
+     class="mt3 mt0-l"
      ><h1
-       id="about-title"
        class="f1 lh-title mt0 mb1"
        >Robin Bate Boerop</h1>
-      <h2>Interim CTO</h2>
+      <h2 class="mt0">Interim CTO</h2>
     </header>
     <div
      id="default-single-content-wrapper"
@@ -63,13 +62,13 @@ team performance, and mentor leaders.
 
 I am a technology visionary who gives crucial insight to business strategy.
 
-- 24 years of professional experience
+- 25 years of professional experience
 - Silicon Valley veteran
 - Specialize in DevOps, SRE, cloud ops, and platform engineering
 - SaaS startup co-founder
   (<a href="/blog/userevents-acquisition/" target="_blank" alt="Userevents acquisition">acquired</a> 2014)
-- Software consulting firm owner
-  (<a href="https://granola.team" target="_blank" alt="Granola Systems">Granola</a>)
+- Community leader of
+  <a href="https://granola.team" target="_blank" alt="Granola Systems">Granola</a>
 
 <a href="/results/" class="button f3 ph3 pv1 br3 b">See Results</a>
 
