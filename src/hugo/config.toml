@@ -54,7 +54,6 @@ disableHugoGeneratorInject = true
   gitlab = "https://gitlab.com/robinbb/"
   linkedin = "https://www.linkedin.com/in/robinbb/"
   # instagram = "https://www.instagram.com/robinbateboerop/"
-  # commentoEnable = false
   # toc = false
   # featured_image = "/images/robinbb-books-background-1.jpeg"
   # recent_posts_number = 2
