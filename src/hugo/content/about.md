@@ -49,7 +49,6 @@ My life's mission is to show the world a better way to make software.
 
 - 25 years of professional experience
 - Silicon Valley veteran
-- Community leader of <a href="https://granola.team" target="_blank">Granola</a> 
 
 <a href="/results/" class="button f3 ph3 pv1 br3 b">Results</a>
 
