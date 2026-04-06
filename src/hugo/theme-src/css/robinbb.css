@@ -5,16 +5,24 @@
   --accent-highlight: #c9e0f7;
 }
 
+/* Default font for everything */
+body {
+  font-family: "PT Sans Narrow", sans-serif;
+}
+
+/* Exception: site title */
 .audiowide {
   font-family: "Audiowide", sans-serif;
 }
 
-.pt-sans-narrow {
-  font-family: "PT Sans Narrow", sans-serif;
+/* Exception: article body text */
+#default-single-content-wrapper {
+  font-family: "Lora", serif;
 }
 
-.roboto-mono {
-  font-family: "Roboto Mono", monospace;
+#default-single-content-wrapper h2,
+#default-single-content-wrapper h3 {
+  font-family: "PT Sans Narrow", sans-serif;
 }
 
 code {
@@ -43,21 +51,11 @@ a:hover, .nested-links a:hover {
 a.button {
   color: white;
   background-color: var(--accent);
-  font-family: "PT Sans Narrow", sans-serif;
 }
 
 /* Social icon hover */
 .xdotcom:hover, .instagram:hover, .github:hover, .linkedin:hover, .email:hover {
   color: var(--accent-highlight);
-}
-
-.nested-copy-line-height {
-  font-family: "Lora", serif;
-}
-
-.nested-copy-line-height h2,
-.nested-copy-line-height h3 {
-  font-family: "PT Sans Narrow", sans-serif;
 }
 
 #default-single-content-wrapper p:first-child {
