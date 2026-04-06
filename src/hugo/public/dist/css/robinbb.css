@@ -167,13 +167,17 @@ code {
 }
 
 a, .nested-links a {
-  color: white;
+  color: #b3d1ef;
   text-decoration: none;
   font-weight: bold;
 }
 
 .granola-dark {
-  background-color: #242934;
+  background-color: #291f14;
+}
+
+.granola-text {
+  color: #efd1b3;
 }
 
 a:hover, .nested-links a:hover {
