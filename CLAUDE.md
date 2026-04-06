@@ -9,7 +9,7 @@ website at https://robinbb.com. It is a Hugo static site deployed to Netlify.
 
 - **Hugo** static site generator (TOML config)
 - **Netlify** for hosting and deployment
-- **Nix** dev environment (`shell.nix` provides `hugo` and `netlify-cli`)
+- **Nix flake** dev environment (`flake.nix` provides `hugo` and `netlify-cli`)
 
 ## Repository Layout
 
@@ -23,7 +23,7 @@ src/hugo/           Hugo project root
 build               Shell script: builds theme then runs Hugo
 deploy              Shell script: runs `netlify deploy --prod`
 netlify.toml        Netlify build and redirect config
-shell.nix           Nix development environment
+flake.nix           Nix flake development environment
 ```
 
 ## Building
