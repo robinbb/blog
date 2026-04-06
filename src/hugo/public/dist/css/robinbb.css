@@ -183,18 +183,25 @@ a, .nested-links a {
 a:hover, .nested-links a:hover {
   color: white;
   text-decoration: underline;
-  text-decoration-color: #EDA13A;
-  -webkit-text-decoration-color: #EDA13A;
 }
 
 a.button {
   color: white;
-  background-color: #EDA13A;
+  background-color: #b3d1ef;
   font-family: "PT Sans Narrow", sans-serif;
 }
 
 .twitter:hover, .instagram:hover, .github:hover, .gitlab:hover, .linkedin:hover {
-  fill: #EDA13A;
+  fill: #b3d1ef;
+}
+
+.nested-copy-line-height {
+  font-family: "Lora", serif;
+}
+
+.nested-copy-line-height h2,
+.nested-copy-line-height h3 {
+  font-family: "PT Sans Narrow", sans-serif;
 }
 
 #default-single-content-wrapper p:first-child {

@@ -24,7 +24,7 @@ tags:
      alt="[Profile photo for Robin Bate Boerop]"
      class="dtc br2"
      style="max-height: 600px;"
-     src="/images/robinbb-profile-photo-bw.jpeg"
+     src="/images/robinbb-profile-color.jpeg"
      >
   </div>
   <div
