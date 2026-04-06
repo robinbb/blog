@@ -38,7 +38,7 @@ goes to `src/hugo/public/`.
 ## Development Workflow
 
 - **Trunk-based development**: no branches, just commits on `main`.
-- Netlify auto-deploys from `main` (production) and from deploy previews.
+- Netlify does **not** auto-deploy. After pushing, run `./deploy` to deploy.
 
 ## Git Commits
 
