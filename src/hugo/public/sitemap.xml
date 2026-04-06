@@ -183,11 +183,6 @@
   </url>
   
   <url>
-    <loc>https://robinbb.com/daily/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://robinbb.com/tags/decision-making/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url>
@@ -348,11 +343,6 @@
   </url>
   
   <url>
-    <loc>https://robinbb.com/workout/</loc>
-    <lastmod>2012-06-23T16:44:36-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://robinbb.com/tags/book/</loc>
   </url>
   
@@ -377,6 +367,10 @@
   </url>
   
   <url>
+    <loc>https://robinbb.com/daily/</loc>
+  </url>
+  
+  <url>
     <loc>https://robinbb.com/tags/fractional-cto/</loc>
   </url>
   
@@ -397,11 +391,11 @@
   </url>
   
   <url>
-    <loc>https://robinbb.com/tags/results/</loc>
+    <loc>https://robinbb.com/results/</loc>
   </url>
   
   <url>
-    <loc>https://robinbb.com/results/</loc>
+    <loc>https://robinbb.com/tags/results/</loc>
   </url>
   
   <url>
@@ -458,6 +452,10 @@
   
   <url>
     <loc>https://robinbb.com/tags/virtual-cto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robinbb.com/workout/</loc>
   </url>
   
 </urlset>
