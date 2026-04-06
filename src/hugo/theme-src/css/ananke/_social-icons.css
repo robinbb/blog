@@ -1,4 +1,4 @@
-.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
+.facebook, .xdotcom, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
   fill: #BABABA;
 }
 
@@ -15,7 +15,7 @@
   fill: #3b5998;
 }
 
-.twitter:hover {
+.xdotcom:hover {
   fill: #1da1f2;
 }
 

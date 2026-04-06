@@ -62,7 +62,7 @@ pre {
 }
 
 /* _social_icons.css */
-.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
+.facebook, .xdotcom, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
   fill: #BABABA;
 }
 
@@ -79,7 +79,7 @@ pre {
   fill: #3b5998;
 }
 
-.twitter:hover {
+.xdotcom:hover {
   fill: #1da1f2;
 }
 
@@ -150,6 +150,11 @@ pre {
 /* robinbb.css */
 /* robinbb.css */
 
+:root {
+  --accent: #b3d1ef;
+  --accent-highlight: #c9e0f7;
+}
+
 .audiowide {
   font-family: "Audiowide", sans-serif;
 }
@@ -167,7 +172,7 @@ code {
 }
 
 a, .nested-links a {
-  color: #b3d1ef;
+  color: var(--accent);
   text-decoration: none;
   font-weight: bold;
 }
@@ -181,18 +186,19 @@ a, .nested-links a {
 }
 
 a:hover, .nested-links a:hover {
-  color: white;
+  color: var(--accent-highlight);
   text-decoration: underline;
 }
 
 a.button {
   color: white;
-  background-color: #b3d1ef;
+  background-color: var(--accent);
   font-family: "PT Sans Narrow", sans-serif;
 }
 
-.twitter:hover, .instagram:hover, .github:hover, .gitlab:hover, .linkedin:hover {
-  fill: #b3d1ef;
+/* Social icon hover */
+.xdotcom:hover, .instagram:hover, .github:hover, .linkedin:hover, .email:hover {
+  color: var(--accent-highlight);
 }
 
 .nested-copy-line-height {
