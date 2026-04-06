@@ -185,11 +185,11 @@ a, .nested-links a {
   font-weight: bold;
 }
 
-.granola-dark {
+.robinbb-dark {
   background-color: #291f14;
 }
 
-.granola-text {
+.robinbb-text {
   color: #efd1b3;
 }
 
@@ -208,11 +208,15 @@ a.button {
   color: var(--accent-highlight);
 }
 
-#default-single-content-wrapper p:first-child {
-  margin-top: 0;
+#default-single-content-wrapper ul {
+  padding-left: 0.8em;
 }
 
-ul {
-  padding-left: 1em;
+#default-single-content-wrapper img {
+  width: auto;
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  border-radius: 0.5em;
 }
 

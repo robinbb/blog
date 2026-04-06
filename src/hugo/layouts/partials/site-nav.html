@@ -17,7 +17,7 @@
      id="site-nav-i18nlist"
      class="red"
      >{{/* partial "i18nlist.html" . */}}</div>
-    {{ if (and (not (eq .Site.Home.RelPermalink .RelPermalink)) .Site.Menus.main) }}
+    {{ if .Site.Menus.main }}
     <ul
      class="nested-list-reset pa0"
      >{{ range .Site.Menus.main }}

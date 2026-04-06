@@ -3,7 +3,7 @@ title: "Robin Bate Boerop - Interim CTO"
 description: >-
   Robin Bate Boerop - Interim CTO. I make winning software teams.
 draft: false
-type: landing-page
+type: page
 tags:
 - CTO for hire
 - interim CTO
@@ -14,35 +14,7 @@ tags:
 - fractional CTO
 ---
 
-<div
- id="main-flex-container"
- class="flex-l pa3 mw8 center"
- ><div
-   id="image-container"
-   class="w-50-l flex justify-center justify-end-l mr3-l"
-   ><img
-     id="image-robinbb-profile"
-     alt="[Profile photo for Robin Bate Boerop]"
-     class="dtc br2"
-     style="max-height: 600px;"
-     src="/images/robinbb-profile-color.jpeg"
-     >
-  </div>
-  <div
-   id="text-container"
-   class="w-50-l mw7 pb2"
-   ><header
-     id="about-header"
-     class="mt3 mt0-l"
-     ><h1
-       class="f1 lh-title mt0 mb1"
-       >Robin Bate Boerop</h1>
-      <h2 class="mt0">Interim CTO</h2>
-    </header>
-    <div
-     id="default-single-content-wrapper"
-     class="nested-copy-line-height lh-copy f4 nested-links nested-img"
-     >
+![RBB](/images/robinbb-profile-color.jpeg)
 
 I make winning teams with hands-on software development leadership.
 
@@ -64,14 +36,9 @@ I am a technology visionary who gives crucial insight to business strategy.
 
 - 25 years of professional experience
 - Silicon Valley veteran
-- Specialize in DevOps, SRE, cloud ops, and platform engineering
+- Specialize in DevOps, SRE, cloud ops, functional programming, and platform
+  engineering
 - SaaS startup co-founder
   (<a href="/blog/userevents-acquisition/" target="_blank" alt="Userevents acquisition">acquired</a> 2014)
-- Community leader of
-  <a href="https://granola.team" target="_blank" alt="Granola Systems">Granola</a>
 
 <a href="/results/" class="button f3 ph3 pv1 br3 b">See Results</a>
-
-</div>
-</div>
-</div>

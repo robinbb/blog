@@ -1,9 +1,9 @@
 ---
-title: "Software Team Leadership Book"
+title: "Software Team Leadership"
 description: >-
   Robin Bate Boerop's book: Software Team Leadership.
 draft: false
-type: landing-page
+type: page
 tags:
 - software
 - team
@@ -13,44 +13,10 @@ tags:
 - consultant
 ---
 
-<div
- id="main-flex-container"
- class="flex-l pa3 mw8 center"
- ><div
-   id="image-container"
-   class="w-50-l flex justify-center justify-end-l mr3-l"
-   ><img
-     id="image-robinbb-profile"
-     alt="[Profile photo for Robin Bate Boerop]"
-     class="dtc br2"
-     style="max-height: 600px;"
-     src="/images/robinbb-profile-color.jpeg"
-     >
-  </div>
-  <div
-   id="text-container"
-   class="w-50-l mw7 pb2"
-   ><header
-     id="stl-book-header"
-     class="bt mt3 mt0-l"
-     ><h1
-       id="st-book-title"
-       class="f1 lh-title mt0 mb1"
-       >Software Team Leadership</h1>
-    </header>
-    <div
-     id="default-single-content-wrapper"
-     class="nested-copy-line-height lh-copy f4 nested-links nested-img"
-     >
+![RBB](/images/robinbb-profile-color.jpeg)
 
 By [Robin Bate Boerop](/about/).
 
 This is the title of my
 [forthcoming book](https://leanpub.com/softwareteamleadership) that teaches how
 to make winning software teams by providing hands-on engineering leadership.
-
-<a href="/about/" class="button f3 ph3 pv1 br3 b">About Robin</a>
-
-</div>
-</div>
-</div>

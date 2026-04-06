@@ -16,7 +16,3 @@
   to = "/contact"
   status = 302
 
-[[redirects]]
-  from = "/"
-  to = "/about"
-  status = 302

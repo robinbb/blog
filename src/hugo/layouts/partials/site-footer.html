@@ -1,7 +1,7 @@
 <footer
  class="{{ .Site.Params.background_color_class }} bottom-0 w-100 pa3 mt4"
  role="contentinfo"
- >{{ if (and (not (eq .Site.Home.RelPermalink .RelPermalink)) .Site.Menus.main) }}
+ >{{ if .Site.Menus.main }}
   <div
    id="site-footer-social-follow"
    class="w-100 pv3 tc"
