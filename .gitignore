@@ -7,3 +7,6 @@
 
 # MacOS droppings
 .DS_Store
+
+# Direnv cache
+/.direnv/
