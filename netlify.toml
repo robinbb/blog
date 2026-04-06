@@ -1,9 +1,9 @@
 # netlify.toml
 
 [build]
-  base = "src/"
+  base = "./src/"
   command = "echo context: $HUGO_ENV && ../build"
-  publish = "src/hugo/public/"
+  publish = "./src/hugo/public/"
 
 [context.production]
   environment = { HUGO_ENV = "production" }
