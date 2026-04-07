@@ -4,4 +4,4 @@ set -eu
 
 MY_DIR="$(CDPATH='' cd "$(dirname "$0")" && pwd)"
 cd "$MY_DIR"/src/hugo
-hugo server --disableFastRender "$@"
+hugo server --bind 0.0.0.0 --disableFastRender "$@"

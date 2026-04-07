@@ -1,35 +1,9 @@
 <nav
  id="site-nav"
- class="pa3 pb4"
+ class="pa3 pb4 tc"
  role="navigation"
- ><div
-   id="site-nav-div"
-   class="flex flex-column flex-row-ns justify-between bb"
-   ><div
-     id="site-nav-logo"
-     class=""
-     ><a
-       href="{{ .Site.Home.RelPermalink }}"
-       class="audiowide f1"
-       >{{ .Site.Title }}</a>
-    </div>
-    <div
-     id="site-nav-i18nlist"
-     class="red"
-     >{{/* partial "i18nlist.html" . */}}</div>
-    {{ if .Site.Menus.main }}
-    <ul
-     class="nested-list-reset pa0"
-     >{{ range .Site.Menus.main }}
-      <li
-       class="di pr3 pr0-ns pl0 pl3-ns"
-       ><a
-         class="f3"
-         href="{{ .URL }}"
-         title="{{ .Name }}"
-         >{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
-    {{ end }}
-  </div>
+ ><a
+   href="{{ .Site.Home.RelPermalink }}"
+   class="audiowide f2 f1-ns site-title"
+   >{{ .Site.Title }}</a>
 </nav>
