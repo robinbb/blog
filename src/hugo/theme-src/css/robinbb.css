@@ -5,9 +5,11 @@
   --accent-highlight: #c9e0f7;
 }
 
-/* Default font for everything */
+/* Default styles */
 body {
   font-family: "PT Sans Narrow", sans-serif;
+  background-color: #291f14;
+  color: #efd1b3;
 }
 
 /* Exception: site title */
@@ -29,6 +31,7 @@ a.site-title:hover {
 #default-single-content-wrapper h2,
 #default-single-content-wrapper h3 {
   font-family: "PT Sans Narrow", sans-serif;
+  text-align: center;
 }
 
 code {
@@ -41,27 +44,9 @@ a, .nested-links a {
   font-weight: bold;
 }
 
-.robinbb-dark {
-  background-color: #291f14;
-}
-
-.robinbb-text {
-  color: #efd1b3;
-}
-
 a:hover, .nested-links a:hover {
   color: var(--accent-highlight);
   text-decoration: underline;
-}
-
-a.button {
-  color: white;
-  background-color: var(--accent);
-}
-
-/* Social icon hover */
-.xdotcom:hover, .instagram:hover, .github:hover, .linkedin:hover, .email:hover {
-  color: var(--accent-highlight);
 }
 
 #default-single-content-wrapper ul {

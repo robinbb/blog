@@ -12,9 +12,9 @@ tags:
 - DevOps
 ---
 
-![RBB](/images/robinbb-profile-color.jpeg)
-
 ## Software Team Leadership Consultant
+
+![RBB](/images/robinbb-profile-color.jpeg)
 
 My life's mission is to show the world a better way to make software.
 

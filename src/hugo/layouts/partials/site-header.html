@@ -3,6 +3,6 @@
  ><div
    id="site-header-nav-wrapper"
    class="pb0 {{ .Site.Params.background_color_class }}"
-   >{{ partial "site-nav.html" . }}
+   >{{ if not .IsHome }}{{ partial "site-nav.html" . }}{{ else }}<div class="pa3 pb4 tc"><span class="f2">&nbsp;</span></div>{{ end }}
   </div>
 </header>

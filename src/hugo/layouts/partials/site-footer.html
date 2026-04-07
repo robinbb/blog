@@ -1,12 +1,10 @@
 <footer
  class="{{ .Site.Params.background_color_class }} bottom-0 w-100 pa3 mt4"
  role="contentinfo"
- >{{ if .Site.Menus.main }}
-  <div
+ ><div
    id="site-footer-social-follow"
    class="w-100 pv3 tc"
    >{{ partial "social-follow.html" . }}</div>
-  {{ end }}
   {{ with .Site.Copyright }}
   <div class="f6 tc pt3" >{{.}}</div>{{ end }}
 </footer>

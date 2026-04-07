@@ -41,4 +41,4 @@ I am a technology visionary who gives crucial insight to business strategy.
 - SaaS startup co-founder
   (<a href="/blog/userevents-acquisition/" target="_blank" alt="Userevents acquisition">acquired</a> 2014)
 
-<a href="/results/" class="button f3 ph3 pv1 br3 b">See Results</a>
+[See Results →](/results/)
